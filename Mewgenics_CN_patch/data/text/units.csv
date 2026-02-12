@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 PLAYER_CAT_NAME,{Catname},,{Catname},{Catname},{Catname},{Catname},{Catname},猫咪
 PLAYER_CAT_NAME_M,,,,,,,,
 PLAYER_CAT_NAME_F,,,,,,,,
@@ -21,19 +21,19 @@ PLAYER_FLESHGOLEM_NAME,Flesh Golem,,Gólem carnoso,Golem de chair,Fleischgolem,G
 ENEMY_FLY_NAME,Fly,,Mosca,Mouche,Fliege,Mosca,Mosca,飞行
 ENEMY_FLY_DESC,"Melee attacker.
 Flying.",,"Atacante cuerpo a cuerpo.
-Vuela.","Attaque au corps à corps.
+Vuela.","Attaque au corps-à-corps.
 Vol.","Nahkämpfer.
 Fliegt.","Specialista del corpo a corpo.
 Volante.",Agressor corpo-a-corpo,"近战攻击者。
 飞行。"
 ENEMY_MAGGOT_NAME,Maggot,,Gusano,Asticot,Made,Larva,Verme,蛆虫
-ENEMY_MAGGOT_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps à corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo,近战攻击者。
+ENEMY_MAGGOT_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps-à-corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo,近战攻击者。
 ENEMY_FLEA_NAME,Flea,,Pulga,Puce,Floh,Pulce,Pulga,跳蚤
-ENEMY_FLEA_DESC,Its melee attack damages itself.,,Se autoinflige daño con su propio ataque cuerpo a cuerpo.,Son attaque au corps à corps lui inflige des dégâts.,Fügt sich durch Nahkampfangriffe selbst Schaden zu.,Il suo attacco corpo a corpo le si ritorce contro.,Seu ataque corpo-a-corpo causa dano contra si mesma.,它的近战攻击会伤害自身。
+ENEMY_FLEA_DESC,Its melee attack damages itself.,,Se autoinflige daño con su propio ataque cuerpo a cuerpo.,Son attaque au corps-à-corps lui inflige des dégâts.,Fügt sich durch Nahkampfangriffe selbst Schaden zu.,Il suo attacco corpo a corpo le si ritorce contro.,Seu ataque corpo-a-corpo causa dano contra si mesma.,它的近战攻击会伤害自身。
 ENEMY_PINKY_NAME,Pinky,,Rosita,Auriculaire,Pinky,Topo Pinky,Mindinho,粉红
 ENEMY_PINKY_DESC,"Melee attacker.
 Moves randomly.",,"Atacante cuerpo a cuerpo.
-Se mueve al azar.","Attaque au corps à corps.
+Se mueve al azar.","Attaque au corps-à-corps.
 Déplacements aléatoires.","Nahkämpfer.
 Bewegt sich zufällig.","Specialista del corpo a corpo.
 Si muove in maniera casuale.","Agressor corpo-a-corpo.
@@ -41,8 +41,8 @@ Move-se aleatoriamente.","近战攻击者。
 随机移动。"
 ENEMY_MEATMINION_NAME,Meat Minion,,Secuaz carnoso,Larbin de chair,Fleischdiener,Carne da macello,Servo de Carne,肉爪牙
 ENEMY_MEATMINION_DESC,,,,,,,,
-ENEMY_DIP_NAME,Dip,,Catalino,Caca,Köttel,Cacchina,Dip,蘸水
-ENEMY_DIP_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps à corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo,近战攻击者。
+ENEMY_DIP_NAME,Dip,,Catalino,Caca,Köttel,Cacchina,Caquinha,蘸水
+ENEMY_DIP_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps-à-corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo,近战攻击者。
 ENEMY_RATTLESNEK_NAME,Rattlesnek,,Cascabela,Serpent à sonnette,Klapperschlange,Serpentello a Sonagli,Cascavel,响尾蛇
 ENEMY_RATTLESNEK_DESC,"Ambushes enemies who walk past it.
 Its attacks inflict Poison.",,"Ataca por sorpresa a los enemigos que pasan por su lado.
@@ -54,16 +54,16 @@ Seus ataques aplicam Veneno.","伏击路过的敌人。
 其攻击会造成中毒。"
 ENEMY_SPIDERLING_NAME,Spiderling,,Arañita,Jeune araignée,Spinnenling,Ragnetto,Aranhinha,蜘蛛幼崽
 ENEMY_SPIDERLING_DESC,"Burrows inside its victims, inflicting Infested.",,Se mete en el interior de las víctimas y les inflige infestación.,"S'enfouit à l'intérieur de ses victimes, infligeant Infestation.",Frisst sich in seine Opfer und infiziert sie.,"Si rintana all'interno delle sue vittime, infliggendo Infestato.","Esconde-se dentro de suas vítimas, aplicando Infestação.",钻入受害者体内，造成感染。
-ENEMY_WISP_NAME,Wisp,,Avispa,Feu follet,Irrlicht,Fuoco Fatuo,Fátuo,幽光精灵
+ENEMY_WISP_NAME,Wisp,,Avispa,Feu follet,Irrlicht,Fuoco Fatuo,Fogo-Fátuo,幽光精灵
 ENEMY_WISP_DESC,"Its melee attack inflicts Burn.
 Dodges one attack per turn.",,"Su ataque cuerpo a cuerpo inflige quemadura.
-Esquiva un ataque por turno.","Ses attaques au corps à corps infligent Brûlure.
+Esquiva un ataque por turno.","Ses attaques au corps-à-corps infligent Brûlure.
 Esquive une attaque par tour.","Sein Nahkampfangriff verursacht Verbrennung.
 Weicht einem Angriff pro Zug aus.","Il suo attacco corpo a corpo infligge Bruciatura.
 Schiva un attacco a ogni turno.","Seus ataques corpo-a-corpo causam queimadura.
 Esquiva-se de um ataque por turno.","其近战攻击会造成灼烧。
 每回合闪避一次攻击。"
-ENEMY_MOONWORM_NAME,Moon Worm,,Lombriz lunar,Ver sélénien,Mondwurm,Verme Lunare,Minhoca Lunar,月虫
+ENEMY_MOONWORM_NAME,Moon Worm,,Lombriz lunar,Ver sélénien,Mondwurm,Verme Lunare,Verme Lunar,月虫
 ENEMY_MOONWORM_DESC,"Lobs shots at all of its enemies within range.
 Gains +1 Brace when damaged.",,"Dispara en arco a todos los enemigos que tiene al alcance.
 Obtiene +1 de refuerzo al sufrir daño.","Lance des projectiles sur tous ses ennemis à portée.
@@ -74,21 +74,21 @@ Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击
 受到伤害时获得 +1 护体值。
 "
 ENEMY_INVADER_NAME,Schpidenbot,spiderbot (see the note about robot nazi enemies elsewhere),Schpidenbot,Schpidenbot,Spinnenbot,Roboragnen,Schpidenbot,施皮登机器人
-ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps à corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
+ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps-à-corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
 ENEMY_TINYTUMOR_NAME,Tiny Tumor,,Minitumor,Petite tumeur,Winziger Tumor,Piccolo Tumore,Tumor Minúsculo,微型肿瘤
-ENEMY_TINYTUMOR_DESC,Its melee attack causes cats it hits to lose 1 [img:con] permanently and has a chance to give them cancer.,,Su ataque cuerpo a cuerpo hace que los gatos pierdan 1 [img:con] para siempre y puede provocarles cáncer.,Son attaque au corps à corps fait perdre définitivement 1&nbsp;[img:con] aux chats qu'elle touche et a une chance de leur donner le cancer.,Seine Nahkampfangriffe auf Katzen verringern ihre [img:con] dauerhaft um 1 und kann Krebs verursachen.,"Il suo attacco corpo a corpo fa perdere permanentemente 1 alla [img:con] dei gatti che colpisce, e ha la possibilità di infliggere Cancro.",Seu ataque corpo-a-corpo faz com que gatos atingidos percam 1 de [img:con] permanentemente e possui uma chance de aplicar câncer.,"其近战攻击使被击中的猫永久失去 1 [img:con]，
+ENEMY_TINYTUMOR_DESC,Its melee attack causes cats it hits to lose 1 [img:con] permanently and has a chance to give them cancer.,,Su ataque cuerpo a cuerpo hace que los gatos pierdan 1 [img:con] para siempre y puede provocarles cáncer.,Son attaque au corps-à-corps fait perdre définitivement 1&nbsp;[img:con] aux chats qu'elle touche et a une chance de leur donner le cancer.,Seine Nahkampfangriffe auf Katzen verringern ihre [img:con] dauerhaft um 1 und kann Krebs verursachen.,"Il suo attacco corpo a corpo fa perdere permanentemente 1 alla [img:con] dei gatti che colpisce, e ha la possibilità di infliggere Cancro.",Seu ataque corpo-a-corpo faz com que gatos atingidos percam 1 de [img:con] permanentemente e possui uma chance de aplicar câncer.,"其近战攻击使被击中的猫永久失去 1 [img:con]，
 
 并有几率导致癌症。"
 ENEMY_CLOT_NAME,Clot,,Coágulo,Caillot,Blutgerinnsel,Grumo,Coágulo,血块
 ENEMY_CLOT_DESC,Has a chance to become a Stem Cat at the end of its turn.,,Puede transformarse en citogato al final del turno.,A une chance de se changer en chat écorché à la fin de son tour.,Wird mit einer gewissen Wahrscheinlichkeit am Ende seines Zuges zu einer Stammkatze.,Ha la possibilità di diventare un Gatto Staminale alla fine del suo turno.,Possui uma chance de se tornar um gato-tronco no final de seu turno.,回合结束时有几率变成茎猫。
 ENEMY_FRANKSBEAN_NAME,Frank's Bean,,Alubia de Frank,Haricot de Frank,Franks Bohne,Fagiolo di Frank,Feijão de Frank,弗兰克的豆豆
 ENEMY_LOUSE_NAME,Louse,,Piojo,Pou,Laus,Pidocchio,Piolho,虱子
-ENEMY_LOUSE_DESC,Its melee attacks inflict Bruise.,,Su ataque cuerpo a cuerpo inflige moratón.,Son attaque au corps à corps inflige Contusion.,Ihr Nahkampfangriff verursacht Beulen.,Il suo attacco corpo a corpo infligge Livido.,Seu ataque corpo-a-corpo aplica contusão.,其近战攻击会造成淤伤。
+ENEMY_LOUSE_DESC,Its melee attacks inflict Bruise.,,Su ataque cuerpo a cuerpo inflige moratón.,Son attaque au corps-à-corps inflige Contusion.,Ihr Nahkampfangriff verursacht Beulen.,Il suo attacco corpo a corpo infligge Livido.,Seu ataque corpo-a-corpo aplica contusão.,其近战攻击会造成淤伤。
 ENEMY_LILRAT_NAME,Lil' Rat,,Ratilla,Raton,Rattenfratz,Topolino,Ratinho,小老鼠
 ENEMY_LILRAT_DESC,Dashes in a straight line.,,Corre en línea recta.,Fonce en ligne droite.,Stürmt in einer geraden Linie auf Gegner.,Scatta in linea retta.,Dá um impulso em linha reta.,直线冲刺。
 ENEMY_POOTER_NAME,Pooter,,Moscón,Mouche cracheuse,Pupser,Puzzone,Pooter,屁屁鼠
 ENEMY_POOTER_DESC,Ranged attacker. Flying.,,Atacante a distancia. Vuela.,Attaque à distance. Vol.,Fernkämpfer. Fliegt.,Specialista degli attacchi a distanza. Volante.,Ataque à distância. Voador.,远程攻击者。会飞行。
-ENEMY_WORM_NAME,Worm,,Lombriz,Ver,Wurm,Verme,Minhoca,虫子
+ENEMY_WORM_NAME,Worm,,Lombriz,Ver,Wurm,Verme,Verme,虫子
 ENEMY_WORM_DESC,Moves away when damaged.,,Se aleja al sufrir daño.,Recule quand il est touché.,"Bewegt sich weg, wenn er Schaden erleidet.",Si allontana quando subisce danno.,Afasta-se quando sofre dano.,受到伤害时会后退。
 ENEMY_MADLAD_NAME,Mad Lad,,Demente,Zinzolin,Verrückter Kerl,Pazzoide,Pirado,疯狂小子
 ENEMY_MADLAD_DESC,,,,,,,,
@@ -104,7 +104,7 @@ ENEMY_BLORB_DESC,Its ranged attack inflicts Slow in an area.,,Su ataque a distan
 ENEMY_FLORB_NAME,Florb,,Florb,Excroissance flottante,Florb,Flobbo,Florb,弗洛布
 ENEMY_FLORB_DESC,Its ranged attack inflicts Slow. Flying.,,Su ataque a distancia inflige ralentización. Vuela.,Son attaque à distance inflige Lenteur. Vol.,Sein Fernkampfangriff verursacht Verlangsamung. Fliegt.,Il suo attacco a distanza infligge Rallentamento. Volante.,Sem ataque à distância aplica lentidão. Voador.,它的远程攻击施加减速。会飞。
 ENEMY_LUMPY_NAME,Lumpy,,Amorfo,Ratatouille,Schleimi,Amorfo,Protuberante,隆起者
-ENEMY_LUMPY_DESC,Its ranged attack creates Creep. Spawns Creep when damaged.,,Su ataque a distancia crea líquido tóxico. También lo genera al sufrir daño.,Son attaque à distance disperse de la bave toxique. De la bave toxique apparaît quand il subit des dégâts.,"Sein Fernkampfangriff erschafft Ekelschleim. Erschafft Ekelschleim, wenn er Schaden erleidet.",Il suo attacco a distanza crea Melma. Genera melma quando subisce danno.,Seu ataque à distância gera videiras. Gera videiras ao sofrer dano.,"它的远程攻击制造爬行物。
+ENEMY_LUMPY_DESC,Its ranged attack creates Creep. Spawns Creep when damaged.,,Su ataque a distancia crea líquido tóxico. También lo genera al sufrir daño.,Son attaque à distance disperse de la bave toxique. De la bave toxique apparaît quand il subit des dégâts.,"Sein Fernkampfangriff erschafft Ekelschleim. Erschafft Ekelschleim, wenn er Schaden erleidet.",Il suo attacco a distanza crea Melma. Genera melma quando subisce danno.,Seu ataque à distância gera gosma. Gera gosma ao sofrer dano.,"它的远程攻击制造爬行物。
 受伤时生成爬行物。"
 ENEMY_LEAPER_NAME,Leaper,,Saltarino,Bondisseur,Springer,Salterino,Saltador,跳跃者
 ENEMY_LEAPER_DESC,Its leap attack damages and knocks back all adjacent units.,,Su ataque con salto inflige daño a todas las unidades adyacentes y las hace retroceder.,Son attaque sautée inflige des dégâts et repousse les unités adjacentes.,Sein Sprungangriff verursacht Schaden bei allen benachbarten Einheiten und stößt sie zurück.,Il suo attacco in balzo infligge danno e respinge tutte le unità adiacenti.,Seu ataque de salto causa dano e empurra para trás todas as unidades adjacentes.,"它的跳跃攻击对所有相邻单位造成伤害并击退。
@@ -117,7 +117,7 @@ ENEMY_BURFERMAGGOT_DESC,Its attack surrounds units with Thorny lumps.,,Su ataque
 ENEMY_CHARGEYMAGGOT_NAME,Chargey Maggot,,Gusano embestidor,Asticot bélier,Stürmermade,Larva da Carica,Verme Atacante,冲刺蛆虫
 ENEMY_CHARGEYMAGGOT_DESC,Its dash attack has trample.,,Su ataque relámpago inflige pisotón.,Son attaque impulsée inflige Piétinement.,Ihr Ansturmangriff verfügt über Trampel.,Il suo attacco in scatto infligge Calpestamento.,Seu ataque de impulso possui atropelamento.,它的冲刺攻击具有践踏效果。
 ENEMY_DIGGYMAGGOT_NAME,Diggy Maggot,,Gusano cavador,Asticot fouisseur,Gräbermade,Larva Scavatrice,Verme Escavador,挖掘蛆虫
-ENEMY_DIGGYMAGGOT_DESC,Its melee attack has a chance to Stun. Swaps places with a unit to move.,,Su ataque cuerpo a cuerpo puede aturdir. Se cambia el sitio con otra unidad para moverse.,Son attaque au corps à corps a des chances d'infliger Étourdissement. Échange sa place avec une unité pour se déplacer.,"Ihr Nahkampfangriff kann betäuben. Tauscht die Position mit einer anderen Einheit, um sich fortzubewegen.",Il suo attacco corpo a corpo ha una probabilità di infliggere Stordimento. Per muoversi si scambia di posto con un'altra unità.,Seu ataque corpo-a-corpo possui uma chance de atordoar. Troca de lugar com uma unidade para se mover.,"它的近战攻击有几率眩晕。
+ENEMY_DIGGYMAGGOT_DESC,Its melee attack has a chance to Stun. Swaps places with a unit to move.,,Su ataque cuerpo a cuerpo puede aturdir. Se cambia el sitio con otra unidad para moverse.,Son attaque au corps-à-corps a des chances d'infliger Étourdissement. Échange sa place avec une unité pour se déplacer.,"Ihr Nahkampfangriff kann betäuben. Tauscht die Position mit einer anderen Einheit, um sich fortzubewegen.",Il suo attacco corpo a corpo ha una probabilità di infliggere Stordimento. Per muoversi si scambia di posto con un'altra unità.,Seu ataque corpo-a-corpo possui uma chance de atordoar. Troca de lugar com uma unidade para se mover.,"它的近战攻击有几率眩晕。
 与单位交换位置以移动。"
 ENEMY_TARBABY_NAME,Tar Baby,,Bebé brea,Goudronet,Teerbaby,Bebè di Catrame,Bebê Piche,焦油娃娃
 ENEMY_TARBABY_DESC,"Its ranged attack creates Tar tiles.
@@ -152,10 +152,10 @@ Fixo.","发射3枚散射弹。
 反射弹幕并击退接触的单位。
 固定不动。"
 ENEMY_PILE_NAME,Pile,,Mojón,Étron,Haufen,Pila,Pilha,堆积物
-ENEMY_PILE_DESC,Its ranged attack spawns Dips. Stationary.,,Su ataque a distancia genera catalinos. No se mueve.,Son attaque à distance fait apparaître des cacas. Stationnaire.,Sein Fernkampfangriff erzeugt Köttel. Stationär.,Il suo attacco a distanza genera Cacchine. Stazionario.,Seu ataque à distância gera dips. Imóvel.,"它的远程攻击会生成蘸泥物。
+ENEMY_PILE_DESC,Its ranged attack spawns Dips. Stationary.,,Su ataque a distancia genera catalinos. No se mueve.,Son attaque à distance fait apparaître des cacas. Stationnaire.,Sein Fernkampfangriff erzeugt Köttel. Stationär.,Il suo attacco a distanza genera Cacchine. Stazionario.,Seu ataque à distância gera caquinhas. Imóvel.,"它的远程攻击会生成蘸泥物。
 固定不动。"
 ENEMY_FLOATER_NAME,Floater,,Chiribita,Crotte,Würstchen,Galleggiatore,Flutuante,漂浮者
-ENEMY_FLOATER_DESC,Melee attacker that moves away after it deals damage.,,Este atacante cuerpo a cuerpo se aleja tras infligir daño.,Attaque au corps à corps et se replie après avoir infligé des dégâts.,"Nahkämpfer, der sich wegbewegt, nachdem er Schaden verursacht.",Specialista del corpo a corpo che si allontana dopo aver inflitto danno.,Agressor corpo-a-corpo que se afasta após causar dano.,近战攻击者，攻击后会后退。
+ENEMY_FLOATER_DESC,Melee attacker that moves away after it deals damage.,,Este atacante cuerpo a cuerpo se aleja tras infligir daño.,Attaque au corps-à-corps et se replie après avoir infligé des dégâts.,"Nahkämpfer, der sich wegbewegt, nachdem er Schaden verursacht.",Specialista del corpo a corpo che si allontana dopo aver inflitto danno.,Agressor corpo-a-corpo que se afasta após causar dano.,近战攻击者，攻击后会后退。
 ENEMY_WATERLEECH_NAME,Water Leech,,Sanguijuela acuática,Sangsue aquatique,Wasseregel,Sanguisuga Acquatica,Sanguessuga aquática,水蛭
 ENEMY_WATERLEECH_DESC,"Seeks water when its out of water.
 While in water, dashes in a straight line with Lifesteal that passes through units.",,"Cuando no tiene agua, la busca.
@@ -234,7 +234,7 @@ ENEMY_BAT_DESC,"Its melee flurry inflicts Confusion.
 50% Dodge Chance.
 Flying.",,"Su ráfaga cuerpo a cuerpo inflige confusión.
 50 % de probabilidad de esquiva.
-Vuela.","Son déluge de coups au corps à corps inflige Confusion.
+Vuela.","Son déluge de coups au corps-à-corps inflige Confusion.
 Chances d'esquive +50&nbsp;%.
 Vol.","Ihr Nahkampfangriff verursacht Verwirrung.
 50&nbsp;% Ausweichchance.
@@ -296,16 +296,16 @@ Morto-vivo.","它的攻击会对区域内所有单位施加吸血。
 ENEMY_SPOOKIE_NAME,Spookie,,Fantasmito,Trouille,Spuki,Spauracchio,Sustinho,幽灵怪
 ENEMY_SPOOKIE_DESC,"Its melee attack drains mana.
 Undead.",,"Su ataque cuerpo a cuerpo desgasta el maná.
-Muerto viviente.","Son attaque au corps à corps draine le mana.
+Muerto viviente.","Son attaque au corps-à-corps draine le mana.
 Mort-vivant.","Sein Nahkampfangriff saugt Mana ab.
-Untot.","Il suo attacco corpo a corpo assorbe mana.
+Undead.","Il suo attacco corpo a corpo assorbe mana.
 Non morto.","Seu ataque corpo-a-corpo drena mana.
 Morto-vivo.","它的近战攻击会吸取法力值。
 不死族。"
 ENEMY_SCARY_NAME,Scary,,Espantajo,Frayeur,Grusli,Spavento,Assusto,恐怖者
 ENEMY_SCARY_DESC,"Its melee attacks can inflict Fear or Doom!
 Undead.",,"Su ataque cuerpo a cuerpo inflige miedo o condenación.
-Muerto viviente.","Ses attaques au corps à corps peuvent infliger Peur ou Damnation.
+Muerto viviente.","Ses attaques au corps-à-corps peuvent infliger Peur ou Damnation.
 Mort-vivant.","Seine Nahkampfangriffe können Angst oder Todesurteil verursachen!
 Untot.","Il suo attacco corpo a corpo può infliggere Paura o Sciagura!
 Non morto.","Seu ataque corpo-a-corpo aplica medo ou ruína.
@@ -375,12 +375,12 @@ Vergräbt sich, wenn er Schaden erleidet.","Specialista degli attacchi a distanz
 Quando subisce danno si scava una via di fuga.","Agressor corpo-a-corpo.
 Entra na terra ao sofrer dano.","远程攻击者。
 受到伤害时会挖掘逃离。"
-ENEMY_BUTTZOMBIE_NAME,Butt Zombie,,Zombi ojete,Derrière zombie,Backenzombie,Zombie Sedere,Zumbi Traseiro,僵尸屁股
+ENEMY_BUTTZOMBIE_NAME,Butt Zombie,,Zombi ojete,Zombie-fesses,Backenzombie,Zombie Sedere,Zumbi Traseiro,僵尸屁股
 ENEMY_BUTTZOMBIE_DESC,"Will attack all adjacent units with its melee attack when its backside is underground.
 Goes upside down when damaged.
 Undead.",,"Ataca a todas las unidades adyacentes con el ataque cuerpo a cuerpo cuando tiene el pandero bajo tierra.
 Se pone del revés al sufrir daño.
-Muerto viviente.","Attaque toutes les unités adjacentes au corps à corps quand son derrière est sous terre.
+Muerto viviente.","Attaque toutes les unités adjacentes au corps-à-corps quand son derrière est sous terre.
 S'enfouit la tête la première quand il est touché.
 Mort-vivant.","Greift benachbarte Einheiten mit seinem Nahkampfangriff an, wenn sein Hintern in der Erde ist.
 Dreht sich um, wenn er Schaden erleidet.
@@ -435,14 +435,14 @@ Só pode sofrer dano ao receber ataques por trás.","执行跳跃攻击。
 ENEMY_FLYSWARM_NAME,Fly Swarm,,Enjambre de moscas,Essaim de mouches,Fliegenschwarm,Sciame di Mosche,Enxame de Moscas,苍蝇群
 ENEMY_FLYSWARM_DESC,"Performs a melee attack that hits once for each fly.
 Each time it's damaged it loses a fly.",,"Lanza un ataque cuerpo a cuerpo que golpea una vez por mosca.
-Cada vez que sufre daño pierde una mosca.","Effectue une attaque au corps à corps qui frappe une fois par mouche.
+Cada vez que sufre daño pierde una mosca.","Effectue une attaque au corps-à-corps qui frappe une fois par mouche.
 À chaque fois qu'il est touché, il perd une mouche.","Sein Nahkampfangriff trifft einmal pro Fliege.
 Jedes Mal, wenn er Schaden erleidet, stirbt eine Fliege.","Esegue un attacco corpo a corpo che colpisce una volta per ogni mosca.
 Ogni volta che subisce danno, perde una mosca.","Realiza um ataque corpo a corpo que golpeia uma vez para cada mosca.
 A cada vez que sofre dano, perde uma mosca.","执行以苍蝇数量为次数的单次近战攻击。
 
 每次受到伤害损失一只苍蝇。"
-ENEMY_BONEWORM_NAME,Bone Worm,,Lombriz ósea,Ver osseux,Knochenwurm,Verme d'Ossa,Minhoca Óssea,骨虫
+ENEMY_BONEWORM_NAME,Bone Worm,,Lombriz ósea,Ver osseux,Knochenwurm,Verme d'Ossa,Verme Ósseo,骨虫
 ENEMY_BONEWORM_DESC,"Ranged attacker.
 Gains more range the taller it becomes.
 Loses height when it takes damage.
@@ -472,7 +472,7 @@ Morto-vivo.","远程攻击者。
 受到伤害时会变矮。"
 ENEMY_CARCASS_NAME,Carcass,,Cadáver,Carcasse,Kadaver,Carcassa,Carcaça,尸体
 ENEMY_CARCASS_DESC,Spawns random types of Maggots.,,Genera tipos de gusanos al azar.,Invoque des types d'asticots aléatoires.,Lässt zufällige Maden erscheinen.,Genera tipi casuali di Larve.,Gera tipos aleatórios de vermes.,生成随机类型的蛆虫。
-ENEMY_PEASHY_NAME,Peashy,,Vulvita,Piquou,Kakti,Peashy,Peashy,狂暴豌豆
+ENEMY_PEASHY_NAME,Peashy,,Peashy,Piquou,Kakti,Peashy,Peashy,狂暴豌豆
 ENEMY_PEASHY_DESC,"May attack its own allies.
 Blocks damage from the front.
 Becomes enraged when it kills something.","tooltip said ""Madness"" originally but peashy isnt exactly madness, just AI weights that make it like hitting allies if it cant hit anything else","Puede atacar a sus propios aliados.
@@ -513,7 +513,7 @@ ENEMY_CULTIST_NAME,Cultist,,Sectario,Fanatique,Kultist,Cultista,Cultista,狂热�
 ENEMY_CULTISTLACKEY_NAME,Cultist Lackey,,Sectario lacayo,Larbin fanatique,Kultanhänger,Servo Cultista,Lacaio Cultista,狂热教徒爪牙
 ENEMY_CULTISTLACKEY_DESC,"Melee attacker that throws units.
 Becomes a Zealot when it kills something.",,"Este atacante cuerpo a cuerpo lanza unidades por los aires.
-Se transforma en fanático al matar algo.","Attaque au corps à corps et projette les unités.
+Se transforma en fanático al matar algo.","Attaque au corps-à-corps et projette les unités.
 Se change en fanatique zélé quand il tue quelque chose.","Nahkämpfer, der Einheiten wirft.
 Wird zum Fanatiker, wenn er etwas tötet.","Specialista del corpo a corpo che lancia le unità.
 Diventa uno Zelota quando uccide qualcosa.","Agressor corpo-a-corpo que lança unidades.
@@ -573,11 +573,11 @@ Kann von einem Kultisten aufgenommen werden und macht ihn zum Bischof.","Attrae 
 Può essere raccolto da un Cultista che viene promosso a Vescovo.",Atrai cultistas...,"吸引邪教徒。
 可以被邪教徒拾取以晋升为主教。
 "
-ENEMY_LOVEBOT_NAME,Love Bot,,Caribot,Robot charnel,Liebesbot,Bot dell'Amore,Robô do Amor,爱情机器人
+ENEMY_LOVEBOT_NAME,Love Bot,,Caribot,Robot charnel,Liebesbot,Bot dell'Amore,Bot Amoroso,爱情机器人
 ENEMY_LOVEBOT_DESC,Heals and gives +1 [img:spd] to its allies. Its heal can grant an extra turn if healed over max.,,Cura a sus aliados y les otorga +1 [img:spd]. Puede garantizar un turno extra si cura por encima del máximo.,Soigne ses alliés et leur confère [img:spd] +1. Sa guérison peut offrir un tour bonus si elle dépasse les PV max.,Heilt seine Verbündeten und verleiht ihnen +1&nbsp;[img:spd]. Überschüssige Heilung verleiht einen zusätzlichen Zug.,Cura e fornisce +1 alla [img:spd] dei suoi alleati. Può garantire un turno aggiuntivo se con le sue cure si supera la salute massima.,Cura e concede +1 de [img:spd] para seus aliados. Sua cura pode conceder um turno extra se ultrapassar a saúde máxima.,"治疗并给予其盟友+1 [img:spd]。
 治疗超过最大值时可额外获得一次行动。
 "
-ENEMY_SECURITYBOT_NAME,Security Bot,,Seguribot,Robot vigile,Sicherheitsbot,Bot di sicurezza,Robô de Segurança,安全机器人
+ENEMY_SECURITYBOT_NAME,Security Bot,,Seguribot,Robot vigile,Sicherheitsbot,Bot di sicurezza,Bot de Segurança,安全机器人
 ENEMY_SECURITYBOT_DESC,"When its allies are damaged, it will move towards the attacker and attempt to attack it.
 Gains +1 movement range at the end of its turn.",,"Cuando sus aliados sufren daño, se mueve hacia el agresor para atacarlo.
 Obtiene +1 de alcance del movimiento al final del turno.","Quand ses alliés subissent des dégâts, il se déplace en direction de l'attaquant et tente de l'attaquer.
@@ -587,7 +587,7 @@ Ottiene +1 al Raggio di Movimento al termine del suo turno.","Quando seus aliado
 Obtém +1 de alcance de movimento no final de seu turno.","当其盟友受到伤害时，
 会向攻击者移动并尝试攻击。
 回合结束时获得+1移动范围。"
-ENEMY_KILLDOZER_NAME,Killdozer,,Devastadora,Blocdozer,Killdozer,Killdozer,Matacavadeira,杀戮推土机
+ENEMY_KILLDOZER_NAME,Killdozer,,Devastadora,Blocdozer,Killdozer,Killdozer,Devastador,杀戮推土机
 ENEMY_KILLDOZER_DESC,"Moves towards what damages it.
 Trample.",,"Se mueve hacia lo que le inflige daño.
 Pisotón.","Se dirige en direction de ce qui lui inflige des dégâts.
@@ -640,7 +640,7 @@ Cura aliados.","攻击移动到范围内的单位。
 ENEMY_NETTLE_NAME,Nettle,,Ortiga,Ortie,Nessel,Ortica,Urtiga,荨麻
 ENEMY_NETTLE_DESC,"Melee attacker.
 Each time one of its enemies casts a spell, this emits a Sparkle and gains +1 Thorns.",,"Atacante cuerpo a cuerpo.
-Cada vez que un enemigo lanza un hechizo, emite un destello y obtiene +1 de espinas.","Attaque au corps à corps.
+Cada vez que un enemigo lanza un hechizo, emite un destello y obtiene +1 de espinas.","Attaque au corps-à-corps.
 Chaque fois qu'un de ses ennemis lance un sort, il émet une étincelle et bénéficie d'Épines +1.","Nahkämpfer.
 Jedes Mal, wenn einer ihrer Gegner einen Zauber wirkt, versprüht sie einen Funken und erhält +1&nbsp;Dornen.","Specialista del corpo a corpo.
 Ogni volta che un suo nemico lancia un incantestimo, emette una Scintilla e ottiene +1 Spine.","Agressor corpo-a-corpo.
@@ -653,7 +653,7 @@ ENEMY_BIRTHWORT_DESC,"Blind. Can melee attack and dash with Trample in random di
 Fires shots that inflict Rot whenever it's attacked.
 Heals itself and its neighbors at the end of its turn.",,"Sufre ceguera. Puede atacar cuerpo a cuerpo y correr con pisotón en direcciones al azar.
 Dispara proyectiles que infligen putrefacción siempre que lo atacan.
-Se cura a sí mismo y a las unidades adyacentes al final del turno.","Cécité. Peut effectuer une attaque au corps à corps et charger avec Piétinement dans des directions aléatoires.
+Se cura a sí mismo y a las unidades adyacentes al final del turno.","Cécité. Peut effectuer une attaque au corps-à-corps et charger avec Piétinement dans des directions aléatoires.
 Tire des projectiles qui infligent Décomposition quand il est attaqué.
 Se soigne ainsi que ses voisins à la fin de son tour.","Blind. Kann in zufällige Richtungen Nahkampf- und Ansturmangriffe mit Trampel ausführen.
 Feuert Geschosse, die Fäulnis verursachen, wenn sie angegriffen wird.
@@ -678,7 +678,7 @@ Tenta encontrar uma pedra para se defender.","可以附着到猫的装备栏位�
 ENEMY_TREMBLO_NAME,Tremblo,,Tremblo,Tremblolithe,Tramplo,Tremoletto,Tremblo,特伦布洛
 ENEMY_TREMBLO_DESC,"Its melee attack inflicts Stun and spawns rocks.
 Can suck rocks towards itself and eat them to gain Brace and Shield.",,"Su ataque cuerpo a cuerpo inflige aturdimiento y genera rocas.
-Succiona las rocas y se las zampa para obtener refuerzo y escudo.","Son attaque au corps à corps inflige Étourdissement et fait apparaître des pierres.
+Succiona las rocas y se las zampa para obtener refuerzo y escudo.","Son attaque au corps-à-corps inflige Étourdissement et fait apparaître des pierres.
 Peut aspirer les pierres vers lui et les manger pour bénéficier de Garde et de Défense.","Sein Nahkampfangriff verursacht Betäubung und lässt Steine erscheinen.
 Kann Steine ansaugen und sie fressen, um Wappnen und Schild zu erhalten.","Il suo attacco corpo a corpo infligge Stordimento e genera rocce.
 Può risucchiare le rocce verso se stesso e mangiarle per ottenere Guardia e Scudo.","Seu ataque corpo-a-corpo aplica atordoamento e gera pedras.
@@ -701,7 +701,7 @@ ENEMY_CRATERCREEPER2_DESC,Its ranged attack spawns an Amoeba.,,Su ataque a dista
 ENEMY_COREFREAK_NAME,Core Freak,,Pringao nuclear,Détraqué du Noyau,Kernmissgeburt,Abominio del Nucleo,Nucleário,核心怪
 ENEMY_COREFREAK_DESC,"Can perform a flurry melee attack or a headbutt that inflicts Stun.
 Blind.",,"Puede lanzar un ataque cuerpo a cuerpo en ráfaga o arrear un cabezazo que aturde.
-Sufre ceguera.","Peut effectuer un déluge de coups au corps à corps ou un coup de tête qui inflige Étourdissement.
+Sufre ceguera.","Peut effectuer un déluge de coups au corps-à-corps ou un coup de tête qui inflige Étourdissement.
 Cécité.","Kann einen mehrfachen Nahkampfangriff oder einen Kopfstoß, der Betäubung verursacht, ausführen.
 Blind.","Può eseguire una raffica corpo a corpo oppure una testata che infligge Stordimento.
 Cieco.","Pode realizer um ataque corpo-a-corpo de rajada ou uma cabeçada que aplica atordoamento.
@@ -713,7 +713,7 @@ ENEMY_HOTPOKER_DESC,"Has 2 melee attacks, one with Immobilize, the other with Bu
 Can give its allies extra turns.
 Immune to Fire.",,"Tiene 2 ataques cuerpo a cuerpo, uno con inmovilización y el otro con quemadura, que empuja a una unidad en la dirección en la que mira.
 Otorga turnos extras a los aliados.
-Inmune al fuego.","Dispose de 2&nbsp;attaques au corps à corps&nbsp;: l'une avec Immobilisation, l'autre avec Brûlure qui repousse une unité dans la direction qu'elle regarde.
+Inmune al fuego.","Dispose de 2&nbsp;attaques au corps-à-corps&nbsp;: l'une avec Immobilisation, l'autre avec Brûlure qui repousse une unité dans la direction qu'elle regarde.
 Peut offrir des tours bonus à ses alliés.
 Immunité au feu.","Hat zwei Nahkampfangriffe. Einer macht Gegner bewegungsunfähig, der andere verursacht Verbrennung und stößt die Einheit in die Richtung zurück, in die sie blickt.
 Kann Verbündeten zusätzliche Züge verleihen.
@@ -729,7 +729,7 @@ ENEMY_WHISPERER_NAME,Whisperer,,Susurrante,Charmeur,Flüsterer,Sussurratore,Suss
 ENEMY_WHISPERER_DESC,"Its ranged attack inflicts Bruise and -2 [img:spd] to enemies, and Brace and +2 [img:spd] to allies.
 Its melee attack inflicts Charm.",,"Su ataque a distancia inflige moratón y -2 [img:spd] a los enemigos, y refuerzo y +2 [img:spd] a los aliados.
 Su ataque cuerpo a cuerpo inflige embrujo.","Son attaque à distance inflige Contusion et [img:spd] -2&nbsp;aux ennemis, ainsi que Garde et [img:spd] +2&nbsp;aux alliés.
-Son attaque au corps à corps inflige Envoûtement.","Sein Fernkampfangriff verursacht Beulen und -2&nbsp;[img:spd] bei Gegnern, Wappnen und +2&nbsp;[img:spd] bei Verbündeten.
+Son attaque au corps-à-corps inflige Envoûtement.","Sein Fernkampfangriff verursacht Beulen und -2&nbsp;[img:spd] bei Gegnern, Wappnen und +2&nbsp;[img:spd] bei Verbündeten.
 Sein Nahkampfangriff verursacht Charme.","Il suo attacco a distanza infligge Livido e -2 alla [img:spd] ai nemici, e fornisce Guardia e +2 alla [img:spd] agli alleati.
 Il suo attacco corpo a corpo infligge Fascino.","Seu ataque à distância aplica contusão e -2 de [img:spd] em inimigos, e preparação e +2 de [img:spd] em aliados.
 Seu ataque corpo-a-corpo aplica feitiço.","其远程攻击对敌人造成青紫和-2 [img:spd]，
@@ -820,7 +820,8 @@ Gets knocked back with Chain Knockback when hit.
 Can only recieve 1 damage at a time.
 Immune to status effects.",,"Su ataque genera un peñasco.
 Retrocede con retroceso encadenado al recibir un golpe.
-Solo puede recibir 1 de daño a la vez.","Son attaque fait apparaître un rocher.
+Solo puede recibir 1 de daño a la vez.
+Es inmune a los efectos de estado.","Son attaque fait apparaître un rocher.
 Subit Recul en chaîne quand il est touché.
 Ne peut subir qu'1&nbsp;dégât à la fois.
 Immunité aux altérations d'état.","Sein Angriff lässt einen Felsen erscheinen.
@@ -831,7 +832,8 @@ Viene respinto con Contraccolpo a Catena quando colpito.
 Può subire un solo danno per volta.
 Immune agli effetti di stato.","Seu ataque gera um pedregulho.
 Sofre um empurrão com empurrão encadeado ao sofrer golpes.
-Só pode sofrer 1 de dano por vez.","其攻击会召唤一块巨石。
+Só pode sofrer 1 de dano por vez.
+Imune a efeitos de estado.","其攻击会召唤一块巨石。
 被击中时会因链式击退被击退。
 一次只能受到1点伤害。"
 ENEMY_SMALLASTEROID_NAME,Small Asteroid,,Asteroide pequeño,Petit astéroïde,Kleiner Asteroid,Asteroide Piccolo,Pequeno Asteróide,小小行星
@@ -840,7 +842,8 @@ Gets knocked back with Chain Knockback when hit.
 Can only recieve 1 damage at a time.
 Immune to status effects.",,"Su ataque dispara rocas a casillas al azar en un área.
 Retrocede con retroceso encadenado al recibir un golpe.
-Solo puede recibir 1 de daño a la vez.","Son attaque lance des pierres sur des cases aléatoires dans une zone donnée.
+Solo puede recibir 1 de daño a la vez.
+Es inmune a los efectos de estado.","Son attaque lance des pierres sur des cases aléatoires dans une zone donnée.
 Subit Recul en chaîne quand il est touché.
 Ne peut subir qu'1&nbsp;dégât à la fois.
 Immunité aux altérations d'état.","Sein Angriff verschießt Raketen auf zufällige Felder in einem bestimmten Bereich.
@@ -851,7 +854,8 @@ Viene respinto con Contraccolpo a Catena quando colpito.
 Può subire solo 1 di danno per volta.
 Immune agli effetti di stato.","Seu ataque lança pedras em espaços aleatórios em uma área.
 Sofre um empurrão com empurrão encadeado ao sofrer golpes.
-Só pode sofrer 1 de dano por vez.","其攻击会向区域内随机地块射出岩石。
+Só pode sofrer 1 de dano por vez.
+Imune a efeitos de estado.","其攻击会向区域内随机地块射出岩石。
 
 被击中时会因链式击退被击退。
 一次只能受到1点伤害。"
@@ -900,7 +904,7 @@ Explode ao morrer.","回合内执行随机动作。
 拥有会导致眩晕的冲刺攻击。
 拥有充能激光攻击，能瞬间击杀。
 "
-ENEMY_YBLASTER_NAME,Y-Blaster,,Desintegrador amarillo,Flingueur jaune,Y-Blaster,Disintegratore-G,Blaster-Y,Y-爆破者
+ENEMY_YBLASTER_NAME,Y-Blaster,,Desintegrador amarillo,Flingueur jaune,Y-Blaster,Disintegratore-G,Blaster-A,Y-爆破者
 ENEMY_YBLASTER_DESC,"Shoots at units that cross its path.
 Gains +1 Damage at the end of its turn.
 Moves away when in danger.",,"Dispara a las unidades que se cruzan en su camino.
@@ -916,7 +920,7 @@ Obtém +1 de dano no final de seu turno.
 Afasta-se ao sofrer dano.","射击经过路线的单位。
 在回合末获得+1伤害。
 处于危险时会撤退。"
-ENEMY_GALIEN_NAME,G-Alien,,Extraterrestre gris,Petit-gris,G-Alien,Alieno-G,Alien-G,G-外星人
+ENEMY_GALIEN_NAME,G-Alien,,Extraterrestre gris,Petit-gris,G-Alien,Alieno-G,Alien-C,G-外星人
 ENEMY_GALIEN_DESC,"Its ranged attack has Knockback.
 Primes a Counterspell at the end of its turn.
 Is powered up when Counterspell is primed.",,"Su ataque a distancia tiene retroceso.
@@ -932,10 +936,10 @@ Prepara um contrafeitiço no final de seu turno.
 Energiza-se quando o contrafeitiço é preparado.","其远程攻击带有击退效果。
 在回合结束时激活反制法术。
 反制法术激活时状态提升。"
-ENEMY_BPROBER_NAME,B-Prober,,Sondeador anal,Sondeur anal,A-Sondierer,Sondatore-C,Sonda-B,B-探测器
+ENEMY_BPROBER_NAME,B-Prober,,Sondeador anal,Sondeur anal,A-Sondierer,Sondatore-C,Sonda-A,B-探测器
 ENEMY_BPROBER_DESC,"Melee attacker. If it can melee attack a cat from behind it will inflict Charm.
 This Charm lasts until the Charmed cat takes damage.",,"Atacante cuerpo a cuerpo. Si puede atacar a un gato por la espalda, le inflige embrujo.
-El gato sigue embrujado hasta que sufre daño.","Attaque au corps à corps. Inflige Envoûtement aux chats qu'il attaque par-derrière.
+El gato sigue embrujado hasta que sufre daño.","Attaque au corps-à-corps. Inflige Envoûtement aux chats qu'il attaque par-derrière.
 Ledit Envoûtement persiste jusqu'à ce que le chat envoûté subisse des dégâts.","Nahkämpfer. Verursacht Charme, wenn er eine Katze von hinten angreifen kann.
 Charme hält an, bis die betroffene Katze Schaden erleidet.","Specialista del corpo a corpo. Se riesce ad attaccare un gatto da dietro, infligge Fascino che dura finché il gatto affascinato non subisce danno.","Agressor corpo-a-corpo. Se puder atacar um gato por trás, aplica feitiço.
 Esse feitiço dura até que o gato enfeitiçado sofra dano.","近战攻击者。
@@ -946,7 +950,7 @@ Esse feitiço dura até que o gato enfeitiçado sofra dano.","近战攻击者。
 ENEMY_WAGGLE_NAME,Waggle,,Vaivén,Frétillo,Wackli,Dondolone,Abano,摇摆
 ENEMY_WAGGLE_DESC,"Melee attacker.
 Will turn enemy familiars and low health allies into Waggles!",,"Atacante cuerpo a cuerpo.
-¡Transforma a los familiares enemigos y a los aliados con poca salud en vaivenes!","Attaque au corps à corps.
+¡Transforma a los familiares enemigos y a los aliados con poca salud en vaivenes!","Attaque au corps-à-corps.
 Change les familiers ennemis et les alliés à faible PV en frétillos&nbsp;!","Nahkämpfer.
 Verwandelt gegnerische Begleiter und Verbündete mit wenig LP in Wacklis!","Specialista del corpo a corpo.
 Trasforma i famigli nemici e gli alleati con poca salute in Dondoloni!","Agressor corpo-a-corpo.
@@ -974,7 +978,7 @@ Its melee attack inflicts injuries.
 Can howl to Immobilize units.",,"Genera gatitos.
 Su ataque cuerpo a cuerpo inflige lesiones.
 Puede aullar para inmovilizar a las unidades.","Invoque des chatons.
-Son attaque au corps à corps inflige des blessures.
+Son attaque au corps-à-corps inflige des blessures.
 Inflige Immobilisation en «&nbsp;miaulant&nbsp;».","Lässt Kätzchen erscheinen.
 Sein Nahkampfangriff verursacht Verletzungen.
 Kann heulen, um Einheiten bewegungsunfähig zu machen.","Genera Gattini.
@@ -985,13 +989,13 @@ Pode uivar para imobilizar unidades.","生成小猫。
 近战攻击会造成伤害。
 能嚎叫使单位无法行动。"
 ENEMY_HUMANCAT_NAME,Half-Human δ,,Medio humano δ,Mi-humain δ,Halbmensch δ,Mezzo-Umano δ,Meio-Humano δ,半人类 δ
-ENEMY_HUMANCAT_DESC,Melee attacker that Immobilizes. May dodge attacks unless attacked from the human side.,,Este atacante cuerpo a cuerpo inmoviliza a las unidades. Esquiva los ataques que no provengan del costado humano.,Attaque au corps à corps qui inflige Immobilisation. Esquive les attaques excepté si elles viennent du côté humain.,"Nahkämpfer, der Einheiten bewegungsunfähig macht. Kann Angriffen ausweichen, es sei denn, seine menschliche Seite wird angegriffen.","Specialista del corpo a corpo che infligge Immobilizzazione. Può schivare gli attacchi, a meno che l'attacco non venga portato dal lato della sua parte umana.",Agressor corpo-a-corpo que imobiliza. Pode se esquivar de ataques se não for atacado pelo lado humano.,"近战攻击者，
+ENEMY_HUMANCAT_DESC,Melee attacker that Immobilizes. May dodge attacks unless attacked from the human side.,,Este atacante cuerpo a cuerpo inmoviliza a las unidades. Esquiva los ataques que no provengan del costado humano.,Attaque au corps-à-corps qui inflige Immobilisation. Esquive les attaques excepté si elles viennent du côté humain.,"Nahkämpfer, der Einheiten bewegungsunfähig macht. Kann Angriffen ausweichen, es sei denn, seine menschliche Seite wird angegriffen.","Specialista del corpo a corpo che infligge Immobilizzazione. Può schivare gli attacchi, a meno che l'attacco non venga portato dal lato della sua parte umana.",Agressor corpo-a-corpo que imobiliza. Pode se esquivar de ataques se não for atacado pelo lado humano.,"近战攻击者，
 会使敌人无法行动。
 除非从人类一侧攻击，
 否则可能会闪避攻击。"
 ENEMY_HUMANCAT2_DESC,Has a spin attack with Knockback.,,Lanza un ataque giratorio con retroceso.,Son attaque tournoyante inflige Recul.,Hat einen Wirbelangriff mit Rückstoß.,Possiede un attacco rotante con Contraccolpo.,Possui um ataque giratório com empurrão.,具有击退效果的旋转攻击。
 ENEMY_COPBOT_NAME,Cop Bot,,Policop,Roboflic,Polizeibot,Bot Poliziotto,Bot Policial,警察机器人
-ENEMY_COPBOT_DESC,Melee attacker. Will shoot at enemies who damage its allies.,,Este atacante cuerpo a cuerpo dispara a los enemigos que infligen daño a sus aliados.,Attaque au corps à corps. Tire sur les ennemis qui attaquent ses alliés.,"Nahkämpfer. Schießt auf Gegner, die seinen Verbündeten Schaden zufügen.",Specialista del corpo a corpo. Spara ai nemici che infliggono danno ai suoi alleati.,Agressor corpo-a-corpo. Atira contra inimigos que causam dano contra seus aliados.,"近战攻击者。
+ENEMY_COPBOT_DESC,Melee attacker. Will shoot at enemies who damage its allies.,,Este atacante cuerpo a cuerpo dispara a los enemigos que infligen daño a sus aliados.,Attaque au corps-à-corps. Tire sur les ennemis qui attaquent ses alliés.,"Nahkämpfer. Schießt auf Gegner, die seinen Verbündeten Schaden zufügen.",Specialista del corpo a corpo. Spara ai nemici che infliggono danno ai suoi alleati.,Agressor corpo-a-corpo. Atira contra inimigos que causam dano contra seus aliados.,"近战攻击者。
 会射击攻击其盟友的敌人。"
 ENEMY_DRDITTO_NAME,Dr. Ditto,,Dr. Ditto,Dr Sansâme,Dr. Ditto,Dottor Ditto,Dr. Ditto,迪托博士
 ENEMY_DRDITTO_DESC,"Fires explosive rockets that hit a random tile in an area.
@@ -1038,27 +1042,27 @@ Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开�
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
-¡Odia los gatos!","Attaque multiple au corps à corps.
+¡Odia los gatos!","Attaque multiple au corps-à-corps.
 A horreur des chats&nbsp;!","Hat einen mehrfach treffenden Nahkampfangriff.
 Hasst Katzen!","Possiede un attacco corpo a corpo multiplo.
 Odia i gatti!","Possui um ataque corpo-a-corpo multigolpes.
 Odeia gatos!","拥有多段近战攻击。
 讨厌猫！"
 ENEMY_CAVEBABY_NAME,Caveman Baby,,Bebé cavernícola,Bébé des cavernes,Höhlenbaby,Bebè Cavernicolo,Bebê Homem das Cavernas,穴居人宝宝
-ENEMY_CAVEBABY_DESC,Has a melee attack with Lifesteal. Seeks food. Will grow up when it reaches full health.,,Lanza un ataque cuerpo a cuerpo con robavida. Busca comida. Crece cuando tiene la salud al completo.,Son attaque au corps à corps inflige Vol de vie. Cherche de la nourriture. Grandit quand il atteint ses PV max.,"Hat einen Nahkampfangriff, der Leben absaugt. Ist auf Futtersuche. Wird erwachsen, wenn es volle LP erreicht.",Possiede un attacco corpo a corpo con Rubavita. Cerca cibo. Cresce una volta raggiunta la salute massima.,Possui um ataque corpo-a-corpo com roubo de vida. Busca comida. Cresce ao atingir a saúde total.,"拥有带有吸血效果的近战攻击。
+ENEMY_CAVEBABY_DESC,Has a melee attack with Lifesteal. Seeks food. Will grow up when it reaches full health.,,Lanza un ataque cuerpo a cuerpo con robavida. Busca comida. Crece cuando tiene la salud al completo.,Son attaque au corps-à-corps inflige Vol de vie. Cherche de la nourriture. Grandit quand il atteint ses PV max.,"Hat einen Nahkampfangriff, der Leben absaugt. Ist auf Futtersuche. Wird erwachsen, wenn es volle LP erreicht.",Possiede un attacco corpo a corpo con Rubavita. Cerca cibo. Cresce una volta raggiunta la salute massima.,Possui um ataque corpo-a-corpo com roubo de vida. Busca comida. Cresce ao atingir a saúde total.,"拥有带有吸血效果的近战攻击。
 寻找食物。达到满生命值时会成长。
 "
-ENEMY_CAVEMANMAN_NAME,Caveman Man,,Cavernícola macho,Homme des cavernes,Höhlenmensch (Männlich),Uomo Cavernicolo,Homem das Cavernas Homem,穴居人男子
+ENEMY_CAVEMANMAN_NAME,Caveman Man,,Cavernícola macho,Homme des cavernes,Höhlenmann,Uomo Cavernicolo,Homem das Cavernas Homem,穴居人男子
 ENEMY_CAVEMANMAN_DESC,"Has a multi-hit melee attack. Will attempt to pick up spears.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces. Intenta recoger lanzas.
-¡Odia los gatos!","Attaque multiple au corps à corps. Tente de ramasser des lances.
+¡Odia los gatos!","Attaque multiple au corps-à-corps. Tente de ramasser des lances.
 A horreur des chats&nbsp;!","Hat einen mehrfach treffenden Nahkampfangriff. Wird versuchen, Speere zu sammeln.
 Hasst Katzen!","Possiede un attacco corpo a corpo multiplo. Cerca di raccogliere le lance.
 Odia i gatti!","Possui um ataque corpo-a-corpo multigolpes. Tenta pegar lanças.
 Odeia gatos!","拥有多段近战攻击。
 会尝试捡起长矛。
 讨厌猫！"
-ENEMY_SPEARCAVEMAN_NAME,Caveman Man,,Cavernícola macho,Homme des cavernes,Höhlenmensch (Männlich),Uomo Cavernicolo,Homem Homem das Cavernas,穴居人男子
+ENEMY_SPEARCAVEMAN_NAME,Caveman Man,,Cavernícola macho,Homme des cavernes,Höhlenmann,Uomo Cavernicolo,Homem Homem das Cavernas,穴居人男子
 ENEMY_SPEARCAVEMAN_DESC,"Can throw its spear to inflict Stun.
 Hates Cats!",,"Arroja la lanza para aturdir.
 ¡Odia los gatos!","Peut lancer sa lance pour infliger Étourdissement.
@@ -1068,7 +1072,7 @@ Odia i gatti!","Pode jogar sua lança para aplicar atordoamento.
 Odeia gatos!
 ","可以投掷长矛造成眩晕。
 讨厌猫！"
-ENEMY_CAVEMANWOMAN_NAME,Caveman Woman,,Cavernícola hembra,Femme des cavernes,Höhlenmensch (Weiblich),Donna Cavernicola,Mulher Homem das Cavernas,穴居人女性
+ENEMY_CAVEMANWOMAN_NAME,Caveman Woman,,Cavernícola hembra,Femme des cavernes,Höhlenfrau,Donna Cavernicola,Mulher Homem das Cavernas,穴居人女性
 ENEMY_CAVEMANWOMAN_DESC,"Will use cats as weapons.
 Pregnant!",,"Usa los gatos a modo de arma.
 ¡Está embarazada!","Utilise les chats comme des armes.
@@ -1077,7 +1081,7 @@ Sie ist schwanger!","Usa i gatti come armi.
 Incinta!","Usa gatos como armas.
 Grávida!","会使用猫作为武器。
 怀孕中！"
-ENEMY_CAVEMANWOMAN2_NAME,Caveman Woman,,Cavernícola hembra,Femme des cavernes,Höhlenmensch (Weiblich),Donna Cavernicola,Mulher Homem das Cavernas,穴居人女性
+ENEMY_CAVEMANWOMAN2_NAME,Caveman Woman,,Cavernícola hembra,Femme des cavernes,Höhlenfrau,Donna Cavernicola,Mulher Homem das Cavernas,穴居人女性
 ENEMY_CAVEMANWOMAN2_DESC,"Will use cats as weapons.
 Pregnant!",,"Usa los gatos a modo de arma.
 ¡Está embarazada!","Utilise les chats comme des armes.
@@ -1091,7 +1095,7 @@ ENEMY_WEREMAN_DESC,"Has a multi-hit melee attack.
 Will jump-attack units in range.
 Hates Cavemen!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
 Salta y ataca a las unidades que tiene al alcance.
-¡Odia a los cavernícolas!","Attaque multiple au corps à corps.
+¡Odia a los cavernícolas!","Attaque multiple au corps-à-corps.
 Tente une attaque sautée sur les unités à portée.
 A horreur des hommes des cavernes&nbsp;!","Hat einen mehrfach treffenden Nahkampfangriff.
 Springt Einheiten in Reichweite an.
@@ -1109,7 +1113,7 @@ Buffs its humanoid allies.
 Hates Cats!",,"Su ataque cuerpo a cuerpo inflige aturdimiento.
 Asesta golpes letales a los enemigos con 10 PS o menos.
 Otorga ventajas a los aliados humanoides.
-¡Odia los gatos!","Son attaque au corps à corps inflige Étourdissement.
+¡Odia los gatos!","Son attaque au corps-à-corps inflige Étourdissement.
 Achève les ennemis avec 10&nbsp;PV ou moins, en priorité.
 Confère un bonus à ses alliés humanoïdes.
 A horreur des chats&nbsp;!","Sein Nahkampfangriff verursacht Betäubung.
@@ -1125,12 +1129,12 @@ Odeia gatos!","其近战攻击会造成眩晕。
 
 提升其类人生物盟友的能力。"
 ENEMY_YETI_NAME,Yeti,,Yeti,Yéti,Yeti,Yeti,Yeti,雪人
-ENEMY_YETI_DESC,Has a triple-hit melee attack and a close-range Freeze attack.,,Lanza un ataque cuerpo a cuerpo que golpea tres veces y un ataque a corta distancia que inflige congelación.,Dispose d'une attaque triple au corps à corps et une attaque à courte portée qui inflige Gel.,"Hat einen dreifach treffenden Nahkampfangriff und einen Nahkampfangriff, der Frost verursacht.",Possiede un attacco corpo a corpo da tre colpi e un attacco ravvicinato di tipo congelante.,Possui um ataque corpo-a-corpo triplo e um ataque de curta distância de congelamento.,"拥有三连击的近战攻击和近距离冰冻攻击。
+ENEMY_YETI_DESC,Has a triple-hit melee attack and a close-range Freeze attack.,,Lanza un ataque cuerpo a cuerpo que golpea tres veces y un ataque a corta distancia que inflige congelación.,Dispose d'une attaque triple au corps-à-corps et une attaque à courte portée qui inflige Gel.,"Hat einen dreifach treffenden Nahkampfangriff und einen Nahkampfangriff, der Frost verursacht.",Possiede un attacco corpo a corpo da tre colpi e un attacco ravvicinato di tipo congelante.,Possui um ataque corpo-a-corpo triplo e um ataque de curta distância de congelamento.,"拥有三连击的近战攻击和近距离冰冻攻击。
 "
 ENEMY_FUZZER_NAME,Fuzzer,,Blandiflop,Duvet,Wolli,Pelosone,Penugeiro,模糊者
 ENEMY_FUZZER_DESC,"Melee attacker that inflicts Confusion, then runs away. Units that contact this gain Confusion.
 Heals whenever an enemy damages itself with Confusion.",,"Este atacante cuerpo a cuerpo inflige confusión y luego huye. Las unidades que entran en contacto reciben confusión.
-Recupera PS cuando un enemigo se autoinflige daño con confusión.","Attaquant au corps à corps qui inflige Confusion, puis s'enfuit. Les unités qui entrent en contact avec subissent Confusion.
+Recupera PS cuando un enemigo se autoinflige daño con confusión.","Attaquant au corps-à-corps qui inflige Confusion, puis s'enfuit. Les unités qui entrent en contact avec subissent Confusion.
 Se soigne chaque fois qu'un ennemi subit des dégâts à cause de Confusion.","Nahkämpfer, der Verwirrung verursacht und anschließend wegrennt. Einheiten, die ihn berühren, erleiden Verwirrung.
 Heilt sich immer, wenn ein Gegner sich durch Verwirrung selbst verletzt.","Specialista del corpo a corpo che infligge Confusione per poi fuggire. Le unità che vi entrano in contatto ottengono Confusione.
 Cura tutti gli alleati che si auto-infliggono danno a causa di Confusione.","Agressor corpo-a-corpo que aplica confusão e foge. Unidades que entram em contato sofrem confusão.
@@ -1144,7 +1148,7 @@ ENEMY_WOOLYMAMMOTH_DESC,"Has a melee attack that knocks units into the air, and 
 Will Bruise and Knockback adjacent units at the start of its turn.
 Trample.",,"Su ataque cuerpo a cuerpo lanza a las unidades por los aires. También lanza ataques relámpago.
 Inflige moratón y retroceso a las unidades adyacentes al inicio del turno.
-Pisotón.","Son attaque au corps à corps projette les unités en l'air. Dispose aussi d'une attaque impulsée.
+Pisotón.","Son attaque au corps-à-corps projette les unités en l'air. Dispose aussi d'une attaque impulsée.
 Inflige Contusion et Recul aux unités adjacentes au début de son tour.
 Piétinement.","Hat einen Nahkampfangriff, der Einheiten in die Luft stößt, und einen Ansturmangriff.
 Verursacht am Anfang seines Zuges Beulen und Rückstoß bei benachbarten Einheiten.
@@ -1235,13 +1239,13 @@ Vola.","Seu ataque à distância aplica atordoamento.
 Voador.","其远程攻击会造成眩晕效果。
 飞行。"
 ENEMY_DINONEST_NAME,Dino Nest,,Dinonido,Nid de dino,Dinosauriernest,Nido di Dinosauro,Ninho de Dinossauros,恐龙巢
-ENEMY_DINONEST_DESC,Spawns baby Raptors.,,Genera crías de velocirraptores.,Invoque des bébés raptors.,Lässt Babyraptoren erscheinen.,Genera piccoli di Raptor.,Gera raptors bebês.,生成幼年迅猛龙。
+ENEMY_DINONEST_DESC,Spawns baby Raptors.,,Genera crías de velocirraptores.,Invoque des bébés raptors.,Lässt Babyraptoren erscheinen.,Genera piccoli di Raptor.,Gera raptores bebês.,生成幼年迅猛龙。
 ENEMY_FATMAN_NAME,Überman,"enemies in the ""nazi robot future"" area have Germanglish names (german-english nonsense). These either shouldnt be translated, or you can hybridize them swapping the other language for the english portions (Ex, Überhombre). I'll comment the pun in the notes field",Übermacho,Übermonsieur,Übermann,Überuomo,Überhomem,超级人
 ENEMY_FATMAN_DESC,"Melee attacker with Knockback.
 Reflects projectiles. Units that contact it get knocked back.
 Trample.",,"Atacante cuerpo a cuerpo con retroceso.
 Devuelve los proyectiles. Las unidades que entran en contacto retroceden.
-Pisotón.","Attaque au corps à corps avec Recul.
+Pisotón.","Attaque au corps-à-corps avec Recul.
 Renvoie les projectiles. Les unités qui le touchent sont repoussées.
 Piétinement.","Nahkämpfer mit Rückstoß.
 Reflektiert Geschosse. Einheiten, die ihn berühren, werden zurückgestoßen.
@@ -1281,7 +1285,7 @@ ENEMY_HANGERBOT_DESC,"Its melee attack inflicts Short Circuit.
 Retracts when damaged.
 Spawns Invaders.",,"Su ataque cuerpo a cuerpo inflige cortocircuito.
 Se retira al sufrir daño.
-Genera invasores.","Son attaque au corps à corps inflige Court-circuit.
+Genera invasores.","Son attaque au corps-à-corps inflige Court-circuit.
 Se rétracte quand il subit des dégâts.
 Invoque des envahisseurs.","Sein Nahkampfangriff verursacht Kurzschluss.
 Zieht sich zurück, wenn er Schaden erleidet.
@@ -1312,7 +1316,7 @@ Pega coletáveis.","治疗其盟友并给予随机增益。
 ENEMY_KRUGHEAD_NAME,Krughead,jar head,Cabezakrug,Bierkopf,Krugkopf,Testa in Barattolen,Cabeça de Jarro,战斗头领
 ENEMY_KRUGHEAD_DESC,"Melee attacker. Gives its allies extra turns.
 Immune to Magic and Debuffs.",,"Este atacante cuerpo a cuerpo otorga turnos extras a sus aliados.
-Inmune a la magia y las desventajas.","Attaque au corps à corps. Confère des tours bonus à ses alliés.
+Inmune a la magia y las desventajas.","Attaque au corps-à-corps. Confère des tours bonus à ses alliés.
 Immunité aux dégâts magiques et aux malus.","Nahkämpfer. Verleiht seinen Verbündeten zusätzliche Züge.
 Immun gegen Magie und Schwächungen.","Specialista del corpo a corpo. Fornisce ai suoi alleati turni aggiuntivi.
 Immune alla magia e ai malus.","Agressor corpo-a-corpo. Concede turnos extras a aliados.
@@ -1320,12 +1324,12 @@ Imune contra magia e enfraquecimentos.","近战攻击者。
 给予盟友额外回合。
 免疫魔法和负面状态。"
 ENEMY_FETUSJAR_NAME,Fötusjar,fetus jar,Fötustarro,Fötusjar,Fötusglas,Feto in Barattolen,Fötusjar,敌胎罐
-ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,Este atacante cuerpo a cuerpo golpea varias veces. Inmune a la magia y las desventajas.,Attaque multiple au corps à corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.,"多次击打的近战攻击者。
+ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,Este atacante cuerpo a cuerpo golpea varias veces. Inmune a la magia y las desventajas.,Attaque multiple au corps-à-corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.,"多次击打的近战攻击者。
 免疫魔法和负面状态。"
 ENEMY_FETUSNOJAR_NAME,Der Fötus,"fetus (no jar) [""der fetus"" is a loose pun on Dr Fetus from meat boy]",Der Fötus,Der Fötus,Der Fötus,Der Fötus,Der Fötus,胎儿战士
 ENEMY_FETUSNOJAR_DESC,"Multi-hit melee attacker.
 Calls an airstrike when at low health.",,"Este atacante cuerpo a cuerpo golpea varias veces.
-Pide un ataque aéreo cuando tiene pocos PS.","Attaque multiple au corps à corps.
+Pide un ataque aéreo cuando tiene pocos PS.","Attaque multiple au corps-à-corps.
 Appelle une frappe aérienne quand ses PV sont bas.","Nahkämpfer mit Mehrfachtreffer.
 Ruft einen Luftschlag, wenn seine LP niedrig sind.","Specialista degli attacchi corpo a corpo multipli.
 Richiede un attacco aereo quando ha poca salute.","Agressor corpo-a-corpo com multigolpes.
@@ -1360,9 +1364,9 @@ Lancia attacchi aerei.","Seu ataque de suplex pode atordoar ou imobilizar.
 Prepara ataques aéreos.","它的摔投攻击可以眩晕或定身。
 准备空袭。"
 ENEMY_HERALD_NAME,Herald,,Heraldo,Héraut,Herold,Araldo,Herald,影子先锋
-ENEMY_HERALD_DESC,Melee attacker that summons shadows of itself.,,Este atacante cuerpo a cuerpo invoca sombras de sí mismo.,Attaque au corps à corps. Invoque une ombre de lui-même.,"Nahkämpfer, der Schatten seiner selbst beschwören kann.",Specialista del corpo a corpo che evoca ombre di se stesso.,Agressor corpo-a-corpo que invoca sombras de si mesmo.,召唤自身影子的近战攻击者。
+ENEMY_HERALD_DESC,Melee attacker that summons shadows of itself.,,Este atacante cuerpo a cuerpo invoca sombras de sí mismo.,Attaque au corps-à-corps. Invoque une ombre de lui-même.,"Nahkämpfer, der Schatten seiner selbst beschwören kann.",Specialista del corpo a corpo che evoca ombre di se stesso.,Agressor corpo-a-corpo que invoca sombras de si mesmo.,召唤自身影子的近战攻击者。
 ENEMY_HERALDSHADOW_NAME,Herald's Shadow,,Sombra de heraldo,Ombre du héraut,Schatten des Herolds,Ombra dell'Araldo,Sombra de Herald,Herald的影子
-ENEMY_HERALDSHADOW_DESC,Melee attacker. Dies when the original dies.,,Este atacante cuerpo a cuerpo muere a la vez que su original.,Attaque au corps à corps. Meurt en même temps que l'original.,"Nahkämpfer. Stirbt, wenn das Original stirbt.",Specialista del corpo a corpo. Muore insieme all'originale.,Agressor corpo-a-corpo. Morre quando o original é derrotado.,近战攻击者。原体死亡时死亡。
+ENEMY_HERALDSHADOW_DESC,Melee attacker. Dies when the original dies.,,Este atacante cuerpo a cuerpo muere a la vez que su original.,Attaque au corps-à-corps. Meurt en même temps que l'original.,"Nahkämpfer. Stirbt, wenn das Original stirbt.",Specialista del corpo a corpo. Muore insieme all'originale.,Agressor corpo-a-corpo. Morre quando o original é derrotado.,近战攻击者。原体死亡时死亡。
 ENEMY_GASPER_NAME,Gasper,,Ahogante,Smogaga,Keucher,Ansimatore,Arfante,毒云爆破者
 ENEMY_GASPER_DESC,"Creates Poison clouds when it attacks or is damaged.
 Primes an explosion when killed.","in its explosion form you can kill it to prevent its explosion, not sure if this needs to be tooltipped. could add a tooltip for just that form if we wanted too","Crea nubes venenosas al atacar o al sufrir daño.
@@ -1374,14 +1378,14 @@ Prepara uma explosão ao morrer.","攻击或受伤时制造毒云。
 死亡时准备爆炸。"
 ENEMY_GASPER_DESC2,It's about to blow!,does this desc work for that form?,¡Está a punto de estallar!,Ça va péter&nbsp;!,Er explodiert gleich!,Sta per esplodere!,Vai explodir!,快要爆炸了！
 ENEMY_FLOAST_NAME,Floast,,Flotamorfo,Mastiflot,Schwelst,Flotamorfo,Floste,浮击者
-ENEMY_FLOAST_DESC,Has a melee throw attack and a ranged hook attack.,,Tiene un ataque cuerpo a cuerpo con lanzamiento y un ataque a distancia con gancho.,Dispose d'une attaque au corps à corps de lancer et une attaque à distance avec un crochet.,Hat einen Nahkampfwurf und einen Hakenangriff aus der Ferne.,Possiede una presa da lancio corpo a corpo e un montante a distanza.,Possui um ataque corpo-a-corpo de lançamento e um ataque à distância de gancho.,"具有近战投掷攻击和远程钩击攻击。
+ENEMY_FLOAST_DESC,Has a melee throw attack and a ranged hook attack.,,Tiene un ataque cuerpo a cuerpo con lanzamiento y un ataque a distancia con gancho.,Dispose d'une attaque au corps-à-corps de lancer et une attaque à distance avec un crochet.,Hat einen Nahkampfwurf und einen Hakenangriff aus der Ferne.,Possiede una presa da lancio corpo a corpo e un montante a distanza.,Possui um ataque corpo-a-corpo de lançamento e um ataque à distância de gancho.,"具有近战投掷攻击和远程钩击攻击。
 "
 ENEMY_GORGER_NAME,Gorger,,Tragaldabas,Belzébélier,Fresser,Ingozzatore,Devorador,吞噬者
 ENEMY_GORGER_DESC,"Its melee attack consumes what it hits.
 Runs all the way towards its next target at the end of its turn.
 Trample.",,"Su ataque cuerpo a cuerpo se zampa todo aquello que golpea.
 Corre hasta el próximo objetivo al final del turno.
-Pisotón.","Consomme ce qu'il touche avec son attaque au corps à corps.
+Pisotón.","Consomme ce qu'il touche avec son attaque au corps-à-corps.
 S'élance jusqu'à sa prochaine cible à la fin de son tour.
 Piétinement.","Sein Nahkampfangriff frisst auf, was er trifft.
 Läuft am Ende seines Zuges bis zu seinem nächsten Ziel.
@@ -1393,12 +1397,12 @@ Atropelamento.","它的近战攻击会吞噬目标。
 回合结束时冲向下一个目标。
 践踏。"
 ENEMY_SLAG_NAME,Slag,,Engendrajo,Scorie,Schlacke,Scoria,Escória,水肿怪
-ENEMY_SLAG_DESC,Does a ranged area attack. Spawns Edemas when damaged by a melee attack and Fly Swarms when damaged by a ranged attack.,,Lanza un ataque a distancia en un área. Genera edemas al sufrir daño con un ataque cuerpo a cuerpo y enjambres de moscas con un ataque a distancia.,Effectue une attaque de zone à distance. Invoque des œdèmes quand il est touché par une attaque au corps à corps et des essaims de mouches quand il est touché par une attaque à distance.,"Hat einen Fernkampf-Flächenangriff. Ruft Ödeme oder Fliegenschwärme, wenn es jeweils von einem Nah- oder Fernkampfangriff getroffen wird.",Esegue un attacco a distanza che colpisce un'area. Genera Edemi quando subisce danno da un attacco corpo a corpo e Sciame di Mosche quando subisce danno da un attacco a distanza.,Realiza um ataque à distância em área. Gera edemas ao sofrer dano de ataques corpo-a-corpo e enxames de moscas ao sofrer dano de ataques à distância.,"进行远程范围攻击。
+ENEMY_SLAG_DESC,Does a ranged area attack. Spawns Edemas when damaged by a melee attack and Fly Swarms when damaged by a ranged attack.,,Lanza un ataque a distancia en un área. Genera edemas al sufrir daño con un ataque cuerpo a cuerpo y enjambres de moscas con un ataque a distancia.,Effectue une attaque de zone à distance. Invoque des œdèmes quand il est touché par une attaque au corps-à-corps et des essaims de mouches quand il est touché par une attaque à distance.,"Hat einen Fernkampf-Flächenangriff. Ruft Ödeme oder Fliegenschwärme, wenn es jeweils von einem Nah- oder Fernkampfangriff getroffen wird.",Esegue un attacco a distanza che colpisce un'area. Genera Edemi quando subisce danno da un attacco corpo a corpo e Sciame di Mosche quando subisce danno da un attacco a distanza.,Realiza um ataque à distância em área. Gera edemas ao sofrer dano de ataques corpo-a-corpo e enxames de moscas ao sofrer dano de ataques à distância.,"进行远程范围攻击。
 被近战攻击损伤时生成水肿，
 被远程攻击损伤时生成飞虫群。"
 ENEMY_HITLERCLONE_NAME,Führerclone,,Führerclon,Führerclone,Führerklon,Führerclone,Führerclone,指挥者克隆体
 ENEMY_HITLERCLONE_FETUS_NAME,Führerfötus,,Führerfötus,Führerfötus,Führerfötus,Führerfötus,Führerfötus,元首胎儿
-ENEMY_HITLERCLONE_DESC,Has a multi-hit melee attack. Follows orders.,,Lanza un ataque cuerpo a cuerpo que golpea varias veces. Acata órdenes.,Attaque multiple au corps à corps. Suit les ordres.,Hat einen mehrfach treffenden Nahkampfangriff. Befolgt Befehle.,Possiede un attacco corpo a corpo multilplo. Esegue gli ordini.,Possui um ataque corpo-a-corpo multigolpes. Segue ordens.,"具有多次命中近战攻击。
+ENEMY_HITLERCLONE_DESC,Has a multi-hit melee attack. Follows orders.,,Lanza un ataque cuerpo a cuerpo que golpea varias veces. Acata órdenes.,Attaque multiple au corps-à-corps. Suit les ordres.,Hat einen mehrfach treffenden Nahkampfangriff. Befolgt Befehle.,Possiede un attacco corpo a corpo multilplo. Esegue gli ordini.,Possui um ataque corpo-a-corpo multigolpes. Segue ordens.,"具有多次命中近战攻击。
 遵循指令。"
 ENEMY_EDEMA_NAME,Edema,,Edema,Œdème,Ödem,Edema,Edema,水肿
 ENEMY_EDEMA_DESC,"Evolves into a Husk when its timer reaches 0.
@@ -1410,22 +1414,22 @@ Quando viene ucciso genera Tumori Spinosi.","Evolui para uma Casca quando o cron
 Gera tumores espinhentos ao morrer.","当计时器归零时进化为壳体。
 被杀时生成多刺肿瘤。"
 ENEMY_HUSK_NAME,Husk,,Pellejina,Dépouille,Hülle,Scorticato,Casca,壳体
-ENEMY_HUSK_DESC,Has a multi-hit melee attack. Turns into an Edema when killed.,,Lanza un ataque cuerpo a cuerpo que golpea varias veces. Se transforma en edema al morir.,Attaque multiple au corps à corps. Se change en œdème à sa mort.,"Hat einen mehrfach treffenden Nahkampfangriff. Verwandelt sich in ein Ödem, wenn sie stirbt.",Possiede un attacco corpo a corpo multiplo. Si trasforma in un Edema quando viene ucciso.,Possui um ataque corpo-a-corpo multigolpes. Transforma-se em um edema ao morrer.,"具有多次命中近战攻击。
+ENEMY_HUSK_DESC,Has a multi-hit melee attack. Turns into an Edema when killed.,,Lanza un ataque cuerpo a cuerpo que golpea varias veces. Se transforma en edema al morir.,Attaque multiple au corps-à-corps. Se change en œdème à sa mort.,"Hat einen mehrfach treffenden Nahkampfangriff. Verwandelt sich in ein Ödem, wenn sie stirbt.",Possiede un attacco corpo a corpo multiplo. Si trasforma in un Edema quando viene ucciso.,Possui um ataque corpo-a-corpo multigolpes. Transforma-se em um edema ao morrer.,"具有多次命中近战攻击。
 被杀时变成水肿。"
 ENEMY_CONJOINEDHUSK_NAME,Conjoined Husk,,Pellejina conjunta,Dépouille siamoise,Vereinigte Hülle,Scorticato Siamese,Casca Conjunta,连体壳体
 ENEMY_CONJOINEDHUSK_DESC,"Its melee attack picks up cats.
 Creates evil copies of cats it's holding.",,"Su ataque cuerpo a cuerpo recoge gatos.
-Crea copias malvadas de los gatos que tiene.","Son attaque au corps à corps attrape les chats.
+Crea copias malvadas de los gatos que tiene.","Son attaque au corps-à-corps attrape les chats.
 Crée des copies maléfiques des chats qu'elle tient.","Ihr Nahkampfangriff hebt Katzen auf.
 Erschafft böse Kopien der Katze, die sie gerade hält.","Il suo attacco corpo a corpo raccoglie gatti.
 Crea copie malvagie dei gatti che ha raccolto.","Seu ataque corpo-a-corpo agarra gatos.
 Cria cópias malignas dos gatos que está segurando.","其近战攻击能抓起猫。
 创造它抓住的猫的邪恶复制品。"
 ENEMY_HERALDESS_NAME,Heraldess,,Heraldina,Héraldesse,Heroldin,Araldessa,Arautessa,女传令官
-ENEMY_HERALDESS_DESC,Melee attacker. Becomes scary when damaged.,,Esta atacante cuerpo a cuerpo se transforma en espantajo al sufrir daño.,Attaque au corps à corps. Se change en Frayeur quand elle subit une attaque.,"Nahkämpferin. Wird viel bedrohlicher, wenn sie Schaden erleidet.",Specialista del corpo a corpo. Quando subisce danno diventa spaventosa.,Agressor corpo-a-corpo. Torna-se assustados ao sofrer dano.,近战攻击者。受伤时变得可怕。
+ENEMY_HERALDESS_DESC,Melee attacker. Becomes scary when damaged.,,Esta atacante cuerpo a cuerpo se transforma en espantajo al sufrir daño.,Attaque au corps-à-corps. Se change en Frayeur quand elle subit une attaque.,"Nahkämpferin. Wird viel bedrohlicher, wenn sie Schaden erleidet.",Specialista del corpo a corpo. Quando subisce danno diventa spaventosa.,Agressor corpo-a-corpo. Torna-se assustados ao sofrer dano.,近战攻击者。受伤时变得可怕。
 ENEMY_MEATSLIME_NAME,Meat Slime,,Baba carnosa,Vasard de chair,Fleischiger Schleim,Gelatina di Carne,Geleia de Carne,肉史莱姆
 ENEMY_MEATSLIME_DESC,Splits into Clots on death.,,Se divide en coágulos al morir.,Se divise en caillots à sa mort.,"Teilt sich in Blutgerinnsel auf, wenn er stirbt.",Si divide in Grumi alla sua morte.,Divide-se em coágulos ao morrer.,死亡时分裂成血块。
-ENEMY_THROBBINGTURRET_NAME,Throbbing Turret,,Torreta palpitante,Tourelle lancinante,Pulsierender Geschützturm,Torretta Pulsante,Torreta Pulsante,跳动炮塔
+ENEMY_THROBBINGTURRET_NAME,Throbbing Turret,,Torreta palpitante,Tourelle lancinante,Pulsierender Turm,Torretta Pulsante,Torreta Pulsante,跳动炮塔
 ENEMY_THROBBINGTURRET_DESC,Ranged area attack that inflicts Bleed. Spawns Clots if nothing is in range.,,Lanza un ataque a distancia en un área que inflige hemorragia. Genera coágulos si no tiene nada al alcance.,Attaque à distance de zone qui inflige Saignement. Invoque des caillots si aucune unité n'est à portée.,"Hat einen Fernkampf-Flächenangriff, der Blutung verursacht. Erschafft Blutgerinnsel, wenn sich keine Einheiten in Reichweite befinden.",Un attacco a distanza che colpisce un'area e che infligge Sanguinamento. Genera Grumi se non c'è nulla nel suo raggio d'azione.,Possui um ataque à distância que aplica sangramento. Gera coágulos se nada estiver ao alcance.,"远程范围攻击，造成流血。
 若范围内无目标，生成血块。"
 ENEMY_THROBSERVANT_NAME,Throbbing Servant,,Siervo palpitante,Servant lancinant,Pulsierender Diener,Servo Pulsante,Servo Pulsante,跳动仆从
@@ -1481,7 +1485,7 @@ Se transforma en alubia de Frank al morir.","Aspire les unités, puis les recrac
 Se change en haricot de Frank à sa mort.","Saugt Einheiten an und spuckt sie wieder aus.
 Wird zu Franks Bohne, wenn er stirbt.","Risucchia le unità, poi le sputa.
 Diventa Fagiolo di Frank quando viene ucciso.","Suga unidades e então as cospe.
-Torna-se o Feijão de Frank ao morrer.","会吸入单位，然后吐出来。
+Torna-se um Feijão de Frank ao morrer.","会吸入单位，然后吐出来。
 死亡时变成弗兰克的豆豆。"
 ENEMY_CHERUBIUM_NAME,Cherubim,,Querube,Chérubin,Cherubim,Cherubino,Querubim,智天使
 ENEMY_CHERUBIUM_DESC,"Gives its allies [img:divineshield].
@@ -1560,7 +1564,7 @@ Morto-vivo.","追击最大生命值最低的猫。
 立刻击杀并永久降低其[img:con] 2点。"
 //cat enemies,,,,,,,,
 ENEMY_TOMTOM_NAME,Tom Tom,,Tom Tom,Tom Tom,Tom Tom,Tom Tom,Tom Tom,汤姆汤姆
-ENEMY_TOMTOM_DESC,"It's slow, but has a wide melee attack.",,"Es lento, pero lanza un ataque cuerpo a cuerpo amplio.","Lent, mais dispose d'une attaque au corps à corps ample.","Er ist langsam, hat aber einen weiten Nahkampfangriff.","È lento, ma possiede un attacco corpo a corpo di ampia gittata.","É lento, mas possui um ataque corpo-a-corpo amplo.","行动缓慢，
+ENEMY_TOMTOM_DESC,"It's slow, but has a wide melee attack.",,"Es lento, pero lanza un ataque cuerpo a cuerpo amplio.","Lent, mais dispose d'une attaque au corps-à-corps ample.","Er ist langsam, hat aber einen weiten Nahkampfangriff.","È lento, ma possiede un attacco corpo a corpo di ampia gittata.","É lento, mas possui um ataque corpo-a-corpo amplo.","行动缓慢，
 但拥有广范围近战攻击。"
 ENEMY_MANGY_NAME,Mangy,,Sarni,Croûton,Räudiger,Pulcioso,Sarnento,邋遢
 ENEMY_MANGY_DESC,"Its ranged attack may inflict Poison.
@@ -1593,7 +1597,7 @@ ENEMY_SIREN_DESC,Calls its enemies towards it and heals its adjacent allies.,,At
 ENEMY_JEKYLL_NAME,Jekyll,,Jekyll,Jekyll,Jekyll,Jekyll,Jekyll,杰基尔
 ENEMY_JEKYLL_DESC,It will evolve in several turns.,,Evoluciona a lo largo de varios turnos.,Évoluera dans plusieurs tours.,Verwandelt sich nach mehreren Zügen.,Evolve in diversi turni.,Evolui após alguns turnos.,它将在数回合内进化。
 ENEMY_HYDE_NAME,Hyde,,Hyde,Hyde,Hyde,Hyde,Hyde,海德
-ENEMY_HYDE_DESC,Its melee attack can hit multiple times!,,Su ataque cuerpo a cuerpo puede golpear varias veces.,Ses attaques au corps à corps peuvent toucher plusieurs fois&nbsp;!,Sein Nahkampfangriff kann mehrfach treffen!,Il suo attacco corpo a corpo può colpire più volte!,Seu ataque corpo-a-corpo pode golpear diversas vezes.,其近战攻击可以多次命中！
+ENEMY_HYDE_DESC,Its melee attack can hit multiple times!,,Su ataque cuerpo a cuerpo puede golpear varias veces.,Ses attaques au corps-à-corps peuvent toucher plusieurs fois&nbsp;!,Sein Nahkampfangriff kann mehrfach treffen!,Il suo attacco corpo a corpo può colpire più volte!,Seu ataque corpo-a-corpo pode golpear diversas vezes.,其近战攻击可以多次命中！
 ENEMY_SPIKEDCAT_NAME,Spiked Cat,,Gato espinado,Chat à pics,Stachelkatze,Gatto Spinato,Gato Espinhento,带刺的猫
 ENEMY_SPIKEDCAT_DESC,Be careful of its Thorns!,,¡Cuidado con las espinas!,Prenez garde à ses épines&nbsp;!,Nimm dich vor ihren Dornen in Acht!,Attenzione alle sue spine!,Cuidado com seus espinhos!,小心它的荆棘！
 ENEMY_POPEYE_NAME,Popeye,,Popeye,Popeye,Krummauge,Braccio di Ferro,Popeye,大力水手
@@ -1637,7 +1641,7 @@ Potrebbe essere nascosto in acqua...","Foge ao sofrer dano.
 Pode estar se escondendo na água...","受到伤害时会远离。
 可能藏在水中……"
 ENEMY_ALBINOTOMTOM_NAME,Albino Tom Tom,,Tom Tom albino,Tom Tom albinos,Albino Tom Tom,Tom Tom Albino,Tom Tom Albino,白化汤姆汤姆
-ENEMY_ALBINOTOMTOM_DESC,Its wide melee attacks have Knockback 2.,,Lanza un ataque cuerpo a cuerpo amplio que inflige 2 de retroceso.,Ses attaques amples au corps à corps infligent Recul +2.,Sein weiter Nahkampfangriff hat Rückstoß&nbsp;2.,Il suo ampio attacco corpo a corpo possiede Contraccolpo 2.,Seus ataques corpo-a-corpo amplos possuem empurrão 2.,"它的宽范围近战攻击具有击退 2 效果。
+ENEMY_ALBINOTOMTOM_DESC,Its wide melee attacks have Knockback 2.,,Lanza un ataque cuerpo a cuerpo amplio que inflige 2 de retroceso.,Ses attaques amples au corps-à-corps infligent Recul +2.,Sein weiter Nahkampfangriff hat Rückstoß&nbsp;2.,Il suo ampio attacco corpo a corpo possiede Contraccolpo 2.,Seus ataques corpo-a-corpo amplos possuem empurrão 2.,"它的宽范围近战攻击具有击退 2 效果。
 "
 ENEMY_SPIDERKITTEN_NAME,Spider Kitten,,Gatito araña,Chaton-araignée,Spinnenkätzchen,Gattino Ragno,Gatinho Aranha,蜘蛛猫咪
 ENEMY_SPIDERKITTEN_DESC,"Will Web units, then drain their HP.
@@ -1739,7 +1743,7 @@ ENEMY_WERECAT_DESC,Can use both its dash attack and its leap attack in the same 
 ENEMY_GOLEM_NAME,Golem,,Gólem,Golem,Golem,Golem,Golem,魔像
 ENEMY_GOLEM_DESC,Invulnerable. Dies when all of its allies are dead.,,Invulnerable. Muere cuando todos los aliados han muerto.,Invulnérable. Meurt quand tous ses alliés sont morts.,"Unverwundbar. Stirbt, wenn alle seine Verbündeten tot sind.",Invulnerabile. Muore quando muoiono tutti i suoi alleati.,Invulnerável. Morre quando todos os seus aliados estão mortos.,无敌。所有盟友死后才会死亡。
 ENEMY_SCORPIONCAT_NAME,Scorpion Cat,,Gato escorpión,Chat scorpion,Skorpionkatze,Gatto Scorpione,Gato Escorpião,蝎子猫
-ENEMY_SCORPIONCAT_DESC,Its melee attacks can Poison or Immobilize.,,Su ataque cuerpo a cuerpo inflige veneno o inmovilización.,Ses attaques au corps à corps peuvent infliger Poison et Immobilisation.,Ihr Nahkampfangriff kann Gift verursachen oder bewegungsunfähig machen.,Il suo attacco corpo a corpo può infliggere Veleno o Immobilizzazione.,Seus ataques corpo-a-corpo podem aplicar veneno ou imobilizar.,"它的近战攻击可以造成中毒或定身。
+ENEMY_SCORPIONCAT_DESC,Its melee attacks can Poison or Immobilize.,,Su ataque cuerpo a cuerpo inflige veneno o inmovilización.,Ses attaques au corps-à-corps peuvent infliger Poison et Immobilisation.,Ihr Nahkampfangriff kann Gift verursachen oder bewegungsunfähig machen.,Il suo attacco corpo a corpo può infliggere Veleno o Immobilizzazione.,Seus ataques corpo-a-corpo podem aplicar veneno ou imobilizar.,"它的近战攻击可以造成中毒或定身。
 "
 ENEMY_MUMMIFIEDMANGY_NAME,Mummified Mangy,,Sarni momificada,Croûton momifié,Räudige Mumie,Pulcioso Mummificato,Sarnento Mumificado,木乃伊瘪猫
 ENEMY_MUMMIFIEDMANGY_DESC,"Its ranged attack may inflict Poison.
@@ -1766,7 +1770,7 @@ ENEMY_HORNYCAT_DESC,Its ranged attack inflicts Blind.,,Su ataque a distancia inf
 ENEMY_INFESTEDKITTEN_NAME,Infested Kitten,,Gatito infestado,Chaton infesté,Infiziertes Kätzchen,Gattino Infestato,Gatinho Infestado,被感染的小猫
 ENEMY_INFESTEDKITTEN_DESC,"Its melee attack inflicts Possessed.
 Moves away when damaged.",,"Su ataque cuerpo a cuerpo inflige posesión.
-Se aleja al sufrir daño.","Son attaque au corps à corps inflige Possession.
+Se aleja al sufrir daño.","Son attaque au corps-à-corps inflige Possession.
 Recule quand il est touché.","Ihr Nahkampfangriff verursacht Besessen.
 Bewegt sich weg, wenn es Schaden erleidet.","Il suo attacco corpo a corpo infligge Possessione.
 Si allontana quando subisce danno.","Seu ataque corpo-a-corpo aplica possessão.
@@ -1815,10 +1819,10 @@ Explode ao morrer.","在其回合开始时发出一股辐射。
 受到伤害时会传送离开。
 被击杀时爆炸。"
 ENEMY_ROBOCAT_NAME,Robo-Cat,,Robogato,Robo-chat,Robokatze,Robo-Gatto,Robogato,机器人猫
-ENEMY_ROBOCAT_DESC,Its wide melee attacks have Knockback 10.,,Lanza un ataque cuerpo a cuerpo amplio que inflige 10 de retroceso.,Ses attaques amples au corps à corps infligent Recul +10.,Ihre weiten Nahkampfangriffe haben Rückstoß&nbsp;10.,Il suo ampio attacco corpo a corpo possiede Contraccolpo 10.,Seus ataques corpo-a-corpo amplos possuem empurrão 10.,"它的广泛近战攻击拥有击退10。
+ENEMY_ROBOCAT_DESC,Its wide melee attacks have Knockback 10.,,Lanza un ataque cuerpo a cuerpo amplio que inflige 10 de retroceso.,Ses attaques amples au corps-à-corps infligent Recul +10.,Ihre weiten Nahkampfangriffe haben Rückstoß&nbsp;10.,Il suo ampio attacco corpo a corpo possiede Contraccolpo 10.,Seus ataques corpo-a-corpo amplos possuem empurrão 10.,"它的广泛近战攻击拥有击退10。
 "
 ENEMY_CATCULTIST_NAME,Cat Cultist,,Sectario felino,Chat fanatique,Katzenkultist,Gatto Cultista,Gato Cultista,猫教徒
-ENEMY_CATCULTIST_DESC,Melee attacker. Increases the amount of times it can attack each turn whenever it takes damage.,,Este atacante cuerpo a cuerpo aumenta la cantidad de veces que puede atacar en cada turno siempre que sufre daño.,Attaque au corps à corps. Le nombre d'attaques par tour augmente chaque fois qu'il subit des dégâts.,"Nahkämpfer. Kann jedes Mal, wenn er Schaden erleidet, öfter pro Zug angreifen.",Specialista del corpo a corpo. Aumenta il numero di volte in cui può attaccare durante ogni turno ogni volta che subisce danno.,Agressor corpo-a-corpo. Aumenta a quantidade de vezes que pode atacar a cada turno à medida que sofre dano.,"近战攻击者。每当受到伤害时，
+ENEMY_CATCULTIST_DESC,Melee attacker. Increases the amount of times it can attack each turn whenever it takes damage.,,Este atacante cuerpo a cuerpo aumenta la cantidad de veces que puede atacar en cada turno siempre que sufre daño.,Attaque au corps-à-corps. Le nombre d'attaques par tour augmente chaque fois qu'il subit des dégâts.,"Nahkämpfer. Kann jedes Mal, wenn er Schaden erleidet, öfter pro Zug angreifen.",Specialista del corpo a corpo. Aumenta il numero di volte in cui può attaccare durante ogni turno ogni volta che subisce danno.,Agressor corpo-a-corpo. Aumenta a quantidade de vezes que pode atacar a cada turno à medida que sofre dano.,"近战攻击者。每当受到伤害时，
 增加每回合的攻击次数。"
 ENEMY_DEMONHOOKER_NAME,Chain Demon,,Demonio enganchador,Lecornu,Kettendämon,Demone con Catena,Demônio Encadeado,链魔
 ENEMY_DEMONHOOKER_DESC,"Will hook and pull units toward itself.
@@ -1852,7 +1856,7 @@ Cego.","受到伤害时会带着践踏冲刺10格。
 ENEMY_ROVER_NAME,Rover,,Róver,Astromobile,Katzenwagen,Rover,Rover,流浪者
 ENEMY_ROVER_DESC,Has a chaining dash attack.,,Lanza un ataque relámpago encadenado.,Dispose d'une attaque impulsée en chaîne.,Führt einen Mehrfachansturm aus.,Possiede un attacco in scatto concatenato.,Possui um ataque de impulso encadeado.,拥有连锁冲刺攻击。
 ENEMY_ASTRONAUT_NAME,Astronaut,,Astronauta,Astronaute,Astronaut,Astronauta,Astronauta,宇航员
-ENEMY_ASTRONAUT_DESC,Its melee attack has a high chance to inflict Stun.,,Su ataque cuerpo a cuerpo tiene mucha probabilidad de aturdir.,Son attaque au corps à corps a de fortes chances d'infliger Étourdissement.,Sein Nahkampfangriff verursacht mit hoher Wahrscheinlichkeit Betäubung.,Il suo attacco corpo a corpo ha una buona probabilità di infliggere Stordimento.,Seu ataque corpo-a-corpo possui uma grande chance de aplicar atordoamento.,"它的近战攻击有较高概率造成眩晕。
+ENEMY_ASTRONAUT_DESC,Its melee attack has a high chance to inflict Stun.,,Su ataque cuerpo a cuerpo tiene mucha probabilidad de aturdir.,Son attaque au corps-à-corps a de fortes chances d'infliger Étourdissement.,Sein Nahkampfangriff verursacht mit hoher Wahrscheinlichkeit Betäubung.,Il suo attacco corpo a corpo ha una buona probabilità di infliggere Stordimento.,Seu ataque corpo-a-corpo possui uma grande chance de aplicar atordoamento.,"它的近战攻击有较高概率造成眩晕。
 "
 ENEMY_DRCAT_NAME,Dr. Cat,,Dr. Gato,Chadoc,Dr. Katze,Dottor Gatto,Dr. Gato,猫博士
 ENEMY_DRCAT_DESC,Will randomly cast one of 6 spells.,,Lanza al azar uno de sus 6 hechizos.,Lance aléatoirement l'un de ses 6&nbsp;sorts.,Wirkt zufällig einen von sechs Zaubern.,Lancerà casualmente uno tra 6 incantesimi.,Lança aleatoriamente um entre seis encantamentos.,会随机施放6个法术中的一个。
@@ -1872,7 +1876,7 @@ ENEMY_SPUNCAT_DESC,Has a random class basic attack that inflicts a randomly assi
 ENEMY_STACYNO_NAME,Stacy #{stacy_number},"""Stacy #104512"" and such",Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},魅惑之斯黛西
 ENEMY_STACYNO_DESC,"Its melee attack inflicts Charm.
 Can heal and grant All Stats Up to its allies.",,"Su ataque cuerpo a cuerpo inflige embrujo.
-Puede curar a los aliados y otorgarles aumento total.","Son attaque au corps à corps inflige Envoûtement.
+Puede curar a los aliados y otorgarles aumento total.","Son attaque au corps-à-corps inflige Envoûtement.
 Peut soigner ses alliés et leur conférer Hausse de stats.","Ihr Nahkampfangriff verursacht Charme.
 Kann Verbündete heilen und ihnen einen Bonus auf alle Attribute verleihen.","Il suo attacco corpo a corpo infligge Fascino.
 Può guarire e fornire Aumento delle Statistiche ai suoi alleati.","Seu ataque corpo-a-corpo aplica feitiço.
@@ -1881,18 +1885,18 @@ Pode curar e conceder todos os atributos aumentados a aliados.","它的近战攻
 ENEMY_RAPTOR_NAME,Raptor,,Velocirraptor,Raptor,Raptor,Raptor,Raptor,迅猛龙
 ENEMY_RAPTOR_DESC,"Its melee attack hits a random amount of times.
 Pack hunter.",,"Su ataque cuerpo a cuerpo golpea un número de veces al azar.
-Caza en manada.","Son attaque au corps à corps frappe un nombre aléatoire de fois.
+Caza en manada.","Son attaque au corps-à-corps frappe un nombre aléatoire de fois.
 Chasse en meute.","Sein Nahkampfangriff wiederholt sich zufällig oft.
 Rudeljäger.","Il suo attacco corpo a corpo colpisce un numero casuale di volte.
 Cacciatore da branco.",Seu ataque corpo-a-corpo golpe uma quantidade aleatória de vezes.,"它的近战攻击命中次数随机。
 群体猎手。"
 ENEMY_RAPTORKITTEN_NAME,Raptor Kitten,,Cría de velocirraptor,Chaton raptor,Raptorkätzchen,Gattino Raptor,Gatinho Raptor,迅猛龙幼崽
-ENEMY_RAPTORKITTEN_DESC,Its melee attack inflicts bleed. Moves far away after attacking.,,Su ataque cuerpo a cuerpo inflige hemorragia. Se aleja mucho después de atacar.,Son attaque au corps à corps inflige Saignement. S'éloigne après avoir attaqué.,"Ihr Nahkampfangriff verursacht Blutung. Bewegt sich weit weg, nachdem sie angreift.",Il suo attacco corpo a corpo infligge Sanguinamento. Si allontana molto dopo aver attaccato.,Seu ataque corpo-a-corpo aplica sangramento. Afasta-se após atacar.,"它的近战攻击会造成流血。
+ENEMY_RAPTORKITTEN_DESC,Its melee attack inflicts bleed. Moves far away after attacking.,,Su ataque cuerpo a cuerpo inflige hemorragia. Se aleja mucho después de atacar.,Son attaque au corps-à-corps inflige Saignement. S'éloigne après avoir attaqué.,"Ihr Nahkampfangriff verursacht Blutung. Bewegt sich weit weg, nachdem sie angreift.",Il suo attacco corpo a corpo infligge Sanguinamento. Si allontana molto dopo aver attaccato.,Seu ataque corpo-a-corpo aplica sangramento. Afasta-se após atacar.,"它的近战攻击会造成流血。
 攻击后向远处移动。"
 ENEMY_ANKYLOSAURUS_NAME,Ankylosaurus,,Anquilosaurio,Ankylosaure,Ankylosaurus,Anchilosauro,Anquilossauro,甲龙
 ENEMY_ANKYLOSAURUS_DESC,"Has a wide melee attack with Knockback 10 and a chance to inflict Stun.
 Does a spin attack when it takes damage.",,"Tiene un ataque cuerpo a cuerpo amplio con 10 de retroceso y probabilidad de aturdir.
-Lanza un ataque giratorio al sufrir daño.","Dispose d'une attaque au corps à corps ample avec Recul +10&nbsp;et une chance d'infliger Étourdissement.
+Lanza un ataque giratorio al sufrir daño.","Dispose d'une attaque au corps-à-corps ample avec Recul +10&nbsp;et une chance d'infliger Étourdissement.
 Effectue une attaque tournoyante quand il est touché.","Hat einen weiten Nahkampfangriff mit Rückstoß&nbsp;10 und kann Betäubung verursachen.
 Führt einen Wirbelangriff aus, wenn er Schaden erleidet.","Possiede un ampio attacco corpo a corpo con Contraccolpo 10 e possibilità di infliggere Stordimento.
 Esegue un attacco rotante quando subisce danno.","Possui um ataque corpo-a-corpo amplo com empurrão 10 e uma chance de aplicar atordoamento.
@@ -1922,7 +1926,7 @@ ENEMY_YETICAT_NAME,Yeti Cat,,Yetigato,Chat yéti,Yetikatze,Gatto Yeti,Gato Yeti,
 ENEMY_YETICAT_DESC,"Its ranged ice attack inflicts Slow and has a chance to inflict Freeze.
 Counter attacks melee attackers.",,"Su ataque a distancia con hielo inflige ralentización y puede infligir congelación.
 Contrataca a los atacantes cuerpo a cuerpo.","Son attaque à distance de glace inflige Lenteur et a une chance d'infliger Gel.
-Contre-attaque face aux attaquants au corps à corps.","Ihr Eis-Fernkampfangriff verursacht Verlangsamung und kann Einheiten einfrieren.
+Contre-attaque face aux attaquants au corps-à-corps.","Ihr Eis-Fernkampfangriff verursacht Verlangsamung und kann Einheiten einfrieren.
 Kontert Nahkampfangriffe.","Il suo attacco di ghiaccio a distanza infligge Rallentamento e ha la possibilità di infliggere Congelamento.
 Contrattacca chi lo attacca corpo a corpo.","Seu ataque à distância de gelo aplica lentidão e possui uma chance de aplicar congelamento.
 Contra-ataca agressores corpo-a-corpo.","它的远程冰攻击会造成减速，
@@ -1934,7 +1938,7 @@ Does a double-hit melee attack that inflicts bleed at the start of its turn if a
 Hates Cavemen!",,"Se abalanza sobre las unidades.
 Lanza un ataque cuerpo a cuerpo que golpea dos veces para infligir hemorragia al inicio del turno si hay enemigos adyacentes.
 ¡Odia a los cavernícolas!","Bondit sur les unités.
-Effectue une attaque multiple au corps à corps qui inflige Saignement au début de son tour aux ennemis adjacents.
+Effectue une attaque multiple au corps-à-corps qui inflige Saignement au début de son tour aux ennemis adjacents.
 A horreur des hommes des cavernes&nbsp;!","Springt Einheiten an.
 Führt am Anfang ihres Zuges einen doppelten Nahkampfangriff, der Blutung verursacht, aus, wenn es benachbarte Einheiten gibt.
 Hasst Höhlenmenschen!","Si avventa sulle unità.
@@ -1944,12 +1948,12 @@ Realiza um ataque corpo-a-corpo duplo que aplica sangramento no início de seu t
 Odeia homens das cavernas!","扑向单位。
 如果回合开始时有敌人邻近，
 进行双重近战攻击并造成流血。"
-ENEMY_SABERTOOTHKITTEN_NAME,Sabertooth Kitten,,Gatito dientes de sable,Chaton smilodon,Säbelzahnkätzchen,Gattino dai Denti a Sciabola,Filhote de Gato Dentes de Sabre,剑齿虎幼崽
+ENEMY_SABERTOOTHKITTEN_NAME,Sabertooth Kitten,,Gatito dientes de sable,Chaton smilodon,Säbelzahnkätzchen,Gattino dai Denti a Sciabola,Gatinho Dentes de Sabre,剑齿虎幼崽
 ENEMY_SABERTOOTHKITTEN_DESC,"Has a multi hit melee attack that inflicts Bleed.
 Can heal its allies.
 Hates Cavemen!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces para infligir hemorragia.
 Puede curar a los aliados.
-¡Odia a los cavernícolas!","Dispose d'attaque multiple au corps à corps qui inflige Saignement.
+¡Odia a los cavernícolas!","Dispose d'attaque multiple au corps-à-corps qui inflige Saignement.
 Peut soigner ses alliés.
 A horreur des hommes des cavernes&nbsp;!","Hat einen mehrfach treffenden Nahkampfangriff, der Blutung verursacht.
 Kann Verbündete heilen.
@@ -1965,7 +1969,7 @@ ENEMY_MAMMOTHKITTEN_DESC,"Its melee attack knocks units into the air.
 Bruises and knocks back adjacent units at the start of its turn.
 Trample.",,"Su ataque cuerpo a cuerpo lanza a las unidades por los aires.
 Inflige moratón y retroceso a las unidades adyacentes al inicio del turno.
-Pisotón.","Son attaque au corps à corps projette les unités en l'air.
+Pisotón.","Son attaque au corps-à-corps projette les unités en l'air.
 Inflige Contusion et repousse les unités adjacentes au début de son tour.
 Piétinement.","Sein Nahkampfangriff stößt Einheiten in die Luft.
 Verursacht Beulen und stößt benachbarte Einheiten am Anfang seines Zuges zurück.
@@ -1982,14 +1986,14 @@ ENEMY_SKINNED_DESC,Does 3 dash attacks in a row with Knockback.,,Lanza 3 ataques
 ENEMY_STEMCAT_NAME,Stem Cat,,Citogato,Chat écorché,Stammkatze,Gatto Staminale,Gato-Tronco,茎猫
 ENEMY_STEMCAT_DESC,"Melee attacker.
 Spawns a Clot when it takes damage.",,"Atacante cuerpo a cuerpo.
-Genera un coágulo al sufrir daño.","Attaque au corps à corps.
+Genera un coágulo al sufrir daño.","Attaque au corps-à-corps.
 Invoque un caillot quand il subit des dégâts.","Nahkämpfer.
 Lässt ein Blutgerinnsel erscheinen, wenn sie Schaden erleidet.","Specialista del corpo a corpo.
 Genera un Grumo quando subisce danno.","Agressor corpo-a-corpo.
 Gera um coágulo ao sofrer dano.","近战攻击者。
 受到伤害时生成一个血块。"
 ENEMY_KATZEBOT_NAME,Katzebot,cat bot (see the note about robot nazi enemies elsewhere),Katzebot,Katzebot,Katzenbot,Bot Gatten,Katzebot,卡兹博特
-ENEMY_KATZEBOT_DESC,Melee attacker. Focuses its lowest health enemy. Will Suplex others out of the way.,,Este atacante cuerpo a cuerpo se centra en el enemigo con menos PS. Aparta a los demás con Súplex.,Attaque au corps à corps. Cible en priorité l'ennemi aux PV les plus bas. Effectue des suplex pour écarter les autres.,"Nahkämpfer. Bevorzugt den Gegner mit den niedrigsten LP. Verwendet Suplex bei Gegnern, die im Weg stehen.",Specialista del corpo a corpo. Si concentra sul suo nemico con salute più bassa. Scaglia lontano gli altri con Suplex.,Agressor corpo-a-corpo. Concentra-se no inimigo com menos saúde. Realiza ataques de suplex para tirar outros do caminho.,"近战攻击者。
+ENEMY_KATZEBOT_DESC,Melee attacker. Focuses its lowest health enemy. Will Suplex others out of the way.,,Este atacante cuerpo a cuerpo se centra en el enemigo con menos PS. Aparta a los demás con Súplex.,Attaque au corps-à-corps. Cible en priorité l'ennemi aux PV les plus bas. Effectue des suplex pour écarter les autres.,"Nahkämpfer. Bevorzugt den Gegner mit den niedrigsten LP. Verwendet Suplex bei Gegnern, die im Weg stehen.",Specialista del corpo a corpo. Si concentra sul suo nemico con salute più bassa. Scaglia lontano gli altri con Suplex.,Agressor corpo-a-corpo. Concentra-se no inimigo com menos saúde. Realiza ataques de suplex para tirar outros do caminho.,"近战攻击者。
 优先攻击生命值最低的敌人。
 会把其他敌人摔投到一边。"
 ENEMY_FATCAT_NAME,Übercat, (see the note about robot nazi future enemies elsewhere),Übergato,Überchat,Überkatze,Übergatto,Übergato,乌贝尔猫
@@ -2005,7 +2009,7 @@ Reflete projéteis. PV sem limites.","拥有一个能造成范围击退的跳跃
 ENEMY_CANCERCAT_NAME,Cancer Cat,,Gato cancerígeno,Chat cancéreux,Krebskatze,Gatto Cancerogeno,Gato Câncer,癌症猫
 ENEMY_CANCERCAT_DESC,"Its melee attack causes cats it hits to lose 1 [img:con] permanently and has a chance to give them cancer.
 Explodes after 3 turns.",,"Su ataque cuerpo a cuerpo hace que los gatos pierdan 1 [img:con] para siempre y puede provocarles cáncer.
-Estalla después de 3 turnos.","Son attaque au corps à corps fait perdre définitivement 1&nbsp;[img:con] aux chats qu'elle touche et a une chance de leur donner le cancer.
+Estalla después de 3 turnos.","Son attaque au corps-à-corps fait perdre définitivement 1&nbsp;[img:con] aux chats qu'elle touche et a une chance de leur donner le cancer.
 Explose après 3&nbsp;tours.","Ihr Nahkampfangriff lässt Katzen dauerhaft 1&nbsp;[img:con] verlieren und kann Krebs verursachen.
 Explodiert nach drei Zügen.","Il suo attacco corpo a corpo fa perdere permanentemente 1 alla [img:con] ai gatti che colpisce, e ha la possibilità di infliggere loro Cancro.
 Esplode dopo 3 turni.","Seu ataque corpo-a-corpo faz com que gatos percam 1 de [img:con] permanentemente e possui uma chance de aplicar câncer.
@@ -2033,7 +2037,7 @@ Copia os ataques e contra-ataques de todos os outros gatos do coletivo.","拥有
 ENEMY_SHADECAT_NAME,Shade Cat,,Gatosombra,Chat sombre,Schattenkatze,Gatto Ombra,Gato Sombra,影猫
 ENEMY_SHADECAT_DESC,"Melee attacker. Teleports behind a random one of its enemies when damaged.
 Its backstabs cause Fear and always crit.",,"Este atacante cuerpo a cuerpo se teletransporta detrás de un enemigo al azar al sufrir daño.
-Sus ataques por la espalda infligen miedo y siempre son críticos.","Attaque au corps à corps. Se téléporte derrière un ennemi aléatoire quand il subit des dégâts.
+Sus ataques por la espalda infligen miedo y siempre son críticos.","Attaque au corps-à-corps. Se téléporte derrière un ennemi aléatoire quand il subit des dégâts.
 Ses attaques sournoises infligent Peur et sont critiques à coup sûr.","Nahkämpfer. Teleportiert sich hinter einen zufälligen Gegner, wenn sie Schaden erleidet.
 Ihre Angriffe von hinten verursachen Angst und treffen immer kritisch.","Specialista del corpo a corpo. Si teletrasporta dietro un nemico casuale quando subisce danno.
 I suoi colpi alle spalle infliggono Paura e sono sempre critici.","Agressor corpo-a-corpo. Teletransporta-se para trás de um inimigo aleatório ao sofrer dano.
@@ -2049,7 +2053,7 @@ ENEMY_JACKCAT_DESC,Protects his allies.,,Protege a sus aliados.,Protège ses all
 ENEMY_CHAOSSTACY_NAME,Chaos Stacy,,Stacy caótica,Stacy du chaos,Chaos-Stacy,Caos Stacy,Stacy Caótica,混沌斯泰西
 ENEMY_CHAOSSTACY_DESC,"Its melee attack inflicts Scrambled.
 Reflects projectiles and knocks back units that contact.",,"Su ataque cuerpo a cuerpo inflige revoltijo.
-Devuelve los proyectiles y hace retroceder a las unidades que entran en contacto.","Son attaque au corps à corps inflige Désordre.
+Devuelve los proyectiles y hace retroceder a las unidades que entran en contacto.","Son attaque au corps-à-corps inflige Désordre.
 Renvoie les projectiles et repousse les unités qui la touchent.","Ihr Nahkampfangriff verursacht Durchgemischt.
 Reflektiert Geschosse und stößt Einheiten zurück, die sie berühren.","Il suo attacco corpo a corpo infligge Scompiglio.
 Respinge i proiettili e le unità che vi entrano in contatto.","Seu ataque corpo-a-corpo aplica embaralhamento.
@@ -2122,7 +2126,7 @@ Swats away melee attackers.",,"Lanza cepos para osos.
 Tiene afinidad por la hierba alta.
 Aparta a los atacantes cuerpo a cuerpo a base de golpes.","Lance des pièges à ours&nbsp;!
 À l'aise dans les hautes herbes.
-Repousse les attaquants au corps à corps.","Wirft Bärenfallen!
+Repousse les attaquants au corps-à-corps.","Wirft Bärenfallen!
 Bevorzugt hohes Gras.
 Stößt Nahkämpfer weg.","Lancia trappole per orsi!
 Ha una passione per l'erba alta.
@@ -2167,7 +2171,7 @@ ENEMY_STACYMUTANT_DESC,???,,¿?,???,???,???,???,"敌人：斯泰西变异体
 ENEMY_PEBBLES_NAME,Pebbles,,Pebbles,Pétra,Pebbles,Ciottolone,Seixos,鹅卵石
 ENEMY_PEBBLES_DESC,"Its melee attack knocks units back.
 Can throw rocks.",,"Su ataque cuerpo a cuerpo hace retroceder a las unidades.
-Puede lanzar rocas.","Son attaque au corps à corps repousse les unités.
+Puede lanzar rocas.","Son attaque au corps-à-corps repousse les unités.
 Peut lancer des pierres.","Sein Nahkampfangriff stößt Einheiten zurück.
 Kann Steine werfen.","Il suo attacco corpo a corpo respinge le unità.
 Può lanciare rocce.","Seu ataque corpo-a-corpo empurra unidades para trás.
@@ -2206,7 +2210,7 @@ Trample.",,"Engancha y atrae a las unidades que terminan el movimiento a su alca
 Lanza un ataque giratorio cuerpo a cuerpo que genera carne.
 Busca recogibles de carne.
 Pisotón.","Hameçonne et attire vers lui les unités qui terminent leur déplacement à portée, leur infligeant Saignement.
-Effectue une attaque tournoyante au corps à corps qui fait apparaître de la viande.
+Effectue une attaque tournoyante au corps-à-corps qui fait apparaître de la viande.
 Est attiré par la viande.
 Piétinement.","Verwendet seinen Haken, um Einheiten an sich heranzuziehen, die in Reichweite stehenbleiben. Verursacht Blutung.
 Sein Wirbelangriff lässt Fleisch erscheinen.
@@ -2244,7 +2248,7 @@ Entra na forma de esquilo quando seus corvos morrem.","治疗并强化他的乌�
 "
 ENEMY_DRAVENSQUIRRELFORM_DESC,"Has a multi-hit melee attack.
 Spawns squirrels.",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
-Genera ardillas.","Attaque multiple au corps à corps.
+Genera ardillas.","Attaque multiple au corps-à-corps.
 Invoque des écureuils.","Hat einen mehrfach treffenden Nahkampfangriff.
 Lässt Eichhörnchen erscheinen.","Possiede un attacco corpo a corpo multiplo.
 Genera scoiattoli.","Possui um ataque corpo-a-corpo multigolpes.
@@ -2253,7 +2257,7 @@ Gera esquilos.","拥有多段近战攻击。
 ENEMY_DRAVENCROW_NAME,Draven's Crow,,Cuervo de Draven,Corbeau de Panoramis,Dravens Krähe,Il Corvo di Draven,Corvo de Draven,德雷文的乌鸦
 ENEMY_DRAVENCROW_DESC,"Melee attacker than can also use a wind attack with Knockback.
 Will move and attack enemies that attack Draven.",,"Este atacante cuerpo a cuerpo también puede lanzar un ataque ventoso con retroceso.
-Se mueve para atacar a los enemigos que atacan a Draven.","Attaquant au corps à corps pouvant utiliser une attaque de vent avec Recul.
+Se mueve para atacar a los enemigos que atacan a Draven.","Attaquant au corps-à-corps pouvant utiliser une attaque de vent avec Recul.
 Se déplace et attaque les ennemis qui s'en prennent à Panoramis.","Nahkämpfer mit einem Windangriff, der Rückstoß verursacht.
 Bewegt sich auf Gegner zu, die Draven angreifen, und greift sie an.","Specialista del corpo a corpo capace di usare anche un attacco di vento con Contraccolpo.
 Si muove e attacca i nemici che se prendono di mira Draven.","Agressor corpo-a-corpo que também pode utilizar um ataque de vento com empurrão.
@@ -2286,7 +2290,7 @@ ENEMY_PARAISARIA_DESC,Takes an extra turn for each Sprout.,,Juega un turno extra
 ENEMY_FRODROCKSNOW_NAME,Frod Rocksnow,,Petrio Picarroca,Fred Pierrafroid,Frod Eisstein,Frod Rocksnow,Frod Rochaneve,岩石巨人
 ENEMY_FRODROCKSNOW_DESC,"Has a wide melee attack with Knockback and a chance to stun.
 Can throw rocks.",,"Tiene un ataque cuerpo a cuerpo amplio con retroceso y probabilidad de aturdir.
-Puede lanzar rocas.","Dispose d'une attaque au corps à corps ample avec Recul et une chance d'infliger Étourdissement.
+Puede lanzar rocas.","Dispose d'une attaque au corps-à-corps ample avec Recul et une chance d'infliger Étourdissement.
 Peut lancer des pierres.","Hat einen weiten Nahkampfangriff mit Rückstoß, der betäuben kann.
 Kann Steine werfen.","Possiede un ampio attacco corpo a corpo con Contraccolpo e la possibilità di infliggere Stordimento.
 Può lanciare rocce.","Possui um ataque corpo-a-corpo amplo com empurrão e uma chance de atordoar.
@@ -2299,13 +2303,13 @@ ENEMY_WOLMAROCKSNOW_DESC,Has a ranged ice attack that inflicts Slow. Can heal it
 附加减速效果。可以治疗盟友。
 可以将敌人投掷给她的盟友。"
 ENEMY_POOBLESROCKSNOW_NAME,Poobles Rocksnow,,Pubbles Picarroca,Pépite Pierrafroid,Poobles Eisstein,Ciottolina Rocksnow,Poobles Rochaneve,熊夹雪岩
-ENEMY_POOBLESROCKSNOW_DESC,Places bear traps. Has a jumping melee attack.,,Coloca cepos para osos. Lanza un ataque cuerpo a cuerpo con salto.,Place des pièges à ours. Dispose d'une attaque au corps à corps sautée.,Platziert Bärenfallen. Hat einen Sprungangriff.,Piazza trappole per orsi. Possiede un attacco corpo a corpo in salto.,Prepara armadilhas de ursos. Possui um ataque corpo-a-corpo de salto.,"布置熊夹陷阱。
+ENEMY_POOBLESROCKSNOW_DESC,Places bear traps. Has a jumping melee attack.,,Coloca cepos para osos. Lanza un ataque cuerpo a cuerpo con salto.,Place des pièges à ours. Dispose d'une attaque au corps-à-corps sautée.,Platziert Bärenfallen. Hat einen Sprungangriff.,Piazza trappole per orsi. Possiede un attacco corpo a corpo in salto.,Prepara armadilhas de ursos. Possui um ataque corpo-a-corpo de salto.,"布置熊夹陷阱。
 拥有跳跃近战攻击。"
 ENEMY_DCLAUDE_NAME,D'Claude,"currently unused enemy, doesnt need loc",D'Claude,Sangrif,D'Claude,D'Artaglian,,德克劳德
 ENEMY_DCLAUDE_DESC,,,,,,,,
 ENEMY_WHITERABBIT_NAME,White Rabbit,,Conejo blanco,Lapin blanc,Weißer Hase,Bianconiglio,Coelho Branco,白兔
 ENEMY_WHITERABBIT_DESC,"What's he do, nibble your bum?","secret boss, gets flavor text instead of descriptive text.","¿Qué hace, dar mordisquitos en el culo?","Qu'est-ce qu'il va faire, te grignotez les miches&nbsp;?","Was soll der schon machen, an dir herumknabbern?","Che dovrebbe fare, morderti il sedere?","O que ele fez, mordeu seu bumbum?",他干啥，啃你屁股吗？
-ENEMY_CANCREEPER_NAME,Can Creeper,,Reptacubos,Poubellard,Kannenkriecher,Melma di Lattina,Videiro,爬行者
+ENEMY_CANCREEPER_NAME,Can Creeper,,Reptacubos,Poubellard,Kannenkriecher,Melma di Lattina,Lataria,爬行者
 ENEMY_CANCREEPER_DESC,"Shoots diagonally or dashes forward leaving a Fly behind.
 Can only be damaged from the front.
 Spawns creep.",,"Dispara en diagonal o corre hacia delante, dejando una mosca a su paso.
@@ -2318,7 +2322,7 @@ Lässt Ekelschleim erscheinen.","Spara in diagonale oppure scatta in avanti lasc
 Può subire danno solo da attacchi frontali.
 Genera Melma.","Dispara diagonalmente ou dá um impulso para frente, deixando uma mosca para trás.
 Só pode sofrer dano pela frente.
-Gera ervas daninhas.","斜向射击或冲刺向前，
+Gera gosma.","斜向射击或冲刺向前，
 留下一个蝇爪。
 只能从正面受到伤害。"
 ENEMY_CANCREEPEROUT_DESC,"Ranged attacker.
@@ -2327,12 +2331,12 @@ Debe estar en líquido tóxico para atacar.","Attaque à distance.
 Doit se tenir dans de la bave toxique pour attaquer.","Fernkämpfer.
 Muss sich in Ekelschleim aufhalten, um anzugreifen.","Specialista degli attacchi a distanza.
 Per poter attaccare deve trovarsi nella melma.","Agressor à distância.
-Precisa estar em videiras para atacar.","远程攻击者。
+Precisa estar em gosma para atacar.","远程攻击者。
 必须在腐殖中才能攻击。"
 ENEMY_BIGSLIME_NAME,Big Slime,,Gran Malababa,Gros vasard,Großer Schleim,Gelatina Grande,Geleia Grande,大史莱姆
 ENEMY_BIGSLIME_DESC,"Melee attacker.
 Splits into 4 medium Slimes on death.",,"Atacante cuerpo a cuerpo.
-Se divide en 4 babas medianas al morir.","Attaque au corps à corps.
+Se divide en 4 babas medianas al morir.","Attaque au corps-à-corps.
 Se divise en 4&nbsp;vasards à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;mittlere Schleime auf, wenn er stirbt.","Specialista del corpo a corpo.
 Quando muore si divide in 4 Gelatine Medie.","Agressor corpo-a-corpo.
@@ -2341,14 +2345,14 @@ Divide-se em 4 geleias médias ao morrer.","近战攻击者。
 ENEMY_MEDIUMSLIME_NAME,Medium Slime,,Baba mediana,Vasard,Mittlerer Schleim,Gelatina Media,Geleia Média,中型史莱姆
 ENEMY_MEDIUMSLIME_DESC,"Melee attacker.
 Splits into 4 small Slimes on death.",,"Atacante cuerpo a cuerpo.
-Se divide en 4 babas pequeñas al morir.","Attaque au corps à corps.
+Se divide en 4 babas pequeñas al morir.","Attaque au corps-à-corps.
 Se divise en 4&nbsp;petits vasards à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;kleine Schleime auf, wenn er stirbt.","Specialista del corpo a corpo.
 Quando muore si divide in 4 Gelatine Piccole.","Agressor corpo-a-corpo.
 Divide-se em 4 geleias pequenas ao morrer.","近战攻击者。
 死亡时分裂成4个小型史莱姆。"
 ENEMY_SMALLSLIME_NAME,Small Slime,,Baba pequeña,Petit vasard,Kleiner Schleim,Gelatina Piccola,Geleia Pequena,小型史莱姆
-ENEMY_SMALLSLIME_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps à corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo.,近战攻击者。
+ENEMY_SMALLSLIME_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps-à-corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo.,近战攻击者。
 ENEMY_GAMBIT_NAME,Gambit,,Gambito,Chasard,Gambit,Azzardolo,Gambit,赌局
 ENEMY_GAMBIT_DESC,Has 6 special moves tied to the number on its dice! Higher numbers are more deadly.,,"Tiene 6 movimientos especiales vinculados con el número de los dados. Cuanto más alto sea el número, más letal.","Dispose de 6&nbsp;attaques spéciales correspondant aux chiffres de son dé&nbsp;! Plus ils sont élevés, plus elles sont redoutables.","Hat 6&nbsp;Spezialangriffe, die von seinem Würfelwurf abhängen! Höhere Zahlen sind tödlicher.",Ha 6 mosse speciali legate al numero che tira coi dadi! I numeri più alti sono più letali.,Possui 6 movimentos especiais ligados ao número de seu dado! Números mais altos são mais mortais.,"有6个与骰子点数相关的特殊招式！
 
@@ -2398,10 +2402,10 @@ Imune contra fogo.","受伤时从脖子喷射熔岩。
 从背后被击中时会变得狂暴。
 免疫火焰。"
 ENEMY_ASTROZOMBIE_NAME,Abandoned One,,Abandonado,Le Délaissé,Verstoßener,L'Abbandonato,O Abandonado,被遗弃者
-ENEMY_ASTROZOMBIE_DESC,Its melee attacks inflict random injuries.,,Sus ataques cuerpo a cuerpo infligen lesiones al azar.,Ses attaques au corps à corps infligent des blessures aléatoires.,Sein Nahkampfangriff verursacht zufällige Verletzungen.,I suoi attacchi corpo a corpo infliggono ferite casuali.,Seu ataque corpo-a-corpo aplica ferimentos aleatórios.,其近战攻击会造成随机伤害。
+ENEMY_ASTROZOMBIE_DESC,Its melee attacks inflict random injuries.,,Sus ataques cuerpo a cuerpo infligen lesiones al azar.,Ses attaques au corps-à-corps infligent des blessures aléatoires.,Sein Nahkampfangriff verursacht zufällige Verletzungen.,I suoi attacchi corpo a corpo infliggono ferite casuali.,Seu ataque corpo-a-corpo aplica ferimentos aleatórios.,其近战攻击会造成随机伤害。
 ENEMY_ASTROZOMBIEHEAD_DESC,"Its melee attack inflicts Burn.
 Its scream will inflict Fear.",,"Su ataque cuerpo a cuerpo inflige quemadura.
-Su grito inflige miedo.","Ses attaques au corps à corps infligent Brûlure.
+Su grito inflige miedo.","Ses attaques au corps-à-corps infligent Brûlure.
 Son cri inflige Peur.","Sein Nahkampfangriff verursacht Verbrennung.
 Sein Schrei verursacht Angst.","Il suo attacco corpo a corpo infligge Bruciatura.
 Il suo urlo infligge Paura.","Seu ataque corpo-a-corpo aplica queimadura.
@@ -2424,7 +2428,7 @@ ENEMY_RATKING_NAME,Rat King,,Rey Rata,Roi des rats,Rattenkönig,Re Ratto,Rei dos
 ENEMY_RATKING_DESC,Spawns Lil' Rats and throws adjacent units.,,Genera ratillas y lanza a las unidades adyacentes por los aires.,Invoque des ratons et lance les unités qui lui sont adjacentes.,Ruft Rattenfratze und wirft benachbarte Einheiten.,Evoca Topolini e lancia le unità adiacenti.,Gera pequenos ratos e lança unidades adjacentes.,生成小老鼠并击退相邻单位。
 ENEMY_GIRLDINO_NAME,Pachysaurus [img:female],,Paquisaurio [img:female],Pachysaurus [img:female],Pachysaurus [img:female],Pachysaura [img:female],Paquicefalossauro [img:female],敌女恐龙
 ENEMY_BOYDINO_NAME,Pachysaurus [img:male],,Paquisaurio [img:male],Pachysaurus [img:male],Pachysaurus [img:male],Pachysauro [img:male],Paquicefalossauro [img:male],厚皮龙
-ENEMY_DINOLOVER_DESC,Melee attacker. Defends its partner.,,Atacante cuerpo a cuerpo. Defiende a su pareja.,Attaque au corps à corps. Protège son partenaire.,Nahkämpfer. Verteidigt den Partner.,Specialista del corpo a corpo. Difende il proprio partner.,Agressor corpo-a-corpo. Defende seu parceiro.,近战攻击者。保护它的伙伴。
+ENEMY_DINOLOVER_DESC,Melee attacker. Defends its partner.,,Atacante cuerpo a cuerpo. Defiende a su pareja.,Attaque au corps-à-corps. Protège son partenaire.,Nahkämpfer. Verteidigt den Partner.,Specialista del corpo a corpo. Difende il proprio partner.,Agressor corpo-a-corpo. Defende seu parceiro.,近战攻击者。保护它的伙伴。
 ENEMY_BLOAT_NAME,The Bloat,,La Pústula,Le Bouffi,Der Klops,La Pustola,O Inchaço,膨胀者
 ENEMY_BLOAT_DESC,"Does a blood blast when units walk past its sides.
 Spawns Eyeballs.",,"Provoca una explosión de sangre cuando las unidades pasan por su lado.
@@ -2528,7 +2532,7 @@ Does a melee spin attack.",,"Sufre ceguera.
 Dispara un proyectil venenoso al sufrir daño.
 Lanza un ataque giratorio cuerpo a cuerpo.","Cécité.
 Tire un projectile empoisonné quand il est blessé.
-Effectue une attaque tournoyante au corps à corps.","Blind.
+Effectue une attaque tournoyante au corps-à-corps.","Blind.
 Verschießt Gift, wenn er Schaden erleidet.
 Führt einen Wirbelangriff aus.","Cieco.
 Spara un colpo velenoso quando subisce danno.
@@ -2549,11 +2553,11 @@ Wirft ein giftiges Ekelschleimgeschoss, wenn er Schaden erleidet.
 Führt einen Sprungangriff mit Rückstoß aus.","Cieco.
 Spara un colpo di melma velenoso a parabola quando subisce danno.
 Esegue un attacco in salto con Contraccolpo.","Cego.
-Realiza um disparo de videira em arco ao sofrer dano.
+Realiza um disparo de gosma em arco ao sofrer dano.
 Realiza um ataque de salto com empurrão.","失明。
 受到伤害时投掷毒性爬行射。
 进行带击退的跳跃攻击。"
-ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Spinnerette,旋蛛
+ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Girerette,旋蛛
 ENEMY_SPIDERQUEEN_DESC,"Does a bite attack.
 Has a chance to spawn Spiderlings when damaged.
 Enrages when hit from behind.
@@ -2590,7 +2594,7 @@ Schießt Geschosse zur Seite, wenn er Schaden erleidet.","Cambia il suo attacco 
 Spara ai lati quando subisce danno.","Muda seu ataque preparado sempre que sofre dano.
 Atira de suas laterais ao sofrer dano.","受到伤害时会改变其蓄力攻击。
 受到伤害时从侧面射击。"
-ENEMY_COVEN_NAME,The Coven,,El Aquelarre,L'Amalgamation,Der Zirkel,La Congrega,O Conventículo,魔女集会
+ENEMY_COVEN_NAME,The Coven,,El Aquelarre,L'Amalgamation,Der Zirkel,La Congrega,O Sabá,魔女集会
 ENEMY_COVEN_DESC,Attempts to finish its ritual...,,Se proponen finalizar el ritual...,Ils vont tenter d'accomplir leur rituel...,Will sein Ritual abschließen&nbsp;…,Cerca di portare a compimento il suo rituale...,Tenta concluir seu ritual...,尝试完成他的仪式…
 ENEMY_TORMENTOR_NAME,Tormentor,,Tormentor,Tourmenteur,Quäler,Tormentor,Tormentador,折磨者
 ENEMY_TORMENTOR_DESC,Its demonic runes grant it powers and abilities.,,Las runas demoníacas le otorgan poder y habilidad.,Ses runes démoniaques lui confèrent des pouvoirs et des compétences.,Seine dämonischen Runen verleihen ihm Kräfte und Fähigkeiten.,Le sue rune demoniache gli conferiscono poteri e abilità.,Suas runas demoníacas concedem poderes e habilidades.,"它的恶魔符文赋予它力量和技能。
@@ -2652,7 +2656,7 @@ ENEMY_QUEENHIPPO_DESC,"Its melee attack deals Chain Knockback.
 Uppercuts any adjacent units at the start of its turn.
 Has heart problems...",,"Su ataque cuerpo a cuerpo inflige retroceso encadenado.
 Lanza un gancho a las unidades adyacentes al inicio del turno.
-Tiene problemas de corazón...","Son attaque au corps à corps inflige Recul en chaîne.
+Tiene problemas de corazón...","Son attaque au corps-à-corps inflige Recul en chaîne.
 Assène un uppercut aux unités adjacentes au début de son tour.
 Souffre d'une maladie cardiovasculaire...","Ihr Nahkampfangriff verursacht Kettenrückstoß.
 Verpasst benachbarten Einheiten am Anfang ihres Zuges einen Kinnhaken.
@@ -2691,7 +2695,7 @@ ENEMY_DREADNOUGHTUSHEAD_DESC,Now's your opportunity! Get him before he gets back
 ENEMY_MOTHERTUMOR_NAME,The Mother,,La Madre,La Matriarche,Die Mutter,La Madre,A Mãe,母亲
 ENEMY_MOTHERTUMOR_DESC,Grabs units and pulls them towards The Mother.,,Agarra a las unidades y las atrae hacia la Madre.,Agrippe les unités et les attire vers la Matriarche.,Packt Einheiten und zieht sie an die Mutter heran.,Afferra le unità e le trascina verso La Madre.,Agarra unidades e as lança na direção da Mãe.,抓住单位并将它们拉向母亲。
 ENEMY_MOTHER_NAME,The Mother,,La Madre,La Matriarche,Die Mutter,La Madre,A Mãe,母亲
-ENEMY_MOTHER_DESC,The mother will take back what's hers...,,La Madre recuperará lo que le pertenece...,La Matriarche reprendra ce qui lui appartient...,"Die Mutter verlangt zurück, was ihr gehört&nbsp;…",La Madre si riprenderà ciò che è suo...,Uma mãe protege sua prole...,母亲将夺回属于她的……
+ENEMY_MOTHER_DESC,The mother will take back what's hers...,,La Madre recuperará lo que le pertenece...,La Matriarche reprendra ce qui lui appartient...,"Die Mutter verlangt zurück, was ihr gehört&nbsp;…",La Madre si riprenderà ciò che è suo...,Uma mãe sempre toma de volta o que lhe pertence...,母亲将夺回属于她的……
 ENEMY_MOTHERSPIKE_NAME,The Mother,,La Madre,La Matriarche,Die Mutter,La Madre,A Mãe,母亲
 ENEMY_MOTHERSPIKE_DESC,,,,,,,,
 ENEMY_THECREATOR_NAME,The Creator,,El Creador,Le Créateur,Der Schöpfer,Il Creatore,O Criador,造物主
@@ -2731,7 +2735,7 @@ ENEMY_ORGANZODIAC_NAME,{organname},,{organname},{organname},{organname},{organna
 ENEMY_STEVENSLIME_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 ENEMY_BIGSTEVENSLIME_DESC,"Melee attacker.
 Splits into 4 medium Stevens on death.",,"Atacante cuerpo a cuerpo.
-Se divide en 4 Stevens medianos al morir.","Attaque au corps à corps.
+Se divide en 4 Stevens medianos al morir.","Attaque au corps-à-corps.
 Se divise en 4&nbsp;Steven moyens à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;mittlere Stevens auf, wenn er stirbt.","Specialista del corpo a corpo.
 Si divide in 4 Steven medi alla morte.","Agressor corpo-a-corpo.
@@ -2739,7 +2743,7 @@ Divide-se em 4 Stevens médios ao morrer.","近战攻击者。
 死亡时分裂成4个中等史蒂文。"
 ENEMY_MIDSTEVENSLIME_DESC,"Melee attacker.
 Splits into 4 small Stevens on death.",,"Atacante cuerpo a cuerpo.
-Se divide en 4 Stevens pequeños al morir.","Attaque au corps à corps.
+Se divide en 4 Stevens pequeños al morir.","Attaque au corps-à-corps.
 Se divise en 4&nbsp;petits Steven à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;kleine Stevens auf, wenn er stirbt.","Specialista del corpo a corpo.
 Si divide in 4 Steven piccoli alla morte.","Agressor corpo-a-corpo.
@@ -2747,7 +2751,7 @@ Divide-se em 4 Stevens pequenos ao morrer.","近战攻击者。
 死亡时分裂成4个小史蒂文。"
 ENEMY_SMALLSTEVENSLIME_DESC,"Melee attacker.
 Becomes a glitch tile on death.",,"Atacante cuerpo a cuerpo.
-Se transforma en una casilla de anomalía al morir.","Attaque au corps à corps.
+Se transforma en una casilla de anomalía al morir.","Attaque au corps-à-corps.
 Se change en case buggée à sa mort.","Nahkämpfer.
 Wird zu einem verbuggten Feld, wenn er stirbt.","Specialista del corpo a corpo.
 Diventa una casella glitch quando muore.","Agressor corpo-a-corpo.
@@ -2772,7 +2776,7 @@ Swats away melee attackes.",,"Lanza cepos para osos.
 Tiene afinidad por la hierba alta.
 Aparta a los atacantes cuerpo a cuerpo a base de golpes.","Lance des pièges à ours&nbsp;!
 À l'aise dans les hautes herbes.
-Repousse les attaquants au corps à corps.","Wirft Bärenfallen!
+Repousse les attaquants au corps-à-corps.","Wirft Bärenfallen!
 Bevorzugt hohes Gras.
 Stößt Nahkämpfer weg.","Lancia trappole per orsi!
 Ha una passione per l'erba alta.
@@ -2784,7 +2788,7 @@ Afasta agressores corpo-a-corpo com tapas.","投掷熊夹！
 ENEMY_TERMINATOR3_THIEF_NAME,Robo-Dack,,Dackbot,Robo-Dack,Robo-Dack,Robo-Dack,Robô-Dack,机器人-达克
 ENEMY_TERMINATOR3_CLERIC_NAME,Robo-Marshmallow,,Esponjitabot,Robo-guimauve,Robo-Marshmallow,Robo-Marshmallow,Robô-Marshmallow,机器人-棉花糖
 ENEMY_TERMINATOR3_FIGHTER_NAME,Robo-Magnus,,Magnusbot,Robo-Magnus,Robo-Magnus,Robo-Magnus,Robô-Magnus,机器人-马格纳斯
-ENEMY_TERMINATOR3_PEBBLES_NAME,Robo-Pebbles,,Pebblesbot,Robo-Pétra,Robo-Pebbles,Robo-Ciottolone,Robô-Seixos,机器人-佩布尔斯
+ENEMY_TERMINATOR3_PEBBLES_NAME,Robo-Pebbles,,Pebblesbot,Robo-Pétra,Robo-Pebbles,Robo-Ciottolone,Robô-Pebbles,机器人-佩布尔斯
 ENEMY_TERMINATOR3_NECRO_NAME,Robo-Morana,,Moranabot,Robo-Morana,Robo-Morana,Robo-Morana,Robô-Morana,机器人-莫拉娜
 ENEMY_TERMINATOR3_TINKERER_NAME,Robo-Franklin,,Franklinbot,Robo-Franklin,Robo-Franklin,Robo-Franklin,Robô-Franklin,机器人-富兰克林
 ENEMY_TERMINATOR3_BUTCHER_NAME,Robo-Gein,,Geinbot,Robo-Gein,Robo-Gein,Robo-Gein,Robô-Gein,机器人-盖因
@@ -2899,7 +2903,7 @@ FAMILIAR_MECHSUIT_DESC,,,,,,,,
 FAMILIAR_FLESHGOLEM_NAME,Flesh Golem,,Gólem carnoso,Golem de chair,Fleischgolem,Golem di Carne,Golem de Carne,肉体魔像
 FAMILIAR_ROBOVAC_NAME,Robo-Vac,,Aspirabot,Robo-Vac,Robo-Vac,Robo-Aspiratore,Robô-Vac,机器人吸尘器
 FAMILIAR_ROBOVAC_DESC,,,,,,,,
-FAMILIAR_NURSEBOT_NAME,Nurse Bot,,Medbot,Mécafirmière,Heilerbot,Robo-Infermiere,Enfermeira Bot,护士机器人
+FAMILIAR_NURSEBOT_NAME,Nurse Bot,,Medbot,Mécafirmière,Heilerbot,Robo-Infermiere,Bot Enfermeira,护士机器人
 FAMILIAR_NURSEBOT_DESC,,,,,,,,
 FAMILIAR_TESLACOIL_NAME,Tesla Coil,,Bobina de Tesla,Bobine Tesla,Teslaspule,Bobina di Tesla,Bobina Tesla,特斯拉线圈
 FAMILIAR_TESLACOIL_DESC,,,,,,,,
@@ -2928,7 +2932,7 @@ FAMILIAR_TRIACHNID_DESC,,,,,,,,
 FAMILIAR_WHITERABBIT_DESC,Has a 50% chance of gaining Madness at the end of each turn.,,Tiene un 50 % de probabilidad de obtener locura al final de cada turno.,A 50&nbsp;% de chances de subir Folie à la fin de chaque tour.,Erleidet am Ende jeden Zuges mit einer 50%igen Wahrscheinlichkeit Wahnsinn.,Ha un 50% di probabilità di ottenere Follia al termine di ogni turno.,Possui 50% de chance de obter insanidade no final de cada turno.,"每回合结束时有50%的几率获得疯狂。
 "
 FAMILIAR_TINAFLY_NAME,Tina's Friend,,Amiga de Tina,Ami de Tina,Tinas Freund,Amica di Tina,Amiga de Tina,蒂娜的朋友
-FAMILIAR_RIFTKITTEN_NAME,Gun,,Gañón,Flingue,Revolver,Pistola,Arma,枪
+FAMILIAR_RIFTKITTEN_NAME,Gun,,Gañón,Flingue,Gun,Pistola,Arma,枪
 FAMILIAR_PHANTOMMASK_NAME,Phantom Mask,,Máscara fantasmal,Phantômasque,Phantommaske,Maschera Fantasma,Máscara Fantasma,幻影面具
 FAMILIAR_THELOST_NAME,The Lost,,El Perdido,L'Égaré,Der Verlorene,Il Perduto,O Perdido,迷失者
 FAMILIAR_THEINTRUDER_NAME,The Intruder,,El Intruso,L'Intrus,Der Eindringling,L'Intruso,O Intruso,入侵者
@@ -3018,7 +3022,7 @@ OBJECT_DECOY_DESC,Explodes when it dies.,,Estalla al morir.,Explose à sa mort.,
 OBJECT_ELECTRICNAIL_NAME,Electric Nail,,Clavo eléctrico,Clou électrifié,Elektrischer Nagel,Chiodo Elettrico,Prego Elétrico,电钉
 OBJECT_ELECTRICNAIL_DESC,It arcs electricity to neighboring tiles whenever any unit spends mana.,,Pasa electricidad a las casillas de alrededor cuando una unidad gasta maná.,Électrise les cases adjacentes chaque fois qu'une unité dépense du mana.,"Verschießt Elektrizität auf benachbarte Felder, wenn eine beliebige Einheit Mana ausgibt.",Scarica elettricità nelle caselle vicine ogni volta che un'unità qualunque consuma mana.,Lança eletricidade em arco para espaços vizinhos sempre que uma unidade gasta mana.,"每当任何单位消耗法力值时，
 它会向相邻的格子发出电弧。"
-OBJECT_RUBBERFISTBOT_NAME,Rubber Fist Bot,,Robot con puño de goma,Robot cogneur,Gummifaustbot,Bot con Pugno di Gomma,Punho de Borracha Robô,橡胶拳机器人
+OBJECT_RUBBERFISTBOT_NAME,Rubber Fist Bot,,Robot con puño de goma,Robot cogneur,Gummifaustbot,Bot con Pugno di Gomma,Bot Punho de Borracha,橡胶拳机器人
 OBJECT_RUBBERFISTBOT_DESC,It punches anything that gets near it.,,Arrea un puñetazo a todo aquello que se acerca.,Frappe tout ce qui s'approche de lui.,"Schlägt auf alles ein, das sich in der Nähe befindet.",Prende a pugni qualunque cosa gli si avvicini.,Soca qualquer coisa que se aproximar.,它会击打靠近它的任何东西。
 OBJECT_TOMBSTONE_NAME,Tombstone,,Lápida,Pierre tombale,Grabstein,Lapide,Túmulo,墓碑
 OBJECT_TOMBSTONE_DESC,Summons a Zombie Cat at the end of each round.,,Invoca un gatozombi al final de cada ronda.,Invoque un chat zombie à la fin de chaque manche.,Beschwört am Ende jeder Runde eine Zombiekatze.,Evoca un Gatto Zombie al termine di ogni round.,Invoca um gato zumbi no final de cada rodada.,在每轮结束时召唤一只僵尸猫。
@@ -3047,7 +3051,7 @@ OBJECT_GROUNDEDSPEAR_NAME,Spear,,Lanza,Lance,Speer,Lancia,Lança,长矛
 OBJECT_GROUNDEDSPEAR_DESC,Attack to send it flying.,,Sale volando cuando la atacan.,Attaquez-la pour l'envoyer valser.,"Greif ihn an, um ihn zu werfen.",Attacca per farla volare.,Ataque-a para lançá-la.,攻击使其飞起。
 OBJECT_SUPPORTPILLAR_NAME,Support Pillar,,Pilar de soporte,Pilier porteur,Stützbalken,Pilastro di Supporto,Coluna de Sustentação,支柱
 OBJECT_SUPPORTPILLAR_DESC,When destroyed will drop random things down around it.,,"Al destruirlo, suelta objetos al azar.","Quand il est détruit, fait tomber des objets aléatoires autour de lui.","Zufällige Dinge fallen herunter, wenn du ihn zerstörst.","Quando viene distrutto, fa cadere oggetti casuali tutto intorno.","Ao ser destruída, joga coisas aleatórias ao redor.",被摧毁时会掉落随机物品。
-OBJECT_SPEWERPILL_CREEP_NAME,Creep Pill,,Pastilla de líquido tóxico,Pilule toxique,Ekelschleimpille,Pillola di Melma,Pílula de Videira,爬行药丸
+OBJECT_SPEWERPILL_CREEP_NAME,Creep Pill,,Pastilla de líquido tóxico,Pilule toxique,Ekelschleimpille,Pillola di Melma,Pílula de Gosma,爬行药丸
 OBJECT_SPEWERPILL_LAVA_NAME,Lava Pill,,Pastilla de lava,Pilule de lave,Lavapille,Pillola di Lava,Pílula de Lava,熔岩药丸
 OBJECT_SPEWERPILL_TAR_NAME,Tar Pill,,Pastilla de brea,Pilule de goudron,Teerpille,Pillola di Catrame,Pílula de Piche,焦油药丸
 OBJECT_SPEWERPILL_DESC,Heals and changes the form of Spewer when eaten.,,Cura y cambia la forma de Salivastro cuando se la tragan.,Soigne et change la forme du gicleur quand elle est consommée.,"Heilt den Spucker und ändert seine Gestalt, wenn er sie isst.",Cura e cambia la forma del Vomitore quando viene ingoiata.,Cura e muda a forma do vomitante ao ser comida.,"吃掉后治疗并改变喷吐者的形态。
@@ -3162,7 +3166,7 @@ TILE_TALLBRAMBLETILE_NAME,Thick Bramble Tile,,Casilla de zarzas espesas,Case de 
 TILE_TALLBRAMBLETILE_DESC,4 damage when stepped on. Moving through this tile costs 3 movement.,,4 de daño al pisarla. Moverse por esta casilla cuesta 3 de movimiento.,Marcher dessus inflige 4&nbsp;dégâts. La traverser coûte 3&nbsp;points de déplacement.,4&nbsp;Schaden bei Betreten. Über dieses Feld zu gehen kostet 3&nbsp;Bewegung.,3 di danno quando ci si cammina sopra. Attraversare questa casella costa 3 di movimento.,4 de dano ao pisar. Mover-se por este espaço custa 3 de movimento.,"踩上时造成 4 点伤害。
 移动通过该地块需要 3 点移动力。
 "
-TILE_CREEPTILE_NAME,Creep Tile,,Casilla de líquido tóxico,Case de bave toxique,Ekelschleim,Casella di Melma,Espaço de Trepadeira,爬行地块
+TILE_CREEPTILE_NAME,Creep Tile,,Casilla de líquido tóxico,Case de bave toxique,Ekelschleim,Casella di Melma,Espaço de Gosma,爬行地块
 TILE_CREEPTILE_DESC,1 damage when entering or starting your turn on this tile. Moving through this tile costs 2 movement.,,1 de daño al pisarla o empezar el turno ahí. Moverse por esta casilla cuesta 2 de movimiento.,Marcher dessus ou commencer son tour dessus inflige 1&nbsp;dégât. La traverser coûte 2&nbsp;points de déplacement.,"1&nbsp;Schaden bei Betreten, oder wenn du deinen Zug auf diesem Feld beginnst. Über dieses Feld zu gehen kostet 2&nbsp;Bewegung.",1 di danno quando si entra o si comincia il turno su questa casella. Attraversare questa casella costa 2 di movimento.,1 de dano ao entrar ou iniciar seu turno neste espaço. Mover-se por este espaço custa 2 de movimento.,"进入或回合开始时在该地块造成 1 点伤害。
 
 移动通过该地块需要 2 点移动力。
@@ -3221,7 +3225,7 @@ TILE_LAVATILE_DESC,4 Burn when entering or starting your turn on this tile. Movi
 TILE_METALTILE_NAME,Metal Shards Tile,,Casilla de fragmentos de metal,Case d'éclats de métal,Metallsplitter,Casella di Frammenti Metallici,Espaço de Fragmentos de Metal,金属碎片砖
 TILE_METALTILE_DESC,2 damage to things that step on this.,,2 de daño a todo aquello que esté encima.,Marcher dessus inflige 2&nbsp;dégâts.,2&nbsp;Schaden bei Betreten.,2 di danno per le cose che ci camminano sopra.,2 de dano para qualquer coisa que pise sobre ele.,踩到此处造成2点伤害。
 TILE_GLITCHTILE_NAME,Glitch Tile,,Casilla de anomalía,Case buggée,Verbuggtes Feld,Casella Anomalia,Espaço de Glitch,故障砖
-TILE_GLITCHTILE_DESC,"Scrambles the spells of cats who walk through this, temporarily. Confuses non-cats.",,Altera temporalmente los hechizos de los gatos que la cruzan. Confunde a quienes no son gatos.,Mélange temporairement les sorts des chats qui la traversent. Inflige Confusion aux unités non-chats.,"Durchmischt vorübergehend die Zauber von Katzen, die über dieses Feld gehen. Verwirrt nicht-Katzen.","Infligge Scompiglio agli incantesimi dei gatti che ci camminano sopra, temporaneamente. Confonde i non-gatti.",Embaralha temporariamente os encantamentos de gatos que caminham sobre este espaço. Confunde tudo que não for um gato.,"暂时扰乱穿过此处的猫的法术。
+TILE_GLITCHTILE_DESC,"Scrambles the spells of cats who walk through this, temporarily. Confuses non-cats.",,Altera temporalmente los hechizos de los gatos que la cruzan. Confunde a quienes no son gatos.,Altère temporairement les sorts des chats qui la traversent. Inflige Confusion aux unités non-chats.,"Durchmischt vorübergehend die Zauber von Katzen, die über dieses Feld gehen. Verwirrt nicht-Katzen.","Infligge Scompiglio agli incantesimi dei gatti che ci camminano sopra, temporaneamente. Confonde i non-gatti.",Embaralha temporariamente os encantamentos de gatos que caminham sobre este espaço. Confunde tudo que não for um gato.,"暂时扰乱穿过此处的猫的法术。
 使非猫类混乱。"
 TILE_ROADTILE_NAME,Road Tile,,Casilla de camino,Case de route,Straße,Casella Stradale,Espaço de Estrada,道路砖
 TILE_ROADTILE_DESC,Moving through this tile costs half of a movement.,,Moverse por esta casilla cuesta medio movimiento.,Traverser cette case coûte moitié moins de points de déplacement.,Über dieses Feld zu gehen kostet halb so viel Bewegung.,Attraversare questa casella costa mezzo movimento.,Mover-se por este espaço custa meio movimento.,穿过该砖块消耗半点移动力。

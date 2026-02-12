@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 EABILITY_HOLYBLAST_NAME,Holy Blast,,Explosión sagrada,Explosion sacrée,Heilige Explosion,Esplosione Sacra,Explosão Sagrada,神圣爆发
 EABILITY_PRECOGNITION_NAME,Precognition,,Premonición,Prémonition,Vorausahnung,Precognizione,Predição,预知
 EABILITY_ANNIHILATION_NAME,Annihilation,,Aniquilación,Annihilation,Vernichtung,Annientamento,Aniquilação,消灭
@@ -30,7 +30,7 @@ EABILITY_METEORNADO_NAME,Meteornado,,Meteornado,Météornade,Meteornado,Meteorna
 EABILITY_TURTLE_NAME,Turtle,,Tortuga,Tortue,Panzerschutz,Tartaruga,Tartaruga,海龟
 EABILITY_MAGNETPULL_NAME,Magnet Pull,,Atracción magnética,Attirance magnétique,Magnetzug,Attrazione Magnetica,Atração Magnética,磁力拉扯
 EABILITY_METEORBOMBARD_NAME,Meteor Bombardment,,Bombardeo de meteoritos,Bombardement météore,Meteorbeschuss,Bombardamento Meteoritico,Bombardeio de Meteoros,陨石轰炸
-EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Agracsed,虚空之影
+EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Orieugracsed,虚空之影
 EABILITY_TSALBDNIMAGEM_NAME,Tsalb Dnim Agem,"""Mega Mind Blast"" backwards (for chaos boss) [backwards version of johnny's Mega Mind Blast]",Latnem nóisolpxeagem,Euqihcysp epparf agèm,Noisolpxeneknadeg Egiseir,Elatnem Enoisolpse Agem,Latnem Oãsolpxe Agem,逆转游戏
 EABILITY_TUODAERPS_NAME,Tuo Daerps.,"""Spread Out"" backwards (for chaos boss) [backwards version of throbbing king's Spread Out]",Adadnabsed,Suov-zesrepsid.,Nelietrev.,Ivetailgapraps.,Otnemahlapse,托达尔普斯
 EABILITY_THROWGRENADE_NAME,Throw Grenade,,Lanzamiento de granada,Lancer de grenade,Granate werfen,Lancio di Granata,Lançar Granada,投掷手榴弹
@@ -56,8 +56,8 @@ EABILITY_WIZSTORM_NAME,xXx_Thunder_xXx,,xXx_Trueno_xXx,xXx_Tonnerre_xXx,xXx_Donn
 EABILITY_SWIPE_NAME,Swipe,,Golpe,Baffe,Schlag,Zampata,Passada,挥击
 EABILITY_BITE_NAME,Bite,,Mordisco,Morsure,Biss,Morso,Mordida,咬
 EABILITY_GEMINADO_NAME,Geminado,,Geminado,Tornades jumelles,Geminado,Geminado,Geminado,双重
-EABILITY_SUICIDEMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps à corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近战攻击
-EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps à corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一种近战攻击，也会伤害自己。
+EABILITY_SUICIDEMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近战攻击
+EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps-à-corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一种近战攻击，也会伤害自己。
 EABILITY_SPAWNMAGGOT_NAME,Spawn Maggot,,Generación de gusano,Invocation d'asticot,Made rufen,Generazione Larva,Gerar Verme,生成蛆
 EABILITY_SPAWNMAGGOTS_NAME,Spawn Maggots,,Generación de gusanos,Invocation d'asticots,Maden rufen,Generazione Larve,Gerar Vermes,生成蛆虫
 EABILITY_SPAWNFLEA_NAME,Spawn Flea,,Generación de pulga,Invocation de puce,Floh rufen,Generazione Pulce,Gerar Pulga,生成跳蚤
@@ -110,7 +110,7 @@ EABILITY_WIGGLE_NAME,Wiggle,,Serpenteo,Trémoussage,Wackel,Dimenamento,Balançad
 EABILITY_MEATMINION_NAME,Meat Minion,,Secuaz carnoso,Viande de serviteur,Fleischdiener,Servitore di Carne,Servo de Carne,肉爪牙
 EABILITY_BLOATYEXPLODE_NAME,Explode,,Explosión,Explosion,Explodieren,Esplosione,Explosão,爆炸
 EABILITY_BLOATYEXPLODE_DESC,he explode,,explota,Une explosion.,er macht Bumm,lui esplode,ele faz bum,他爆炸
-EABILITY_SPAWNDIP_NAME,Spawn Dip,,Generación de catalino,Invocation de caca,Köttel rufen,Generazione Cacchina,Gerar Cocô,生成蘸料
+EABILITY_SPAWNDIP_NAME,Spawn Dip,,Generación de catalino,Invocation de caca,Köttel rufen,Generazione Cacchina,Gerar Caquinha,生成蘸料
 EABILITY_LEECHDASH_NAME,Leech Dash,,Carrera de sanguijuelas,Charge de sangsue,Blutegelansturm,Scatto della Sanguisuga,Impulso Sanguessuga,水蛭冲刺
 EABILITY_BUMBLEJUMP_NAME,Bumble Jump,,Bumblesalto,Saut de ver glouton,Bummelsprung,Bubbosalto,Salto Confuso,大黄蜂跳跃
 EABILITY_FEAST_NAME,Feast,,Festín,Festin,Festmahl,Banchetto,Banquete,盛宴
@@ -118,7 +118,7 @@ EABILITY_BONESPURT_NAME,Bone Spurt,,Borbotón óseo,Jet d'os,Knochensporn,Schizz
 EABILITY_ROCKSONG_NAME,Rock Song,,Canción roquera,Morceau de rock,Steinlied,Canzone della Roccia,Canção de Rock,石歌
 EABILITY_CHUBSPIN_NAME,Chub Spin,,Giro de Chub,Toupie moignon,Chub-Wirbel,Trottola di Chubs,Giro Gorduroso,肥仔旋转
 EABILITY_NUKE_NAME,Nuke,,Arma nuclear,Bombe nucléaire,Atombombe,Bomba Nucleare,Nuclear,核弹
-EABILITY_NUBFLUB_NAME,Nub Flub,,Pifia de Nub,Bourde moignon,Nub-Sprung,Pasticcio di Flubs,Bochechada,残废失误
+EABILITY_NUBFLUB_NAME,Nub Flub,,Pifia de Nub,Bourde moignon,Nub-Sprung,Pasticcio di Flubs,Catotada,残废失误
 EABILITY_FLUSH_NAME,Flush,,Cisterna,Chasse d'eau,Spülung,Sciacquone,Descarga,冲刷
 EABILITY_TENTICKLES_NAME,Ten Tickles,,Pulpillitas,Tentaccule,Kitzler,Solletico Tentacolare,Dez Cócegas,十次挠痒
 EABILITY_BOTTOMSUP_NAME,Bottoms Up,,¡Salud!,Cul sec,Prost,Cin Cin,Inversão,干杯
@@ -167,7 +167,7 @@ EABILITY_SANDRUSH_NAME,Sand Rush,,Embestida arenosa,Charge sableuse,Sandrausch,S
 EABILITY_EAT_NAME,Eat,,Comida,Manger,Essen,Mangia,Comer,吃
 EABILITY_POISONATTACK_NAME,Poison Attack,,Ataque venenoso,Attaque empoisonnée,Giftangriff,Attacco Velenoso,Ataque Venenoso,毒攻击
 EABILITY_STING_NAME,Sting,,Picadura,Piqûre,Stich,Puntura,Ferroada,刺针
-EABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Grappino,Agarrar,锁喉
+EABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Grappino,Agarrão,锁喉
 EABILITY_SHOOTGUN_NAME,Shoot Gun,,Disparo de arma,Tir de fusil,Revolver,Colpo di Pistola,Disparo de Arma,开枪
 EABILITY_RELOAD_NAME,Reload,,Recarga,Recharge,Nachladen,Ricarica,Recarregamento,重新装填
 EABILITY_HUG_NAME,Hug,,Abrazo,Câlin,Umarmung,Abbraccio,Abraço,拥抱
@@ -180,7 +180,7 @@ EABILITY_BLESS_NAME,Bless,,Bendición,Grâce,Segnen,Benedizione,Abençoar,祝福
 EABILITY_FEELGOODDRUGS_NAME,Feel Good Drugs,,Estimulantes,Drogues agréables,Das gute Zeug,Medicine del Buonumore,Drogas Boas,感受良药
 EABILITY_FEELBADDRUGS_NAME,Feel Bad Drugs,,Depresivos,Drogues désagréables,Das schlechte Zeug,Medicine del Malumore,Drogas Ruins,感受恶药
 EABILITY_RECHARGE_NAME,Recharge,,Recarga,Recharger,Aufladen,Alimentazione,Recarga,充能
-EABILITY_KILLDOZE_NAME,Killdoze,,Devastación,Killdoze,Killdozer,Killdoze,Demolição Mortal,杀戮重击
+EABILITY_KILLDOZE_NAME,Killdoze,,Devastación,Killdoze,Killdozer,Killdoze,Devastação,杀戮重击
 EABILITY_GUNKBALL_NAME,Gunk Ball,,Bola de pringue,Boule de crasse,Schmierball,Palla di Poltiglia,Bola de Gosma,污泥球
 EABILITY_TELEKENESIS_NAME,Telekinesis,,Telequinesis,Télékinésie,Telekinese,Telecinesi,Telecinese,念动力
 EABILITY_MINDCONTROL_NAME,Mind Control,,Control mental,Contrôle psychique,Gedankenkontrolle,Controllo Mentale,Controle Mental,精神控制
@@ -248,7 +248,7 @@ EABILITY_FUTUREBOTEXECUTE_NAME,Ausführen,,Ausführen,Ausführen,Hinrichten,Ausf
 EABILITY_BEWEGEN_NAME,Bewegen,,Bewegen,Bewegen,Marschbefehl,Bewegen,Bewegen,移动
 EABILITY_BLITZKRIEG_NAME,Blitzkrieg,,Blitzkrieg,Blitzkrieg,Blitzkrieg,Blitzkrieg,Blitzkrieg,闪电战
 EABILITY_DUMP_NAME,Dump,,Evacuación,Excrément,Häufchen,Scarica,Despejo,投掷
-EABILITY_LOOGIE_NAME,Loogie,,Gargajo,Mollard,Rotze,Catarro,Focinho,鼻涕虫
+EABILITY_LOOGIE_NAME,Loogie,,Gargajo,Mollard,Rotze,Catarro,Catarro,鼻涕虫
 EABILITY_POSSESS_NAME,Possess,,Posesión,Possession,Besitz ergreifen,Possessione,Possuir,附身
 EABILITY_REANIMATE_NAME,Reanimate,,Reanimación,Retour à la vie,Reanimation,Rianimazione,Reanimar,复活
 EABILITY_PREDICT_NAME,Predict,,Predicción,Prédiction,Vorhersehen,Predizione,Predição,预测

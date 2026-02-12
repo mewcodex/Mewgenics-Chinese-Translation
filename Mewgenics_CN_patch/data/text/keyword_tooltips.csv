@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 KEYWORD_ADRENALINE_NAME,Adrenaline,,Adrenalina,Adrénaline,Adrenalin,Adrenalina,Adrenalina,肾上腺素
 KEYWORD_ADRENALINE_DESC,"Keeps Exhaustion at 0.
 +25% Crit Chance.
@@ -16,9 +16,9 @@ Chances de bloquer +25&nbsp;%.","Erschöpfung bleibt auf 0.
 +25% 暴击率。
 +25% 格挡率。"
 KEYWORD_ALLSTATSUP_NAME,All Stats Up,,Aumento total,Hausse de stats,Bonus auf alle Attribute,Aumento delle Statistiche,Todos os atributos aumentados,所有属性提升
-KEYWORD_ALLSTATSUP_DESC,All Stats increased by {stacks},,Todos los atributos aumentan en {stacks}.,Toutes les stats augmentent de {stacks}.,Alle Attribute um {stacks} erhöht,Tutte le statistiche aumentano di {stacks}.,Todos os atributos aumentados em {stacks},所有属性提升{stacks}
+KEYWORD_ALLSTATSUP_DESC,All Stats increased by {stacks},,Todos los atributos aumentan en {stacks}.,Toutes les stats augmentent de {stacks}.,Alle Attribute um {stacks} erhöht,Tutte le statistiche aumentano di {stacks}.,Todos os atributos são aumentados em {stacks},所有属性提升{stacks}
 KEYWORD_ALLSTATSDOWN_NAME,All Stats Down,,Reducción total,Baisse de stats,Malus auf alle Attribute,Diminuzione delle Statistiche,Todos os atributos diminuídos,所有属性下降
-KEYWORD_ALLSTATSDOWN_DESC,All Stats decreased by {absstacks},,Todos los atributos se reducen en {absstacks}.,Toutes les stats baissent de {stacks}.,Alle Attribute um {absstacks} verringert.,Tutte le statistiche diminuiscono di {absstacks}.,Todos os atributos diminuídos em {absstacks},所有属性下降{absstacks}
+KEYWORD_ALLSTATSDOWN_DESC,All Stats decreased by {absstacks},,Todos los atributos se reducen en {absstacks}.,Toutes les stats baissent de {stacks}.,Alle Attribute um {absstacks} verringert.,Tutte le statistiche diminuiscono di {absstacks}.,Todos os atributos são diminuídos em {absstacks},所有属性下降{absstacks}
 KEYWORD_ALPHA_NAME,The Alpha,,Alfa,L'Alpha,Der Alpha,L'Alfa,Alfa,首领
 KEYWORD_ALPHA_DESC,This is the Alpha. Certain abilities care about this.,,Es la unidad alfa. Ciertas habilidades le tienen cariño.,"L'Alpha, en chair et en os. Certaines compétences le prennent en compte.",Dies ist der Alpha. Relevant für gewisse Fähigkeiten.,Questo è l'Alfa. Alcune abilità ne tengono conto.,Esta unidade possui o papel de alfa. Isso é importante para certas habilidades.,这是首领。某些能力与此相关。
 KEYWORD_ALPHA_DESC_STACKLESS,No effects on its own. Only one unit can be The Alpha. Certain spells and abilities provide bonuses for The Alpha.,,No tiene efectos propios. Tan solo una unidad puede ser alfa. Ciertos hechizos y habilidades ofrecen bonificaciones para el gato alfa.,Aucun effet en soi. Une seule unité peut être l'Alpha. Certains sorts et compétences confèrent des bonus à l'Alpha.,Hat allein keine Wirkung. Nur eine Einheit kann der Alpha sein. Gewisse Zauber und Fähigkeiten verleihen dem Alpha Boni.,Nessun effetto di per sé. Solo un'unità può essere l'Alfa. Alcuni incantesimi e abilità forniscono bonus per l'Alfa.,Nenhum efeito por si só. Apenas uma unidade pode assumir o papel de alfa. Certos encantamentos e habilidades concedem bônus para alfas.,"本身无效果。只有一个单位可以是首领。
@@ -64,7 +64,7 @@ KEYWORD_BODYGUARD_NAME,Body Guard,,Guardaespaldas,Garde du corps,Bodyguard,Guard
 KEYWORD_BODYGUARD_DESC,"The next time an ally is targeted, swap places with them first.",,"La próxima vez que apunten a un aliado, se intercambian las casillas.","La prochaine fois qu'un allié est pris pour cible, vous échangez votre place avec lui.","Tausche das nächste Mal, wenn ein Verbündeter anvisiert wird, Plätze mit ihm, bevor er angegriffen wird.","La prossima volta che un alleato viene preso di mira, ti scambi prima di posto con lui.","Na próxima vez em que um aliado se tornar alvo, troque de lugar com ele.","下次盟友成为攻击目标时，
 先与其交换位置。"
 KEYWORD_BOUNTY_NAME,Bounty,,Recompensa,Prime,Kopfgeld,Taglia,Recompensa,赏金
-KEYWORD_BOUNTY_DESC,"Takes 25% extra damage. If killed, gain {stacks} coins.",,"Sufre un 25 % de daño extra. Si muere, obtiene {stacks} monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez {stacks} pièces.","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte {stacks}&nbsp;Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni {stacks} monete.","Sofre 25% de dano adicional. Ao morrer, obtenha {stacks} moedas.","受到额外 25% 的伤害。
+KEYWORD_BOUNTY_DESC,"Takes 25% extra damage. If killed, gain {stacks} coins.",,"Sufre un 25 % de daño extra. Si muere, obtiene {stacks} monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez {stacks} pièce(s).","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte {stacks}&nbsp;Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni {stacks} monete.","Sofre 25% de dano adicional. Ao morrer, obtenha {stacks} moedas.","受到额外 25% 的伤害。
 如果被击杀，获得 {stacks} 枚金币。"
 KEYWORD_BOUNTY_DESC_STACKLESS,"Takes 25% extra damage. If killed, gain coins.",,"Sufre un 25 % de daño extra. Si muere, obtiene monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez des pièces.","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni monete.","Sofre 25% de dano adicional. Ao morrer, obtenha moedas.","受到额外 25% 的伤害。
 如果被击杀，获得金币。"
@@ -257,7 +257,7 @@ KEYWORD_FREEZE_NAME,Freeze,,Congelación,Gel,Frost,Congelamento,Congelamento,冻
 KEYWORD_FREEZE_DESC,Cannot take damage. Unfreezes at the start of its turn.,,No puede sufrir daño. Se descongela al inicio del turno.,Ne peut pas subir de dégâts. Se dégèle au début de son tour.,Einheit kann keinen Schaden erleiden. Taut am Anfang ihres nächsten Zuges auf.,Non può subire danno. Si scongela all'inizio del suo turno.,Não pode sofrer dano. Descongela no início de seu turno.,"无法受到伤害。
 在其回合开始时解除冻结。"
 KEYWORD_GRAPPLED_NAME,Grappled,,Sujeción,Agrippé,Gepackt,Avvinghiamento,Agarrão,被缠绕
-KEYWORD_GRAPPLED_DESC,Immobile as long as it's next to the thing that grappled it.,,Se queda inmóvil mientras siga junto al ente que lo tiene agarrado.,L'unité à proximité de ce qui l'a agrippée subit Immobilisation.,"Unbeweglich, solange diese Einheit sich neben der Einheit befindet, die sie gepackt hat.",L'unità è immobilizzata finché resta vicina alla cosa che l'ha avvinghiata.,Permanece imóvel enquanto estiver ao lado da coisa que a agarrou.,"只要紧挨缠绕它的目标，
+KEYWORD_GRAPPLED_DESC,Immobile as long as it's next to the thing that grappled it.,,Se queda inmóvil mientras siga junto al ente que lo tiene agarrado.,L'unité à proximité de ce qui l'a agrippée subit Immobilisation.,"Unbeweglich, solange diese Einheit sich neben der Einheit befindet, die sie gepackt hat.",L'unità è immobilizzata finché resta vicina alla cosa che l'ha avvinghiata.,Permanece imóvel enquanto estiver ao lado da fonte do agarrão.,"只要紧挨缠绕它的目标，
 就无法移动。"
 KEYWORD_HEALTHREGEN_NAME,Health Regen,,Regeneración de salud,Régénération de PV,Lebensregeneration,Rigenerazione Salute,Regeneração de Saúde,生命值回复
 KEYWORD_HEALTHREGEN_DESC,Regenerate {stacks} health at the end of its turn.,,Regenera {stacks} de salud al final del turno.,Régénère {stacks} PV à la fin de son tour.,Regeneriert am Ende des Zuges {stacks}&nbsp;Gesundheit.,Rigenera {stacks} di salute alla fine del suo turno.,Regenera {stacks} de saúde no final de seu turno.,"在其回合结束时回复 {stacks} 生命值。
@@ -407,10 +407,10 @@ KEYWORD_POISON_DESC,Takes {stacks} damage at the start of each of its turns. Inc
 KEYWORD_POISON_DESC_STACKLESS,Takes damage at the start of every turn. Incoming healing is less effective but cures 1 Poison.,,"Sufre daño al inicio de cada turno. La curación resulta menos efectiva, pero cura 1 de veneno.","Subit des dégâts au début de chacun de ses tours. Les soins reçus sont moins efficaces, mais soignent 1&nbsp;Poison.","Erleidet am Anfang seiner Züge Schaden. Eingehende Heilung ist weniger effektiv, heilt aber 1&nbsp;Gift.",Subisce danno all'inizio di ognuno dei suoi turni. Le cure in arrivo sono meno efficaci ma curano 1 Veleno.,"Sofre dano no início de cada turno. Qualquer cura recebida é menos efetiva, porém cura 1 de veneno.","在每个回合开始时承受伤害。
 收到的治疗效果降低，
 但会治愈 1 点中毒。"
-KEYWORD_POISONLACE_NAME,Poison Lace,,Amarre venenoso,Attaque empoisonnée,Giftversetzt,Laccio Velenoso,Ataque Envenenado,毒蕾
+KEYWORD_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Giftversetzt,Laccio Velenoso,Ataque Envenenado,毒蕾
 KEYWORD_POISONLACE_DESC,Basic attack inflicts +{stacks} Poison.,,El ataque básico inflige +{stacks} de veneno.,Votre attaque de base inflige Poison +{stacks}.,Grundangriff verursacht +{stacks}&nbsp;Gift.,L'attacco base infligge +{stacks} Veleno.,O ataque básico aplica +{stacks} de veneno.,普通攻击附加 +{stacks} 点中毒。
 KEYWORD_POISONLACE_DESC_STACKLESS,Basic attack inflicts Poison.,,El ataque básico inflige veneno.,Votre attaque de base inflige Poison.,Grundangriff verursacht Gift.,L'attacco base infligge Veleno.,O ataque básico aplica veneno.,普通攻击附加中毒。
-KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Amarre venenoso (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),毒蕾丝（武器）
+KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Dosis de veneno (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),毒蕾丝（武器）
 KEYWORD_WPOISONLACE_DESC,Your weapon inflicts +{stacks} Poison.,,El arma inflige +{stacks} de veneno.,Votre arme inflige Poison +{stacks}.,Deine Waffe verursacht +{stacks}&nbsp;Gift.,La tua arma infligge +{stacks} Veleno.,Sua arma aplica +{stacks} de veneno.,你的武器附加 +{stacks} 点中毒。
 KEYWORD_WPOISONLACE_DESC_STACKLESS,Your weapon inflicts Poison.,,El arma inflige veneno.,Votre arme inflige Poison.,Deine Waffe verursacht Gift.,La tua arma infligge Veleno.,Sua arma aplica veneno.,你的武器附加中毒。
 KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,有毒
@@ -476,7 +476,7 @@ KEYWORD_ENERGIZED_DESC,Takes an extra turn. Cannot be Energized again until afte
 直到该行动结束前不能再次充能。
 "
 KEYWORD_ROT_NAME,Rot,,Putrefacción,Décomposition,Fäulnis,Putrefazione,Apodrecimento,腐烂
-KEYWORD_ROT_DESC,Hatches a Fly at the end of its turn. Damage from worms and bugs always crits against this.,,Genera una mosca al final del turno. Las lombrices y los bichos siempre le infligen daño crítico a esta unidad.,Invoque une mouche à la fin de son tour. Les dégâts qui lui sont infligés par les vers et les insectes sont toujours critiques.,Am Ende des Zuges schlüpft eine Fliege aus dieser Einheit. Schaden von Würmern und Insekten ist gegen diese Einheit immer kritisch.,Fa schiudere una Mosca alla fine del suo turno. Il danno da vermi e insetti è sempre critico contro questo bersaglio.,Gera uma mosca no final de seu turno. O dano de minhocas e insetos são sempre críticos contra isto.,"在其回合结束时孵化一只苍蝇。
+KEYWORD_ROT_DESC,Hatches a Fly at the end of its turn. Damage from worms and bugs always crits against this.,,Genera una mosca al final del turno. Las lombrices y los bichos siempre le infligen daño crítico a esta unidad.,Invoque une mouche à la fin de son tour. Les dégâts qui lui sont infligés par les vers et les insectes sont toujours critiques.,Am Ende des Zuges schlüpft eine Fliege aus dieser Einheit. Schaden von Würmern und Insekten ist gegen diese Einheit immer kritisch.,Fa schiudere una Mosca alla fine del suo turno. Il danno da vermi e insetti è sempre critico contro questo bersaglio.,Gera uma mosca no final de seu turno. O dano de vermes e insetos são sempre críticos contra isto.,"在其回合结束时孵化一只苍蝇。
 虫子和甲虫的伤害对其总是暴击。
 "
 KEYWORD_SAFEDOOMED_NAME,Doomed,,Condenación,Damnation,Todesurteil,Condanna,Perdição,被诅咒的
@@ -484,7 +484,7 @@ KEYWORD_SAFEDOOMED_DESC,"Ticks down at the end of your turn. When it hits 0, Die
 当倒计时为0时，死亡（不受伤）。
 "
 KEYWORD_SCRAMBLED_NAME,Scrambled,,Revoltijo,Désordre,Durchgemischt,Scompiglio,Embaralhamento,混乱
-KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont mélangées temporairement.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被打乱。
+KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont temporairement altérées.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被打乱。
 KEYWORD_SERRATED_NAME,Serrated Claws,,Garras serradas,Griffes acérées,Gezackte Klauen,Artigli Seghettati,Garras Serradas,锯齿爪
 KEYWORD_SERRATED_DESC,Basic attack inflicts +{stacks} Bleed.,,El ataque básico inflige +{stacks} de hemorragia.,Votre attaque de base inflige Saignement +{stacks}.,Grundangriffe verursachen +{stacks}&nbsp;Blutung.,L'attacco base infligge +{stacks} Sanguinamento.,Ataques básicos aplicam +{stacks} de sangramento.,基础攻击附加 +{stacks} 流血。
 KEYWORD_SERRATED_DESC_STACKLESS,Basic attack inflicts Bleed.,,El ataque básico inflige hemorragia.,Votre attaque de base inflige Saignement.,Grundangriffe verursachen Blutung.,L'attacco base infligge Sanguinamento.,O ataque básico aplica sangramento.,基础攻击附加流血。
@@ -551,7 +551,7 @@ KEYWORD_STRUP_NAME,Strength Up,,Fuerza aumentada,Force (+),Stärke hoch,Forza +,
 KEYWORD_STRUP_DESC,"Strength increased by {stacks}.
 Strength affects melee attack and melee ability damage.",,"La fuerza aumenta en {stacks}.
 La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.","Force +{stacks}.
-La force affecte les dégâts des attaques et compétences au corps à corps.","Stärke um {stacks} erhöht.
+La force affecte les dégâts des attaques et compétences au corps-à-corps.","Stärke um {stacks} erhöht.
 Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.","La forza aumenta di {stacks}.
 La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.","A força é aumentada em {stacks}.
 A força afeta o dano de ataques e habilidades corpo-a-corpo.","力量增加 {stacks}。
@@ -561,7 +561,7 @@ KEYWORD_STRDOWN_NAME,Strength Down,,Fuerza reducida,Force (-),Stärke runter,For
 KEYWORD_STRDOWN_DESC,"Strength decreased by {absstacks}.
 Strength affects melee attack and melee ability damage.",,"La fuerza se reduce en {absstacks}.
 La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.","Force -{absstacks}.
-La force affecte les dégâts des attaques et compétences au corps à corps.","Stärke um {absstacks} verringert.
+La force affecte les dégâts des attaques et compétences au corps-à-corps.","Stärke um {absstacks} verringert.
 Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.","La forza diminuisce di {absstacks}.
 La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.","A força é diminuída em {absstacks}.
 A força afeta o dano de ataques e habilidades corpo-a-corpo.","力量减少 {absstacks}。
@@ -645,7 +645,7 @@ KEYWORD_TANGLED_DESC,Immobile. Use basic attack to break free.,,Esta unidad qued
 KEYWORD_WET_NAME,Wet,,Mojado,Mouillé,Nass,Grondante,Molhado,湿润
 KEYWORD_WET_DESC,Wet.,,Esta unidad está mojada.,Mouillé.,Nass.,Quest'unità è bagnata.,Molhado.,湿润。
 KEYWORD_ZOMBIE_NAME,Zombie,,Zombi,Zombie,Zombie,Zombie,Zumbi,僵尸
-KEYWORD_ZOMBIE_DESC,-2 [img:str]. -2 [img:int]. Takes damage from Holy Element heals. Does not get injured when downed.,,"-2 [img:str], -2 [img:int]. Esta unidad sufre daño de las acciones curativas de los elementos sagrados. No sufre ninguna lesión cuando está abatida.","[img:str] -2. [img:int] -2. Les soins sacrés lui infligent des dégâts. K.O., ne devient pas blessé.","-2&nbsp;[img:str]. -2&nbsp;[img:int]. Erleidet Schaden von heiligen Heilzaubern. Wird nicht verletzt, wenn er in Ohnmacht fällt.",-2 alla [img:str]. -2 alla [img:int]. Subisce danno dalle cure di Elemento Sacro. Non subisce ferite quando è KO.,-2 de [img:str]. -2 de [img:int]. Sofre dano de curas do elemento sagrado. Não sofre ferimentos ao ficar inconsciente.,"-2 [img:str]. -2 [img:int].
+KEYWORD_ZOMBIE_DESC,-2 [img:str]. -2 [img:int]. Takes damage from Holy Element heals. Does not get injured when downed.,,"-2 [img:str], -2 [img:int]. Esta unidad sufre daño de las acciones curativas de los elementos sagrados. No sufre ninguna lesión cuando está abatida.","[img:str] -2. [img:int] -2. Les soins sacrés lui infligent des dégâts. K.O., ne peut pas subir de blessures.","-2&nbsp;[img:str]. -2&nbsp;[img:int]. Erleidet Schaden von heiligen Heilzaubern. Wird nicht verletzt, wenn er in Ohnmacht fällt.",-2 alla [img:str]. -2 alla [img:int]. Subisce danno dalle cure di Elemento Sacro. Non subisce ferite quando è KO.,-2 de [img:str]. -2 de [img:int]. Sofre dano de curas do elemento sagrado. Não sofre ferimentos ao ficar inconsciente.,"-2 [img:str]. -2 [img:int].
 受到圣属性治疗会造成伤害。
 倒地时不会受伤。"
 //furniture stats,,,,,,,,
@@ -751,8 +751,8 @@ KEYWORD_ELITE_FLAMING_DESC,Fire Immune. Leaves a trail of fire.,,Inmune al fuego
 KEYWORD_ELITE_BOSSFLAMING_NAME,Elite Buff: Flaming,,Ventaja de élite: Llama,Bonus d'élite&nbsp;: Brasier,Elite-Stärkung: Lodernd,Bonus Élite: Fiamme,Reforço de Elite: Chamas,精英增益：燃烧
 KEYWORD_ELITE_BOSSFLAMING_DESC,Fire Immune. Leaves a trail of fire. Applies Burn 1 to attackers.,,Inmune al fuego. Deja un rastro de fuego. Aplica 1 de quemadura a los atacantes.,Immunité au feu. L'unité laisse une traînée de feu derrière elle. Inflige Brûlure +1&nbsp;aux attaquants.,Immun gegen Feuer. Hinterlässt eine Feuerspur. Verursacht Verbrennung&nbsp;1 bei Angreifern.,Immunità al fuoco. Lascia una scia di fuoco. Applica Bruciatura 1 agli attaccanti.,Imune contra fogo. Deixa um rastro de fogo. Aplica queimadura 1 em agressores.,"火焰免疫。留下火焰轨迹。
 对攻击者施加灼烧 1。"
-KEYWORD_ELITE_CREEPY_NAME,Elite Buff: Creepy,,Ventaja de élite: Líquido tóxico,Bonus d'élite&nbsp;: Toxicité,Elite-Stärkung: Ekelig,Bonus Élite: Melma,Reforço de Elite: Videira,精英增益：诡异
-KEYWORD_ELITE_CREEPY_DESC,Basic attack inflicts Poison. Leaves a trail of creep.,,El ataque básico inflige veneno. Deja un rastro de líquido tóxico.,Votre attaque de base inflige Poison et laisse une traînée de bave toxique.,Grundangriffe verursachen Gift. Hinterlässt Ekelschleim.,L'attacco base infligge Veleno. Lascia una scia di melma.,O ataque básico aplica veneno. Deixa um rastro de videiras.,"基础攻击施加毒素。
+KEYWORD_ELITE_CREEPY_NAME,Elite Buff: Creepy,,Ventaja de élite: Líquido tóxico,Bonus d'élite&nbsp;: Toxicité,Elite-Stärkung: Ekelig,Bonus Élite: Melma,Reforço de Elite: Gosma,精英增益：诡异
+KEYWORD_ELITE_CREEPY_DESC,Basic attack inflicts Poison. Leaves a trail of creep.,,El ataque básico inflige veneno. Deja un rastro de líquido tóxico.,Votre attaque de base inflige Poison et laisse une traînée de bave toxique.,Grundangriffe verursachen Gift. Hinterlässt Ekelschleim.,L'attacco base infligge Veleno. Lascia una scia di melma.,O ataque básico aplica veneno. Deixa um rastro de gosma.,"基础攻击施加毒素。
 留下诡异轨迹。"
 KEYWORD_ELITE_LUCKY_NAME,Elite Buff: Lucky,,Ventaja de élite: Suerte,Bonus d'élite&nbsp;: Bonne fortune,Elite Stärkung: Glückspilz,Bonus Élite: Fortuna,Reforço de Elite: Sorte,精英增益：幸运
 KEYWORD_ELITE_LUCKY_DESC,+3 [img:lck]. +10% Crit Chance. +10% Dodge Chance.,,+3 [img:lck]. +10 % de probabilidad de crítico. +10 % de probabilidad de esquiva.,[img:lck] +3. Chances de coup critique +10&nbsp;%. Chances d'esquive +10&nbsp;%.,+3&nbsp;[img:lck]. +10&nbsp;% kritische Trefferchance. +10&nbsp;% Ausweichchance.,+3 alla [img:lck]. +10% di probabilità di colpo critico. +10% di probabilità di schivata.,+3 de [img:lck]. +10% de chance de crítico. +10% de chance de esquiva.,"+3 [img:lck]。+10% 暴击率。
