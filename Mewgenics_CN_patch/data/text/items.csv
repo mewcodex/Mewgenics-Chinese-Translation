@@ -140,14 +140,14 @@ Passivo: suas curas são 1 PV mais efetivas.","使用：
 
 被动：你的治疗效果额外增加1点。
 "
-ITEM_BIGGESTSTICK_NAME,Biggest Stick,,Palo grandísimo,Gigabâton,Der größte Stock,Bastone Enorme,Graveto Enorme,最大棍棒
+ITEM_BIGGESTSTICK_NAME,Biggest Stick,,Palo grandísimo,Gigabâton,Der größte Stock,Bastone Enorme,Graveto Enorme,最大木棍
 ITEM_BIGGESTSTICK_DESC,Use: A melee attack with +3 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +3 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +3.,Benutzen: Ein Nahkampfangriff mit +3&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +3.,Uso: um ataque corpo-a-corpo com +3 de envergadura.,"使用：一次近战攻击，
 攻击范围+3。"
 ITEM_BIGSPRING_NAME,Big Spring,,Muelle grande,Gros ressort,Große Feder,Molla Gigante,Mola Grande,大弹簧
 ITEM_BIGSPRING_DESC,Use: Throw an adjacent unit to a tile.,,Uso: Lanza a una unidad adyacente hacia otra casilla.,Utilisation&nbsp;: propulse une unité adjacente sur une case.,Benutzen: Wirf eine benachbarte Einheit auf ein beliebiges Feld.,Uso: Lanci un'unità adiacente su una casella.,Uso: lance uma unidade adjacente em um espaço.,"使用：
 将一个相邻单位投掷到一个格子上。
 "
-ITEM_BIGSTICK_NAME,Big Stick,,Palo grande,Gros bâton,Großer Stock,Bastone Grande,Graveto Grande,大棍棒
+ITEM_BIGSTICK_NAME,Big Stick,,Palo grande,Gros bâton,Großer Stock,Bastone Grande,Graveto Grande,大木棍
 ITEM_BIGSTICK_DESC,Use: A melee attack with +2 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +2 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +2.,Benutzen: Ein Nahkampfangriff mit +2&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +2.,Uso: um ataque corpo-a-corpo com +2 de envergadura.,"使用：近战攻击，
 攻击范围+2。"
 ITEM_BLACKJACK_NAME,Blackjack,,Cachiporra,Matraque,Schlagstock,Manganello,Cassetete,黑杰克棍
@@ -176,7 +176,7 @@ ITEM_BLESSEDANOINTINGOIL_DESC,Use: Cleanse debuffs and heal an adjacent unit or 
 "
 ITEM_BLOODBUCKET_NAME,Blood Bucket,,Cubo de sangre,Seau de sang,Bluteimer,Secchio di Sangue,Balde de Sangue,血桶
 ITEM_BLOODBUCKET_DESC,Use: A lobbed attack that creates a creep puddle.,,Uso: Lanza un ataque en arco que crea un charco de líquido tóxico.,Utilisation&nbsp;: une attaque en cloche qui génère une flaque de substance visqueuse.,"Benutzen: Ein Angriff, der Hindernisse ignoriert und eine gruselige Pfütze erschafft.",Uso: Un attacco a parabola che crea una pozza di melma.,Uso: um ataque em arco que cria uma poça de gosma.,"使用：投掷攻击，
-制造一滩爬行物。"
+制造一滩腐液。"
 ITEM_BLOODYBAGOFGLASS_NAME,Bloody Bag of Glass,,Bolsa sangrienta de cristales,Sac de verre ensanglanté,Blutige Scherbentasche,Sacco di Vetro Insanguinato,Saco de Vidro Ensanguentado,破碎玻璃袋
 ITEM_BLOODYBAGOFGLASS_DESC,Use: Throw a projectile that creates glass.,,Uso: Lanza un proyectil que crea cristales.,Utilisation&nbsp;: lance un projectile faisant apparaître du verre.,"Benutzen: Wirf ein Geschoss, das Glas erscheinen lässt.",Uso: Lanci un proiettile che crea vetro.,Uso: lance um projétil que cria vidro.,"使用：投掷一个投射物，
 制造玻璃。"
@@ -228,7 +228,7 @@ Uso: Un attacco corpo a corpo con portata +1.","+1 de regeneração de saúde.
 Uso: um ataque corpo-a-corpo com +1 de envergadura.","+1 生命回复。
 使用：
 一次+1攻击范围的近战攻击。"
-ITEM_BO_NAME,Bo,,Bo,Bô,Bo,Bo,Bo,棍棒
+ITEM_BO_NAME,Bo,,Bo,Bô,Bo,Bo,Bo,木棍
 ITEM_BO_DESC,"Use: A melee attack. On hit, jump forward 2 tiles.",,"Uso: Lanza un ataque cuerpo a cuerpo. Al golpear, salta 2 casillas hacia delante.","Utilisation&nbsp;: une attaque au corps-à-corps. Exécutée avec réussite, vous sautez de 2&nbsp;cases vers l'avant.","Benutzen: Ein Nahkampfangriff. Spring 2&nbsp;Felder vorwärts, wenn du triffst.","Uso: Un attacco corpo a corpo. In caso vada a segno, salti in avanti di 2 caselle.","Uso: um ataque corpo-a-corpo. Ao golpear, salte 2 espaços para frente.","使用：一次近战攻击。命中时，
 向前跳跃2格。"
 ITEM_BOMB_NAME,Bomb,,Bomba,Bomb,Bombe,Bomba,Bomba,炸弹
@@ -348,7 +348,7 @@ ITEM_CHEESE_DESC,Use: Gain +1 [img:con] and heal 2 HP.,,Uso: Obtiene +1 [img:con
 "
 ITEM_CHUMBUCKET_NAME,Chum Bucket,,Cubo de cebo,Seau d'asticots,Ködereimer,Secchio di Pastura,Balde de Restos,诱饵桶
 ITEM_CHUMBUCKET_DESC,Use: A lobbed attack that creates a creep puddle.,,Uso: Lanza un ataque en arco que crea un charco de líquido tóxico.,Utilisation&nbsp;: une attaque en cloche qui génère une flaque de substance visqueuse.,"Benutzen: Ein Angriff, der Hindernisse ignoriert und eine Ekelschleimpfütze erzeugt.",Uso: Un attacco a parabola che crea una pozza di melma.,Uso: um ataque em arco que cria uma poça de gosma.,"使用：投掷攻击，
-制造一滩爬行物。"
+制造一滩腐液。"
 ITEM_CREEPYPHOTO_NAME,Creepy Photo,,Foto espantosa,Photo flippante,Gruseliges Foto,Foto Inquietante,Foto Assustadora,恐怖照片
 ITEM_CREEPYPHOTO_DESC,"Use: A melee attack that inflicts Fear 1.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Lanza un ataque cuerpo a cuerpo que inflige 1 de miedo.
@@ -1353,7 +1353,7 @@ RICARICA: Uccidi una roccia.","Uso: um ataque em arco que aplica petrificação.
 RECARREGAMENTO: mate uma pedra.","使用：一次抛掷攻击，
 造成石化效果。
 重新装填：击杀一块岩石。"
-ITEM_STICK_NAME,Stick,,Palo,Bâton,Stock,Bastone,Graveto,棍棒
+ITEM_STICK_NAME,Stick,,Palo,Bâton,Stock,Bastone,Graveto,木棍
 ITEM_STICK_DESC,Use: A melee attack with +1 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +1 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1.,Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con +1 di portata.,Uso: um ataque corpo-a-corpo com +1 de envergadura.,"使用：
 一次拥有 +1 射程的近战攻击。
 "
@@ -2465,7 +2465,7 @@ ITEM_PEARL_DESC,Use: Gain 10-30 coins.,,Uso: Obtiene 10-30 monedas.,Utilisation&
 ITEM_PERCS_NAME,Percs,,Oxicodona,Oxycodone,Oxy,Paracetamolo,Analgésico,护盾
 ITEM_PERCS_DESC,Use: Gain +{aux} [img:shield].,,Uso: Obtiene +{aux} [img:shield].,Utilisation&nbsp;: [img:shield] +{aux}.,Benutzen: Erhalte +{aux}&nbsp;[img:shield].,Uso: Ottieni +{aux} allo [img:shield].,Uso: obtenha +{aux} de [img:shield].,使用：获得+{aux} [img:shield]。
 ITEM_PSYCHICSEAL_NAME,Psychic Seal,,Sello de ocultista,Sceau du médium,Mediumsiegel,Sigillo dello Psionico,Selo de Psíquico,通灵印章
-ITEM_PSYCHICSEAL_DESC,Use: Permanently turn into a Psychic.,,Uso: Se transforma para siempre en ocultista.,Utilisation&nbsp;: vous change en médium de façon permanente.,Benutzen: Werde dauerhaft zu einem Medium.,Uso: Ti trasformi permanentemente in uno Psionico.,Uso: torne-se um psíquico permanentemente.,使用：永久变成通灵师。
+ITEM_PSYCHICSEAL_DESC,Use: Permanently turn into a Psychic.,,Uso: Se transforma para siempre en ocultista.,Utilisation&nbsp;: vous change en médium de façon permanente.,Benutzen: Werde dauerhaft zu einem Medium.,Uso: Ti trasformi permanentemente in uno Psionico.,Uso: torne-se um psíquico permanentemente.,使用：永久变成灵能者。
 ITEM_RAPTOREGG_NAME,Raptor Egg,,Huevo de velocirraptor,Œuf de raptor,Raptorei,Uovo di Rapace,Ovo de Raptor,迅猛龙蛋
 ITEM_RAPTOREGG_DESC,"Use: Heal to full.
 10% chance at the end of each turn to break and summon a Charmed Raptor Kitten.",,"Uso: Devuelve toda la salud.
@@ -2547,8 +2547,8 @@ ITEM_TANKSEAL_NAME,Tank Seal,,Sello de tanque,Sceau du tank,Tanksiegel,Sigillo d
 ITEM_TANKSEAL_DESC,Use: Permanently turn into a Tank.,,Uso: Se transforma para siempre en tanque.,Utilisation&nbsp;: vous change en tank de façon permanente.,Benutzen: Werde dauerhaft zu einem Tank.,Uso: Ti trasformi permanentemente in un Corazzato.,Uso: torne-se um tanque permanentemente.,使用：永久变成坦克。
 ITEM_THIEFSEAL_NAME,Thief Seal,,Sello de ladrón,Sceau du fourbe,Diebessiegel,Sigillo del Ladro,Selo de Ladrão,盗贼印章
 ITEM_THIEFSEAL_DESC,Use: Permanently turn into a Thief.,,Uso: Se transforma para siempre en ladrón.,Utilisation&nbsp;: vous change en fourbe de façon permanente.,Benutzen: Werde dauerhaft zu einem Dieb.,Uso: Ti trasformi permanentemente in un Ladro.,Uso: torne-se um ladrão permanentemente.,使用：永久变成盗贼。
-ITEM_TINKERERSEAL_NAME,Tinkerer Seal,,Sello de manitas,Sceau du bricolo,Bastlersiegel,Sigillo dell'Inventore,Selo de Artífice,修补匠印章
-ITEM_TINKERERSEAL_DESC,Use: Permanently turn into a Tinkerer.,,Uso: Se transforma para siempre en manitas.,Utilisation&nbsp;: vous change en bricolo de façon permanente.,Benutzen: Werde dauerhaft zu einem Bastler.,Uso: Ti trasformi permanentemente in un Inventore.,Uso: torne-se um artífice permanentemente.,使用：永久变成修补匠。
+ITEM_TINKERERSEAL_NAME,Tinkerer Seal,,Sello de manitas,Sceau du bricolo,Bastlersiegel,Sigillo dell'Inventore,Selo de Artífice,工匠印章
+ITEM_TINKERERSEAL_DESC,Use: Permanently turn into a Tinkerer.,,Uso: Se transforma para siempre en manitas.,Utilisation&nbsp;: vous change en bricolo de façon permanente.,Benutzen: Werde dauerhaft zu einem Bastler.,Uso: Ti trasformi permanentemente in un Inventore.,Uso: torne-se um artífice permanentemente.,使用：永久变成工匠。
 ITEM_TURKEY_NAME,Whole Turkey,,Pavo entero,Dinde entière,Ganzer Truthahn,Tacchino Intero,Peru Inteiro,整只火鸡
 ITEM_TURKEY_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,使用：回复 {aux} 生命值。
 ITEM_UPPER_NAME,Upper,,Estimulante,Stimulant,Upper,Stimolante,Upper,兴奋剂
@@ -5234,7 +5234,7 @@ ARMOR_SCRAPPERSBACKPACK_DESC,"When you break an item, recover it at the end of t
 在战斗结束时以1点耐久度恢复该物品。
 
 [s:.7](不包括临时物品)[/s]"
-SETBONUS_TINKERER_NAME,Tinkerer Set Bonus!,,¡bonificación de conjunto de manitas!,Bonus d'ensemble&nbsp;: bricolo&nbsp;!,Setbonus: Bastler!,Bonus Set: Inventore!,Bônus de Conjunto de Artífice!,修补匠套装奖励！
+SETBONUS_TINKERER_NAME,Tinkerer Set Bonus!,,¡bonificación de conjunto de manitas!,Bonus d'ensemble&nbsp;: bricolo&nbsp;!,Setbonus: Bastler!,Bonus Set: Inventore!,Bônus de Conjunto de Artífice!,工匠套装奖励！
 SETBONUS_TINKERER_DESC,Spawn 4 Scrap pickups at the start of each battle.,,Genera 4 recogibles de chatarra al inicio de cada combate.,Fait apparaître 4&nbsp;morceaux de ferraille au début de chaque combat.,Lasse am Anfang jedes Kampfes 4-mal Schrott erscheinen.,Generi 4 raccoglibili Rottami all'inizio di ogni battaglia.,Gere 4 coletáveis de sucata no início de cada batalha.,"每场战斗开始时生成4个废料拾取物。
 "
 ,,,,,,,,
@@ -6243,6 +6243,6 @@ ABILITY_NUKEBONUS_DESC,Explode the nuke and mass damage everything.,,Detona el a
 ABILITY_EATNEVERSTONE_NAME,Mmmm... Yummy Neverstone,,Piedrajamás deliciosa,Pierre de stagnation appétissante,Mmmh&nbsp;… Lecker Vergängnisstein,Mmm... una gustosa Pietra del Mai,Mmmm... Pedra do Nunca gostosa...,嗯……美味的永恒石
 ,,,,,,,,
 //enemy items that show their name,,,,,,,,
-ITEM_CAVECATCLUB_NAME,Club,,Garrote,Batte,Keule,Mazza,Porrete,棍棒
+ITEM_CAVECATCLUB_NAME,Club,,Garrote,Batte,Keule,Mazza,Porrete,球棒
 ITEM_ASTROTASER_NAME,Astro Zapper,,Astropistola eléctrica,Astro-foudroyeur,Astrozapper,Astro-Taser,Astro Zapper,星际电击器
 ITEM_GUNSLINGERPISTOL_NAME,Gunslinger Pistol,,Revólver de pistolero,Flingue de franc-tireur,Heldenrevolver,Revolver del Pistolero,Pistola de Pistoleiro,枪手手枪

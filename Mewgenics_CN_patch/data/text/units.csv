@@ -103,8 +103,8 @@ ENEMY_BLORB_DESC,Its ranged attack inflicts Slow in an area.,,Su ataque a distan
 ENEMY_FLORB_NAME,Florb,,Florb,Excroissance flottante,Florb,Flobbo,Florb,弗洛布
 ENEMY_FLORB_DESC,Its ranged attack inflicts Slow. Flying.,,Su ataque a distancia inflige ralentización. Vuela.,Son attaque à distance inflige Lenteur. Vol.,Sein Fernkampfangriff verursacht Verlangsamung. Fliegt.,Il suo attacco a distanza infligge Rallentamento. Volante.,Sem ataque à distância aplica lentidão. Voador.,它的远程攻击施加减速。会飞。
 ENEMY_LUMPY_NAME,Lumpy,,Amorfo,Ratatouille,Schleimi,Amorfo,Protuberante,隆起者
-ENEMY_LUMPY_DESC,Its ranged attack creates Creep. Spawns Creep when damaged.,,Su ataque a distancia crea líquido tóxico. También lo genera al sufrir daño.,Son attaque à distance disperse de la bave toxique. De la bave toxique apparaît quand il subit des dégâts.,"Sein Fernkampfangriff erschafft Ekelschleim. Erschafft Ekelschleim, wenn er Schaden erleidet.",Il suo attacco a distanza crea Melma. Genera melma quando subisce danno.,Seu ataque à distância gera gosma. Gera gosma ao sofrer dano.,"它的远程攻击制造爬行物。
-受伤时生成爬行物。"
+ENEMY_LUMPY_DESC,Its ranged attack creates Creep. Spawns Creep when damaged.,,Su ataque a distancia crea líquido tóxico. También lo genera al sufrir daño.,Son attaque à distance disperse de la bave toxique. De la bave toxique apparaît quand il subit des dégâts.,"Sein Fernkampfangriff erschafft Ekelschleim. Erschafft Ekelschleim, wenn er Schaden erleidet.",Il suo attacco a distanza crea Melma. Genera melma quando subisce danno.,Seu ataque à distância gera gosma. Gera gosma ao sofrer dano.,"它的远程攻击生成腐液。
+受伤时生成腐液。"
 ENEMY_LEAPER_NAME,Leaper,,Saltarino,Bondisseur,Springer,Salterino,Saltador,跳跃者
 ENEMY_LEAPER_DESC,Its leap attack damages and knocks back all adjacent units.,,Su ataque con salto inflige daño a todas las unidades adyacentes y las hace retroceder.,Son attaque sautée inflige des dégâts et repousse les unités adjacentes.,Sein Sprungangriff verursacht Schaden bei allen benachbarten Einheiten und stößt sie zurück.,Il suo attacco in balzo infligge danno e respinge tutte le unità adiacenti.,Seu ataque de salto causa dano e empurra para trás todas as unidades adjacentes.,"它的跳跃攻击对所有相邻单位造成伤害并击退。
 "
@@ -2230,7 +2230,7 @@ Hace retroceder a cualquier enemigo que lance un hechizo.","Dispose d'une attaqu
 Repousse tout ennemi qui lance un sort.","Hat einen psychischen Würgeangriff, der Beulen bei Einheiten in ihrer Sichtlinie verursacht.
 Stößt Einheiten zurück, die Zauber wirken.","Possiede un attacco psichico soffocante che infligge Livido a un'unità all'interno del suo campo visivo.
 Respinge tutti i nemici che lanciano un incantesimo.","Possui um ataque psíquico de enforcamento que aplica contusão em uma unidade dentro de seu campo de visão.
-Empurra para trás inimigos que lançam encantamentos.","拥有精神窒息攻击，
+Empurra para trás inimigos que lançam encantamentos.","拥有原力锁喉攻击，
 致使视线内单位产生挫伤。
 将施放法术的敌人击退。"
 ENEMY_DRAVEN_NAME,Draven,,Draven,Panoramis,Draven,Draven,Draven,德雷文
@@ -2787,10 +2787,10 @@ ENEMY_TERMINATOR3_NECRO_NAME,Robo-Morana,,Moranabot,Robo-Morana,Robo-Morana,Robo
 ENEMY_TERMINATOR3_TINKERER_NAME,Robo-Franklin,,Franklinbot,Robo-Franklin,Robo-Franklin,Robo-Franklin,Robô-Franklin,机器人-富兰克林
 ENEMY_TERMINATOR3_BUTCHER_NAME,Robo-Gein,,Geinbot,Robo-Gein,Robo-Gein,Robo-Gein,Robô-Gein,机器人-盖因
 ENEMY_TERMINATOR3_PSYCHIC_NAME,Robo-Alice,,Alicebot,Robo-Alice,Robo-Alice,Robo-Alice,Robô-Alice,机器人-爱丽丝
-ENEMY_TERMINATOR3_DRUID_NAME,Robo-Draven,,Dravenbot,Robo-Panoramis,Robo-Draven,Robo-Draven,Robô-Draven,Robo-德雷文
-ENEMY_TERMINATOR3_DRUIDCROW_NAME,Robo-Draven's Crow,,Cuervobot de Draven,Corbeau de robo-Panoramis,Robo-Dravens Krähe,Robo-Corvo di Draven,Robô-Corvo de Draven,Robo-德雷文的乌鸦
-ENEMY_TERMINATOR3_MONK_NAME,Robo-Chan Hung,,Chan Hungbot,Robo-Chan Hung,Robo-Chan Hung,Robo-Chan Hung,Robô-Chan Hung,Robo-陈鸿
-ENEMY_TERMINATOR3_JESTER_NAME,Robo-Arthur,,Arthurbot,Robo-Arthur,Robo-Arthur,Robo-Arthur,Robô-Arthur,Robo-亚瑟
+ENEMY_TERMINATOR3_DRUID_NAME,Robo-Draven,,Dravenbot,Robo-Panoramis,Robo-Draven,Robo-Draven,Robô-Draven,机器人-德莱文
+ENEMY_TERMINATOR3_DRUIDCROW_NAME,Robo-Draven's Crow,,Cuervobot de Draven,Corbeau de robo-Panoramis,Robo-Dravens Krähe,Robo-Corvo di Draven,Robô-Corvo de Draven,机器人-德莱文的乌鸦
+ENEMY_TERMINATOR3_MONK_NAME,Robo-Chan Hung,,Chan Hungbot,Robo-Chan Hung,Robo-Chan Hung,Robo-Chan Hung,Robô-Chan Hung,机器人酱
+ENEMY_TERMINATOR3_JESTER_NAME,Robo-Arthur,,Arthurbot,Robo-Arthur,Robo-Arthur,Robo-Arthur,Robô-Arthur,机器人-亚瑟
 ENEMY_TERMINATOR3_HITLER_NAME,Hitler,,Hitler,Hitler,Hitler,Hitler,Hitler,希特勒
 ENEMY_TERMINATOR3_HITLER_DESC,"Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!",,"Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!","Ich bin hier, um Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen! Unter Hitlers Herrschaft werden alle Katzen sterben!!"
 ENEMY_TERMINATOR3_HITLERHEAD_DESC,SMASH THAT HEAD!!!,,¡APLASTAD ESA CABEZA!,EXPLOSEZ-LUI LA GUEULE&nbsp;!!!,SCHLAG DEN KOPF EIN!!!,SPACCAGLI LA TESTA!!!,ESMAGUE AQUELA CABEÇA!!!,砸碎那颗头！！！
@@ -3150,7 +3150,7 @@ TILE_TALLBRAMBLETILE_NAME,Thick Bramble Tile,,Casilla de zarzas espesas,Case de 
 TILE_TALLBRAMBLETILE_DESC,4 damage when stepped on. Moving through this tile costs 3 movement.,,4 de daño al pisarla. Moverse por esta casilla cuesta 3 de movimiento.,Marcher dessus inflige 4&nbsp;dégâts. La traverser coûte 3&nbsp;points de déplacement.,4&nbsp;Schaden bei Betreten. Über dieses Feld zu gehen kostet 3&nbsp;Bewegung.,3 di danno quando ci si cammina sopra. Attraversare questa casella costa 3 di movimento.,4 de dano ao pisar. Mover-se por este espaço custa 3 de movimento.,"踩上时造成 4 点伤害。
 移动通过该地块需要 3 点移动力。
 "
-TILE_CREEPTILE_NAME,Creep Tile,,Casilla de líquido tóxico,Case de bave toxique,Ekelschleim,Casella di Melma,Espaço de Gosma,爬行地块
+TILE_CREEPTILE_NAME,Creep Tile,,Casilla de líquido tóxico,Case de bave toxique,Ekelschleim,Casella di Melma,Espaço de Gosma,腐液地块
 TILE_CREEPTILE_DESC,1 damage when entering or starting your turn on this tile. Moving through this tile costs 2 movement.,,1 de daño al pisarla o empezar el turno ahí. Moverse por esta casilla cuesta 2 de movimiento.,Marcher dessus ou commencer son tour dessus inflige 1&nbsp;dégât. La traverser coûte 2&nbsp;points de déplacement.,"1&nbsp;Schaden bei Betreten, oder wenn du deinen Zug auf diesem Feld beginnst. Über dieses Feld zu gehen kostet 2&nbsp;Bewegung.",1 di danno quando si entra o si comincia il turno su questa casella. Attraversare questa casella costa 2 di movimento.,1 de dano ao entrar ou iniciar seu turno neste espaço. Mover-se por este espaço custa 2 de movimento.,"进入或回合开始时在该地块造成 1 点伤害。
 
 移动通过该地块需要 2 点移动力。
