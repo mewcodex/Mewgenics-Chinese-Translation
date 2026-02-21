@@ -270,8 +270,8 @@ HOUSEBOSS_COUNTDOWN_TOMORROW,Tomorrow!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!
 HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,!!!
 HOUSE_BUTTON_ENDDAY,End Day,,Terminar día,Fin de journée,Tag beenden,Fine giornata,Finalizar Dia,结束一天
 HOUSE_BUTTON_DEPART,Depart!,,Partir,À l'aventure&nbsp;!,Aufbrechen!,Partenza!,Partir!,出发！
-HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{month} {day} {weekday}
-HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}",{year}年 {month} {day} {weekday}
+HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{month} {day} 日  {weekday}
+HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}",{year} 年 {month} {day} 日 {weekday}
 HOUSE_DATE_MONDAY,Mo,,Lu,Lu,Mo,Lu,Seg,周一
 HOUSE_DATE_TUESDAY,Tu,,Ma,Ma,Di,Ma,Ter,周二
 HOUSE_DATE_WEDNESDAY,We,,Mi,Me,Mi,Me,Qua,周三
@@ -279,18 +279,18 @@ HOUSE_DATE_THURSDAY,Th,,Ju,Je,Do,Gi,Qui,周四
 HOUSE_DATE_FRIDAY,Fr,,Vi,Ve,Fr,Ve,Sex,周五
 HOUSE_DATE_SATURDAY,Sa,,Sa,Sa,Sa,Sa,Sáb,周六
 HOUSE_DATE_SUNDAY,Su,,Do,Di,So,Do,Dom,周日
-HOUSE_DATE_JAN,Jan,,Ene,Jan,Jan,Gen,Jan,1月
-HOUSE_DATE_FEB,Feb,,Feb,Fév,Feb,Feb,Fev,2月
-HOUSE_DATE_MAR,Mar,,Mar,Mar,Mär,Mar,Mar,3月
-HOUSE_DATE_APR,Apr,,Abr,Avr,Apr,Apr,Abr,4月
-HOUSE_DATE_MAY,May,,May,Mai,Mai,Mag,Mai,5月
-HOUSE_DATE_JUN,Jun,,Jun,Jun,Jun,Giu,Jun,6月
-HOUSE_DATE_JUL,Jul,,Jul,Jul,Jul,Lug,Jul,7月
-HOUSE_DATE_AUG,Aug,,Ago,Aoû,Aug,Ago,Ago,8月
-HOUSE_DATE_SEP,Sep,,Sep,Sep,Sep,Set,Set,9月
-HOUSE_DATE_OCT,Oct,,Oct,Oct,Okt,Ott,Out,10月
-HOUSE_DATE_NOV,Nov,,Nov,Nov,Nov,Nov,Nov,11月
-HOUSE_DATE_DEC,Dec,,Dic,Déc,Dez,Dic,Dez,12月
+HOUSE_DATE_JAN,Jan,,Ene,Jan,Jan,Gen,Jan,1 月
+HOUSE_DATE_FEB,Feb,,Feb,Fév,Feb,Feb,Fev,2 月
+HOUSE_DATE_MAR,Mar,,Mar,Mar,Mär,Mar,Mar,3 月
+HOUSE_DATE_APR,Apr,,Abr,Avr,Apr,Apr,Abr,4 月
+HOUSE_DATE_MAY,May,,May,Mai,Mai,Mag,Mai,5 月
+HOUSE_DATE_JUN,Jun,,Jun,Jun,Jun,Giu,Jun,6 月
+HOUSE_DATE_JUL,Jul,,Jul,Jul,Jul,Lug,Jul,7 月
+HOUSE_DATE_AUG,Aug,,Ago,Aoû,Aug,Ago,Ago,8 月
+HOUSE_DATE_SEP,Sep,,Sep,Sep,Sep,Set,Set,9 月
+HOUSE_DATE_OCT,Oct,,Oct,Oct,Okt,Ott,Out,10 月
+HOUSE_DATE_NOV,Nov,,Nov,Nov,Nov,Nov,Nov,11 月
+HOUSE_DATE_DEC,Dec,,Dic,Déc,Dez,Dic,Dez,12 月
 HOUSE_FURNITURE_STAT_COMFORT,{amount} [img:comfort] Comfort,,{amount} [img:comfort] Comodidad,[img:comfort] Bien-être&nbsp;: {amount},{amount} [img:comfort] Komfort,{amount} [img:comfort] Comfort,{amount} de [img:comfort] conforto,{amount} [img:comfort] 舒适度
 HOUSE_FURNITURE_STAT_STIMULATION,{amount} [img:stimulation] Stimulation,,{amount} [img:stimulation] Estimulación,[img:stimulation] Stimulation&nbsp;: {amount},{amount} [img:stimulation] Stimulation,{amount} [img:stimulation] Stimolazione,{amount} de [img:stimulation] estimulação,{amount} [img:stimulation] 刺激度
 HOUSE_FURNITURE_STAT_APPEAL,{amount} [img:appeal] Appeal,,{amount} [img:appeal] Atractivo,[img:appeal] Attractivité&nbsp;: {amount},{amount} [img:appeal] Reiz,{amount} [img:appeal] Attrattiva,{amount} de [img:appeal] apelo,{amount} [img:appeal] 吸引力
@@ -518,7 +518,7 @@ COMBAT_POPUP_RELOAD,Reload,,Recarga,Recharge,Nachgeladen,Ricarica,Recarregamento
 COMBAT_POPUP_RELOAD_MOVE,Reload Move,,Recarga de movimiento,Recharge de déplacement,Bewegung nachgeladen,Ricarica mossa,Recarregamento de movimento,装填移动
 COMBAT_POPUP_MUTATED,Mutated!,,¡Ha mutado!,Mutation&nbsp;!,Mutiert!,Mutato!,Mutação!,突变！
 COMBAT_POPUP_REBIRTH,Rebirth,,Renacimiento,Renaissance,Wiedergeburt,Rinascita,Renascimento,重生
-COMBAT_POPUP_STUDY,Study: {studiedtype},"Example: ""Study: Cat"", ""Study: Bug"", ""Study: Rock"", etc. happens when a cat with a passive called Study ""studies"" something",Estudio: {studiedtype},Étude&nbsp;: {studiedtype},Erforscht: {studiedtype},Studia: {studiedtype},Estudando: {studiedtype},研究: {studiedtype}
+COMBAT_POPUP_STUDY,Study: {studiedtype},"Example: ""Study: Cat"", ""Study: Bug"", ""Study: Rock"", etc. happens when a cat with a passive called Study ""studies"" something",Estudio: {studiedtype},Étude&nbsp;: {studiedtype},Erforscht: {studiedtype},Studia: {studiedtype},Estudando: {studiedtype},研究：{studiedtype}
 COMBAT_POPUP_TAKEAIM,Take Aim,,Puntería,En joue,Zielen,Mira,Mira,瞄准
 COMBAT_POPUP_LOSEAIM,Lost Take Aim Bonus,,Puntería perdida,Bonus «&nbsp;En joue&nbsp;» perdu,Zielen-Bonus verloren,Bonus Mira Perso,Bônus de mira perdido,失去瞄准加成
 COMBAT_POPUP_HOLSTER,Holster,,Pistolera,Attaque conservée,Holster,Fondina,Coldre,收起
@@ -565,7 +565,7 @@ SHOP_EXITBUTTON,Exit,,Salir,Partir,Verlassen,Uscita,Sair,离开
 SHOP_TRYEXIT,Exit?,,¿Salir?,Voulez-vous vraiment partir&nbsp;?,Verlassen?,Vuoi uscire?,Sair?,离开？
 ,,,,,,,,
 NPC_MAP_TOOLTIP_STEVEN,He can adjust the difficulty of the world and resummon defeated bosses.,,Puede ajustar el nivel de dificultad del mundo y volver a invocar a jefes derrotados.,Il peut ajuster la difficulté du monde et ressusciter les boss vaincus.,Er kann die Schwierigkeit der Welt anpassen und bereits besiegte Bosse neu beschwören.,Può modificare la difficoltà del mondo di gioco e rievocare boss sconfitti.,Pode ajustar a dificuldade do mundo e invocar chefes derrotados novamente.,"他可以调整世界难度
-并重新召唤已击败的Boss。"
+并重新召唤已击败的 Boss。"
 NPC_MAP_TOOLTIP_CLOSED,Is not accepting cats at the moment.,,No acepta gatos ahora mismo.,N'accepte pas les chats pour le moment.,Nimmt momentan keine Katzen auf.,Al momento non accetta gatti.,Não está aceitando gatos no momento.,目前不接收猫咪。
 NPC_MAP_TOOLTIP_BEANIES,"Wants cats with mutations, birth defects, disorders, or parasites.",,"Quiere gatos con mutaciones, malformaciones congénitas, trastornos o parásitos.","Recherche des chats présentant des mutations, des malformations, des troubles ou des parasites.","Will Katzen mit Mutationen, Geburtsfehlern, Störungen oder Parasiten.","Cerca gatti con mutazioni, difetti congeniti, malattie o parassiti.","Deseja gatos com mutações, doenças congênitas, transtornos ou parasitas.","想要带有突变、先天缺陷、
 病症或寄生虫的猫咪。"
@@ -659,7 +659,7 @@ ITEM_BROKEN_TOOLTIP,It's trash now,,Ahora es basura.,Bon pour la poubelle.,Kann 
 ,,,,,,,,
 NO_CHARACTER_NAME,Nobody,,Nadie,Personne,Niemand,Nessuno,Ninguém,无名氏
 ,,,,,,,,
-CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷{Catname}
+CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷 {Catname}
 CAT_NAME_MOD_COOL_M,,,,,,{Catname} fantastico,,
 CAT_NAME_MOD_COOL_F,,,,,,{Catname} fantastica,,
 CAT_NAME_MOD_COOL_N,,,,,,{Catname} spettacolare,,
@@ -669,11 +669,11 @@ in this case, (Vegan) needs to come after other mods, so |1 means apply later.
 CAT_NAME_MOD_VEGAN_M,,,,,,{Catname} (Vegano)|999,{Catname} (Vegano)|999,
 CAT_NAME_MOD_VEGAN_F,,,,,,{Catname} (Vegana)|999,{Catname} (Vegana)|999,
 CAT_NAME_MOD_VEGAN_N,,,,,,{Catname} (mangia cibo vegano)|999,,
-CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,{Catname}先生|1
+CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,{Catname} 先生|1
 CAT_NAME_MOD_MAN_M,,,,,,,,
 CAT_NAME_MOD_MAN_F,,,,,,,,
 CAT_NAME_MOD_MAN_N,,,,,,,,
-CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级-{Catname}
+CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级 {Catname}
 CAT_NAME_MOD_SUPER_M,,,,,,,,
 CAT_NAME_MOD_SUPER_F,,,,,,,,
 CAT_NAME_MOD_SUPER_N,,,,,,,,
@@ -681,24 +681,24 @@ CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1
 CAT_NAME_MOD_AMOEBA_M,,,,,,,,
 CAT_NAME_MOD_AMOEBA_F,,,,,,,,
 CAT_NAME_MOD_AMOEBA_N,,,,,,,,
-CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,{Catname}月光
+CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,{Catname} 月光
 CAT_NAME_MOD_HIPPIE_M,,,,,,,,
 CAT_NAME_MOD_HIPPIE_F,,,,,,,,
 CAT_NAME_MOD_HIPPIE_N,,,,,,,,
-CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶{Catname}
+CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶 {Catname}
 CAT_NAME_MOD_DEMONIC_M,,,,,,,,
 CAT_NAME_MOD_DEMONIC_F,,,,,,,,
 CAT_NAME_MOD_DEMONIC_N,,,,,,,,
 CAT_NAME_MOD_STEVEN,Steven|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999,史蒂文|-999
-CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小{Catname}|3
+CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小 {Catname}|3
 CAT_NAME_MOD_DWARF_M,,,,,,Piccolo {Catname}|3,{Catname} pequeno|3,
 CAT_NAME_MOD_DWARF_F,,,,,,Piccola {Catname}|3,{Catname} pequena|3,
 CAT_NAME_MOD_DWARF_N,,,,,,{Catname} junior|3,,
-CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,小{Catname}|3
+CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,小 {Catname}|3
 CAT_NAME_MOD_PDWARF_M,,,,,,,,
 CAT_NAME_MOD_PDWARF_F,,,,,,,,
 CAT_NAME_MOD_PDWARF_N,,,,,,,,
-CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大{Catname}|2
+CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大 {Catname}|2
 CAT_NAME_MOD_GIGANTISM_M,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_F,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_N,,,,,,,,

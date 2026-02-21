@@ -101,7 +101,7 @@ CAT_VS_BOSS_QUOTES_DRUID_5,Another one bites the dust!,,¡Otro que muerde el pol
 CAT_VS_BOSS_QUOTES_DRUID_6,Can't we all just get along?,,Vamos a llevarnos bien...,On pourrait pas tous vivre en harmonie&nbsp;?,Können wir uns nicht einfach vertragen?,Non potremmo andare tutti d'accordo?,A gente não pode só se dar bem?,我们就不能和睦相处吗？
 CAT_VS_BOSS_QUOTES_DRUID_7,You are so off key...,,No te enteras de la película...,Tu sonnes vraiment faux...,Du ruinierst den ganzen Vibe&nbsp;…,Sei totalmente fuori sintonia...,Você está tão fora do tom...,你太跑调了……
 CAT_VS_BOSS_QUOTES_DRUID_8,"After I'm done with you, you'll B-Flat!",,¡Te voy a dejar como un acordeón!,Je compte pas mettre un bémol à ce combat&nbsp;!,"Ich bin so ein AS, ich mach dich fertig, bis du nur noch FIS-Suppe essen kannst! Verstehst du&nbsp;…?",Ti suonerò come una fisarmonica!,"Depois que eu terminar, você vai pra fora da escala!","等我收拾完你，
-你就变降B调（扁）了！"
+你就变降 B 调（扁）了！"
 CAT_VS_BOSS_QUOTES_DRUID_9,Why can't we be friends?,,¿No podemos ser amigos?,On peut vraiment pas être amis&nbsp;?,Warum können wir nicht einfach Freunde sein?,Perché non possiamo essere amici?,Por que a gente não pode ser amigo?,为什么我们不能做朋友？
 CAT_VS_BOSS_QUOTES_TINKERER_1,"By my calculations, you only have a 33.3% (repeating of course) chance of victory.",,"Según mis cálculos, solo tienes un 33,3 % —período, claro está— de probabilidad de victoria.","D'après mes calculs, tu n'as que 33,3&nbsp;% de chances de gagner.","Nach meinen Berechnungen beträgt die Wahrscheinlichkeit dafür, dass du gewinnst, gerade mal 33,3&nbsp;% (Periode).","Secondo i miei calcoli, hai solo il 33,3% (periodico, ovviamente) di possibilità di vittoria.","Pelos meus cálculos, você possui apenas 33,3% (repetidamente, é claro) de chances de vitória.","根据我的计算，你只有
 33.3%（当然是无限循环）
@@ -630,9 +630,9 @@ CAT_RETURN_SINGULAR_TEAMNAME,Returns home,,regresa a casa,Rentre à la maison.,k
 CAT_QUOTE_ERROR,I don't know what to say,,No sé qué decir.,Je sais pas quoi dire.,"Ich weiß nicht, was ich sagen soll",Non so cosa dire,Eu não sei o que dizer,我不知道该说什么
 ,,,,,,,,
 //boss cutscene info,,,,,,,,
-BOSS_ERROR_NAME,A Boss,,Un jefe,Un boss,Ein Boss,Un boss,Um Chefe,一个Boss
+BOSS_ERROR_NAME,A Boss,,Un jefe,Un boss,Ein Boss,Un boss,Um Chefe,一个 Boss
 BOSS_ERROR_QUOTE_1,please fix this,,Hay que arreglar esto.,faut réparer ça,bitte diesen Fehler beheben,"Per favore, risolvi","por favor, conserte isto",请修复这个
-BOSS_ERROR_MINIBOSS_NAME,A Miniboss,,Un minijefe,Un miniboss,Ein Miniboss,Un miniboss,Um Minichefe,一个小Boss
+BOSS_ERROR_MINIBOSS_NAME,A Miniboss,,Un minijefe,Un miniboss,Ein Miniboss,Un miniboss,Um Minichefe,一个小 Boss
 BOSS_ERROR_MINIBOSS_QUOTE_1,please fix this,,Hay que arreglar esto.,faut réparer ça,bitte diesen Fehler beheben,"Per favore, risolvi","por favor, conserte isto",请修复这个
 BOSS_PEBBLES_NAME,Pebbles,,Pebbles,Pétra,Pebbles,Ciottolone,Pebbles,佩布尔斯
 BOSS_PEBBLES_QUOTE_1,You're gonna get rocked!,,¡Os vais a quedar de piedra!,"J'suis la pierre, z'êtes les ciseaux&nbsp;!",Steinhart wie‘n Rocker!,Ti scuoterò come si deve!,Você vai tomar uma pedrada!,准备好被砸扁吧！
@@ -791,7 +791,7 @@ BOSS_STACY_QUOTE_1,Meow?,,¿Miau?,Miaou&nbsp;?,Miau?,Miao?,Miau?,喵呜？
 BOSS_STACY_QUOTE_2,Mew mew!?,,"¿Miau, miau?","Miaou, miaou&nbsp;?",Miau-miau?!,Miao miao?!,Mew mew?!,喵 喵！？
 BOSS_STACY_QUOTE_3,Meeeow!?,,¡¿Miauuuu?!,Miaouuu&nbsp;?!,Miiiaau?!,Miao?!,Miaaau?!,喵——呜！？
 BOSS_SPEWER_NAME,Spewer,,Salivastro,Gicleur,Spucker,Vomitore,Ejetor,呕吐者
-BOSS_SPEWER_QUOTE_1,I've been trapped here for 17 years.,,Llevo 17 años atrapado aquí.,Je suis coincé ici depuis 17 ans.,Seit 17 Jahren bin ich hier gefangen.,Sono intrappolato qui da 17 anni.,Eu estou aqui há 17 anos.,我被困在这里17年了。
+BOSS_SPEWER_QUOTE_1,I've been trapped here for 17 years.,,Llevo 17 años atrapado aquí.,Je suis coincé ici depuis 17 ans.,Seit 17 Jahren bin ich hier gefangen.,Sono intrappolato qui da 17 anni.,Eu estou aqui há 17 anos.,我被困在这里 17 年了。
 BOSS_SPEWER_QUOTE_2,I need to take my pills...,,Tengo que tomarme las pastillas...,Je dois prendre mes cachets...,Ich brauche meine Pillen&nbsp;…,Devo prendere le mie pillole...,Preciso de minhas pílulas...,我得吃药了...
 BOSS_SPEWER_QUOTE_3,Pills pills pills!!!,,"¡Pastis, pastis, pastis!","Pilules, pilules, pilules&nbsp;!!!","Pillen, Pillen, Pillen!!!",Pillole pillole pillole!!!,"Pílulas, pílulas, pílulas!!!",药丸 药丸 药丸！！！
 BOSS_SPEWER_QUOTE_4,"Uh oh, I think I'm gonna spew!",,"Oh-oh, me parece que voy a escupir.","Oh oh, j'crois que je vais en mettre partout&nbsp;!","Oh-oh, ich glaube ich muss kotzen!","Uh oh, credo di stare per vomitare!","Oh oh, acho que vou ejetar!",噢 噢，我感觉我要吐了！

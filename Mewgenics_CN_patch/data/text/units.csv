@@ -4,15 +4,15 @@ PLAYER_CAT_NAME_M,,,,,,,,
 PLAYER_CAT_NAME_F,,,,,,,,
 PLAYER_CAT_NAME_N,,,,,,,,
 PLAYER_CAT_DESC,Cat.,,Un gato.,Un chat.,Katze.,Gatto.,Gato.,猫。
-PLAYER_MINIME_NAME,Mini-{Catname},,Mini-{Catname},Mini-{Catname},Mini-{Catname},Mini-{Catname},Mini-{Catname},迷你{Catname}
+PLAYER_MINIME_NAME,Mini-{Catname},,Mini-{Catname},Mini-{Catname},Mini-{Catname},Mini-{Catname},Mini-{Catname},迷你 {Catname}
 PLAYER_MINIME_NAME_M,,,,,,,,
 PLAYER_MINIME_NAME_F,,,,,,,,
 PLAYER_MINIME_NAME_N,,,,,,,,
-PLAYER_MINIMINIME_NAME,Mini-Mini-{Catname},,Mini-Mini-{Catname},Mini-mini-{Catname},Mikro-{Catname},Mini-Mini-{Catname},Mini-Mini-{Catname},迷你迷你{Catname}
+PLAYER_MINIMINIME_NAME,Mini-Mini-{Catname},,Mini-Mini-{Catname},Mini-mini-{Catname},Mikro-{Catname},Mini-Mini-{Catname},Mini-Mini-{Catname},迷你迷你 {Catname}
 PLAYER_MINIMINIME_NAME_M,,,,,,,,
 PLAYER_MINIMINIME_NAME_F,,,,,,,,
 PLAYER_MINIMINIME_NAME_N,,,,,,,,
-PLAYER_CATCLONE_NAME,{Catname} Clone,,Clon de {Catname},"{Catname}, version clone",Klon von {Catname},Clone di {Catname},Clone de {Catname},{Catname}克隆体
+PLAYER_CATCLONE_NAME,{Catname} Clone,,Clon de {Catname},"{Catname}, version clone",Klon von {Catname},Clone di {Catname},Clone de {Catname},{Catname} 克隆体
 PLAYER_CATCLONE_NAME_M,,,,{Catname} cloné,,,,
 PLAYER_CATCLONE_NAME_F,,,,{Catname} clonée,,,,
 PLAYER_CATCLONE_NAME_N,,,,{Catname} cloné(e),,,,
@@ -704,7 +704,7 @@ Kann Verbündeten zusätzliche Züge verleihen.
 Immun gegen Feuer.","Possiede due attacchi corpo a corpo, uno con Immobilizzazione, l'altro con Bruciatura, in grado di spingere un'unità nella direzione in cui è rivolta.
 Può fornire turni aggiuntivi ai suoi alleati.
 Immune al fuoco.","Possui 2 ataques corpo-a-corpo. Um com imobilização e outro com queimadura que empurra unidades para a direção em que é realizado.
-Imune contra fogo.","拥有2种近战攻击，一种造成定身，
+Imune contra fogo.","拥有 2 种近战攻击，一种造成定身，
 另一种造成燃烧并沿其朝向击退单位。
 可以让盟友获得额外回合。
 免疫火焰。"
@@ -884,9 +884,9 @@ Possui a habilidade de invocar sondas-B.
 Explode ao morrer.","在回合中执行随机行动。
 拥有造成晕眩的冲刺攻击。
 拥有蓄力激光攻击，可秒杀目标。
-拥有召唤B型探测机的能力。
+拥有召唤 B 型探测机的能力。
 被杀时爆炸。"
-ENEMY_YBLASTER_NAME,Y-Blaster,,Desintegrador amarillo,Flingueur jaune,Y-Blaster,Disintegratore-G,Blaster-A,Y型爆破机
+ENEMY_YBLASTER_NAME,Y-Blaster,,Desintegrador amarillo,Flingueur jaune,Y-Blaster,Disintegratore-G,Blaster-A,Y 型爆破机
 ENEMY_YBLASTER_DESC,"Shoots at units that cross its path.
 Gains +1 Damage at the end of its turn.
 Moves away when in danger.",,"Dispara a las unidades que se cruzan en su camino.
@@ -902,7 +902,7 @@ Obtém +1 de dano no final de seu turno.
 Afasta-se ao sofrer dano.","射击穿过其路径的单位。
 在回合结束时获得 +1 伤害。
 遇到危险时逃离。"
-ENEMY_GALIEN_NAME,G-Alien,,Extraterrestre gris,Petit-gris,G-Alien,Alieno-G,Alien-C,G外星人
+ENEMY_GALIEN_NAME,G-Alien,,Extraterrestre gris,Petit-gris,G-Alien,Alieno-G,Alien-C,G 外星人
 ENEMY_GALIEN_DESC,"Its ranged attack has Knockback.
 Primes a Counterspell at the end of its turn.
 Is powered up when Counterspell is primed.",,"Su ataque a distancia tiene retroceso.
@@ -918,7 +918,7 @@ Prepara um contrafeitiço no final de seu turno.
 Energiza-se quando o contrafeitiço é preparado.","其远程攻击具有击退效果。
 在回合结束时准备反制法术。
 准备反制法术时获得强化。"
-ENEMY_BPROBER_NAME,B-Prober,,Sondeador anal,Sondeur anal,A-Sondierer,Sondatore-C,Sonda-A,B型探测机
+ENEMY_BPROBER_NAME,B-Prober,,Sondeador anal,Sondeur anal,A-Sondierer,Sondatore-C,Sonda-A,B 型探测机
 ENEMY_BPROBER_DESC,"Melee attacker. If it can melee attack a cat from behind it will inflict Charm.
 This Charm lasts until the Charmed cat takes damage.",,"Atacante cuerpo a cuerpo. Si puede atacar a un gato por la espalda, le inflige embrujo.
 El gato sigue embrujado hasta que sufre daño.","Attaque au corps-à-corps. Inflige Envoûtement aux chats qu'il attaque par-derrière.
@@ -1013,7 +1013,7 @@ Pode agarrar e matar instantaneamente unidades se puder alcançá-las.
 Obtém +99 de preparação até o próximo turno ao sofrer dano.","回合开始时近战攻击相邻单位并造成击退 10。
 发动直线远程地震攻击。
 如果能触及单位，可以抓取并秒杀它们。
-受到伤害时，获得+99护甲直到其下一回合。"
+受到伤害时，获得 +99 护甲直到其下一回合。"
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
@@ -2601,7 +2601,7 @@ ENEMY_MOTHERSPIKE_NAME,The Mother,,La Madre,La Matriarche,Die Mutter,La Madre,A 
 ENEMY_MOTHERSPIKE_DESC,,,,,,,,
 ENEMY_THECREATOR_NAME,The Creator,,El Creador,Le Créateur,Der Schöpfer,Il Creatore,O Criador,造物主
 ENEMY_THECREATOR_DESC,Nosce te Ipsum!,,Nosce te ipsum...,Nosce te ipsum&nbsp;!,Nosce te ipsum!,Nosce te Ipsum!,Nosce te Ipsum!,认识你自己！
-ENEMY_CREATORCLONE_NAME,Good {Catname},,{Catname} benevolente,{Catname} (en mieux),Guter {Catname},{Catname} Gentile,{Catname} do Bem,善良的{Catname}
+ENEMY_CREATORCLONE_NAME,Good {Catname},,{Catname} benevolente,{Catname} (en mieux),Guter {Catname},{Catname} Gentile,{Catname} do Bem,善良的 {Catname}
 ENEMY_CREATORCLONE_NAME_M,,,,,,,,
 ENEMY_CREATORCLONE_NAME_F,,,,,,,,
 ENEMY_CREATORCLONE_NAME_N,,,,,,,,
@@ -2711,7 +2711,7 @@ ENEMY_DEADPINKY_DESC,This poor little guy didn't stand a chance!,,Esta pobre cri
 ENEMY_STRANGEEGG_NAME,Strange Egg,,Huevo extraño,Œuf étrange,Verdächtiges Ei,Strano Uovo,Ovo Estranho,奇怪的蛋
 ENEMY_STRANGEEGG_DESC,What could it hatch into?,,¿Qué saldrá de ahí dentro?,Que cache cet œuf&nbsp;?,Was wohl aus ihm schlüpft?,In cosa potrebbe schiudersi?,O que será que vai sair dele?,它会孵化出什么？
 //druid friends,,,,,,,,
-ENTITY_CROW_NAME,{SpawnedBy}'s Crow,,Cuervo de {SpawnedBy},Corbeau de {SpawnedBy},Krähe von {SpawnedBy},Corvo di {SpawnedBy},Corvo de {SpawnedBy},{SpawnedBy}的乌鸦
+ENTITY_CROW_NAME,{SpawnedBy}'s Crow,,Cuervo de {SpawnedBy},Corbeau de {SpawnedBy},Krähe von {SpawnedBy},Corvo di {SpawnedBy},Corvo de {SpawnedBy},{SpawnedBy} 的乌鸦
 ENTITY_CROW_NAME_M,,,,,,,,
 ENTITY_CROW_NAME_F,,,,,,,,
 ENTITY_CROW_NAME_N,,,,,,,,
@@ -2790,21 +2790,21 @@ FAMILIAR_NURSEBOT_NAME,Nurse Bot,,Medbot,Mécafirmière,Heilerbot,Robo-Infermier
 FAMILIAR_NURSEBOT_DESC,,,,,,,,
 FAMILIAR_TESLACOIL_NAME,Tesla Coil,,Bobina de Tesla,Bobine Tesla,Teslaspule,Bobina di Tesla,Bobina Tesla,特斯拉线圈
 FAMILIAR_TESLACOIL_DESC,,,,,,,,
-FAMILIAR_SLEEPDEMON_NAME,{SpawnedBy}'s Sleep Paralysis Demon,,Demonio de parálisis del sueño de {SpawnedBy},Démon de paralysie du sommeil de {SpawnedBy},Schlafparalysedämon von {SpawnedBy},Demone della Paralisi del Sonno di {SpawnedBy},Demônio da Paralisia do Sono de {SpawnedBy},{SpawnedBy}的睡眠瘫痪恶魔
+FAMILIAR_SLEEPDEMON_NAME,{SpawnedBy}'s Sleep Paralysis Demon,,Demonio de parálisis del sueño de {SpawnedBy},Démon de paralysie du sommeil de {SpawnedBy},Schlafparalysedämon von {SpawnedBy},Demone della Paralisi del Sonno di {SpawnedBy},Demônio da Paralisia do Sono de {SpawnedBy},{SpawnedBy} 的睡眠瘫痪恶魔
 FAMILIAR_SLEEPDEMON_NAME_M,,,,,,,,
 FAMILIAR_SLEEPDEMON_NAME_F,,,,,,,,
 FAMILIAR_SLEEPDEMON_NAME_N,,,,,,,,
-FAMILIAR_SLEEPDEMON_DESC,"When killed, {SpawnedBy} wakes up.",,"Al morir, {SpawnedBy} se despierta.","À sa mort, {SpawnedBy} se réveille.","{SpawnedBy} wacht auf, wenn er stirbt.",,"Ao morrer, {SpawnedBy} desperta.",被击杀时，{SpawnedBy}会醒来。
+FAMILIAR_SLEEPDEMON_DESC,"When killed, {SpawnedBy} wakes up.",,"Al morir, {SpawnedBy} se despierta.","À sa mort, {SpawnedBy} se réveille.","{SpawnedBy} wacht auf, wenn er stirbt.",,"Ao morrer, {SpawnedBy} desperta.",被击杀时，{SpawnedBy} 会醒来。
 FAMILIAR_SLEEPDEMON_DESC_M,,,,,,"Quando viene ucciso, {SpawnedBy} si risveglia.",,
 FAMILIAR_SLEEPDEMON_DESC_F,,,,,,"Quando viene uccisa, {SpawnedBy} si risveglia.",,
 FAMILIAR_SLEEPDEMON_DESC_N,,,,,,"Alla morte, {SpawnedBy} si risveglia.",,
 FAMILIAR_GRUB_NAME,Grub,,Larva,Larve,Made,Baco,Larva,幼虫
 FAMILIAR_GRUB_DESC,,,,,,,,
-FAMILIAR_CATCOPYCLOT_NAME,{SpawnedBy}'s Clot,,Coágulo de {SpawnedBy},Caillot de {SpawnedBy},Blutgerinnsel von {SpawnedBy},Grumo di {SpawnedBy},Coágulo de {SpawnedBy},{SpawnedBy}的凝块
+FAMILIAR_CATCOPYCLOT_NAME,{SpawnedBy}'s Clot,,Coágulo de {SpawnedBy},Caillot de {SpawnedBy},Blutgerinnsel von {SpawnedBy},Grumo di {SpawnedBy},Coágulo de {SpawnedBy},{SpawnedBy} 的凝块
 FAMILIAR_CATCOPYCLOT_NAME_M,,,,,,,,
 FAMILIAR_CATCOPYCLOT_NAME_F,,,,,,,,
 FAMILIAR_CATCOPYCLOT_NAME_N,,,,,,,,
-FAMILIAR_CATCOPYCLOT_DESC,Has a chance to become a {SpawnedBy} Clone at the end of its turn.,,Puede transformarse en clon de {SpawnedBy} al final del turno.,A une chance de se changer en clone de {SpawnedBy} à la fin de son tour.,Kann sich in Folgendes verwandeln: {SpawnedBy}. Klont sich am Ende seines Zuges.,Ha la possibilità di diventare un Clone di {SpawnedBy} alla fine del suo turno.,Possui uma chance de se tornar um clone de {SpawnedBy} no final de seu turno.,回合结束时有几率变成{SpawnedBy}克隆体。
+FAMILIAR_CATCOPYCLOT_DESC,Has a chance to become a {SpawnedBy} Clone at the end of its turn.,,Puede transformarse en clon de {SpawnedBy} al final del turno.,A une chance de se changer en clone de {SpawnedBy} à la fin de son tour.,Kann sich in Folgendes verwandeln: {SpawnedBy}. Klont sich am Ende seines Zuges.,Ha la possibilità di diventare un Clone di {SpawnedBy} alla fine del suo turno.,Possui uma chance de se tornar um clone de {SpawnedBy} no final de seu turno.,回合结束时有几率变成 {SpawnedBy} 克隆体。
 FAMILIAR_CATCOPYCLOT_DESC_M,,,,,,,,
 FAMILIAR_CATCOPYCLOT_DESC_F,,,,,,,,
 FAMILIAR_CATCOPYCLOT_DESC_N,,,,,,,,
@@ -2882,7 +2882,7 @@ OBJECT_PHYLACTERY_NAME,Phylactery,,Filacteria,Phylactère,Phylacter,Filatterio,F
 OBJECT_PHYLACTERY_DESC,"When its owner dies, this breaks and revives them.",,"Cuando el dueño muere, se rompe y lo resucita.","Quand son propriétaire meurt, il se brise pour le ressusciter.","Wenn sein Besitzer stirbt, zerbricht es und belebt ihn wieder.","Quando il suo padrone muore, questo si distrugge e lo resuscita.","Quando seu dono morre, quebra e o revive.","主人死亡时，此物品破碎并将其复活。"
 OBJECT_BLOATEDCORPSE_NAME,Bloated Corpse,,Cadáver hinchado,Cadavre boursouflé,Aufgeblähte Leiche,Cadavere Rigonfio,Corpo Inchado,肿胀尸体
 OBJECT_BLOATEDCORPSE_DESC,Explodes into Maggots when destroyed.,,Estalla en gusanos cuando lo destrozan.,Éclate en un tas d'asticots quand il est détruit.,"Explodiert, wenn sie zerstört wird und lässt Maden erscheinen.",Esplode in Larve quando viene distrutto.,Explode em vermes ao ser destruído.,被摧毁时爆炸并生成蛆虫。
-OBJECT_TNT_NAME,TNT,,TNT,TNT,TNT,TNT,TNT,TNT炸药
+OBJECT_TNT_NAME,TNT,,TNT,TNT,TNT,TNT,TNT,TNT 炸药
 OBJECT_TNT_DESC,Explodes when destroyed.,,Estalla cuando la destruyen.,Explose quand elle est détruite.,"Explodiert, wenn es zerstört wird.",Esplode quando si distrugge.,Explode ao ser destruída.,被摧毁时爆炸。
 OBJECT_HARPOONTRAP_NAME,Harpoon Trap,,Trampa de arpón,Piège harponneur,Harpunenfalle,Trappola ad Arpione,Armadilha de Arpão,鱼叉陷阱
 OBJECT_HARPOONTRAP_DESC,Harpoons units that end movement in front of it.,,Lanza un arpón a las unidades que terminan el movimiento justo delante.,Harponne les unités qui terminent leur déplacement devant lui.,"Spießt Einheiten auf, die vor ihr stehenbleiben.",Arpiona le unità che terminano il loro movimento davanti a essa.,Arpoa unidades que finalizam seu movimento diante de si.,"对在它前方结束移动的单位发射鱼叉。"

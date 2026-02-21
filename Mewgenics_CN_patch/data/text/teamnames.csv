@@ -146,7 +146,7 @@ TEAMNAME_ADJECTIVE_NECROMANCER10,Midnight,,de Medianoche,de minuit,Nächtlichen,
 TEAMNAME_ADJECTIVE_NECROMANCER11,Dead,,Muertos,morts|mortes,Toten,Morti|Morte,Mortos|Mortas,死去
 TEAMNAME_ADJECTIVE_NECROMANCER12,Spooky,,Aterradores,flippants|flippantes,Gruseligen,Spettrali,Assustadores|Assustadoras,惊悚
 TEAMNAME_ADJECTIVE_TINKERER0,Crafty,,Hábiles,ingénieux|ingénieuses,Gewieften,Astuti|Astute,Engenhosos|Engenhosas,灵巧
-TEAMNAME_ADJECTIVE_TINKERER1,Scrappy,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões|Brigonas,废料
+TEAMNAME_ADJECTIVE_TINKERER1,Scrappy,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões|Brigonas,好斗
 TEAMNAME_ADJECTIVE_TINKERER2,Inventive,,Inventivos,inventifs|inventives,Erfinderischen,Ingegnosi|Ingegnose,Inventores|Inventoras,发明
 TEAMNAME_ADJECTIVE_TINKERER3,Mad,,Locos,énervés|énervées,Verrückten,Folli,Loucos|Loucas,疯狂
 TEAMNAME_ADJECTIVE_TINKERER4,Fried,,Electrocutados,frits|frites,Durchgedrehten,Fritti|Fritte,Fritos|Fritas,烧焦
@@ -179,11 +179,11 @@ TEAMNAME_ADJECTIVE_JESTER13,Smiling,,Sonrientes,souriants|souriantes,Lächelnden
 TEAMNAME_ADJECTIVE_JESTER14,Gay,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres,快乐
 TEAMNAME_ADJECTIVE_MISC0,Purrrfect,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos|Purrrfeitas,喵美
 TEAMNAME_ADJECTIVE_MISC1,Fluffy,,Suaves,duveteux|duveteuses,Fluffigen,Pelosetti|Pelosette,Fofinhos|Fofinhas,蓬松
-TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname},format2|{Catname}的
+TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname},format2|{Catname} 的
 TEAMNAME_ADJECTIVE_MISC2_M,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_F,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_N,,,,,,,,
-TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} and the,,format2|{Catname} y los,format2|{Catname} et les,Abgefahrenen,format2|{Catname} e,format2|{Catname} e os,format2|{Catname}和
+TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} and the,,format2|{Catname} y los,format2|{Catname} et les,Abgefahrenen,format2|{Catname} e,format2|{Catname} e os,format2|{Catname} 和
 TEAMNAME_ADJECTIVE_MISC3_M,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_F,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_N,,,,,,,,
@@ -207,7 +207,7 @@ TEAMNAME_NOUN_HUNTER4,Skinners,,Desolladores,Écorcheurs|male,Hautabzieher,I Sco
 TEAMNAME_NOUN_HUNTER5,Traps,,Tramperos,Pièges|male,Fallensteller,Gli Intrappolatori,Armadilhas|female,陷阱
 TEAMNAME_NOUN_HUNTER6,Spotters,,Observadores,Guetteurs|male,Detektive,Gli Osservatori,Olheiros|male,观察员
 TEAMNAME_NOUN_HUNTER7,Sharpshooters,,Francotiradores,Tirailleurs|male,Scharfschützen,I Cecchini,Franco Atiradores|male,神射手
-TEAMNAME_NOUN_HUNTER8,singular|Pack,,Compañeros,Mutins|male,Meute,I Cercatori,Companheiros|male,singular|兽群
+TEAMNAME_NOUN_HUNTER8,singular|Pack,,Compañeros,Mutins|male,Meute,I Cercatori,Companheiros|male,兽群
 TEAMNAME_NOUN_HUNTER9,Wildlings,,Montaraces,Sauvageons|male,Wildlinge,I Selvaggi,Selvagens,野人
 TEAMNAME_NOUN_HUNTER10,Nature Kids,,Naturalistas,Campagnards|male,Naturburschen,I Silvestri,Silvestres,自然之子
 TEAMNAME_NOUN_HUNTER11,Scouts,,Exploradores,Scouts|male,Pfadfinder,Gli Esploratori,Batedores|male,侦察兵
@@ -256,7 +256,7 @@ TEAMNAME_NOUN_THIEF8,Hoarders,,Cleptómanos,Thésauriseurs|male,Hamsterer,Gli Ac
 TEAMNAME_NOUN_THIEF9,Rogues,,Pícaros,Voyous|male,Gauner,Le Canaglie|female,Rebeldes,游荡者
 TEAMNAME_NOUN_THIEF10,Looters,,Saqueadores,Pillards|male,Plünderer,I Saccheggiatori,Saqueadores|male,掠夺者
 TEAMNAME_NOUN_THIEF11,Jackers,,Maleantes,Filous|male,Schufte,I Razziatori,Malfeitores|male,劫匪
-TEAMNAME_NOUN_MONK0,singular|Dojo,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,Monges|male,singular|道场
+TEAMNAME_NOUN_MONK0,singular|Dojo,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,Monges|male,道场
 TEAMNAME_NOUN_MONK1,Chakras,,Chakras,Chakras|male,Chakras,I Chakra,Chakras,脉轮
 TEAMNAME_NOUN_MONK2,Lotuses,,Lotos,Lotus|male,Lotusblüten,I Loti,Lótus|female,莲花
 TEAMNAME_NOUN_MONK3,Flying Fists,,Golpes,Poings volants|male,Fliegenden Fäuste,I Pugni volanti,Punhos Voadores|male,飞拳
@@ -266,19 +266,19 @@ TEAMNAME_NOUN_MONK6,Martial Artists,,Ascetas,Artistes martiaux|male,Kampfkünstl
 TEAMNAME_NOUN_MONK7,Harmonies,,Adeptos,Harmonies|female,Harmoniesuchenden,Gli Armonici,Harmonias|female,和谐
 TEAMNAME_NOUN_MONK8,Palms,,Acólitos,Paumes|female,Hände,I Palmi,Palmas|female,手掌
 TEAMNAME_NOUN_MONK9,Hermits,,Ermitaños,Hermites|male,Einsiedler,Gli Eremiti,Eremitas,隐士
-TEAMNAME_NOUN_MONK10,singular|Sect,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,Sectários|male,singular|教派
+TEAMNAME_NOUN_MONK10,singular|Sect,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,Sectários|male,教派
 TEAMNAME_NOUN_MONK11,Sleepers,,Dormilones,Dormeurs|male,Schläfer,I Dormienti,Dorminhocos|male,沉睡者
 TEAMNAME_NOUN_MONK12,Parables,,Ejemplos,Paraboles|female,Parabeln,Le Parabole|female,Parábolas|female,寓言
 TEAMNAME_NOUN_DRUID0,Animals,,Animales,Animaux|male,Tiere,Gli Animali,Animais|male,动物
 TEAMNAME_NOUN_DRUID1,Musicians,,Músicos,Musiciens|male,Musiker,I Musicisti,Músicos|male,音乐家
 TEAMNAME_NOUN_DRUID2,Zookeepers,,Cuidadores,Amis des bêtes|male,Zoowärter,I Custodi dello Zoo,Zoólogos|male,饲养员
-TEAMNAME_NOUN_DRUID3,singular|Gang,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,Colegas,singular|帮派
+TEAMNAME_NOUN_DRUID3,singular|Gang,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,Colegas,帮派
 TEAMNAME_NOUN_DRUID4,Collective,,Hermanos,Associés|male,Pazifisten,I Collettivi,Coletivo|male,集合体
 TEAMNAME_NOUN_DRUID5,Hippies,,Hippies,Hippies|male,Hippies,Gli Hippie,Hippies,嬉皮士
 TEAMNAME_NOUN_DRUID6,Shapeshifters,,Cambiaformas,Métamorphes|male,Gestaltwandler,I Mutaforma,Metamorfos|male,变形者
 TEAMNAME_NOUN_DRUID7,Critters,,Bichos,Créatures|female,Viecher,Le Creaturine|female,Criaturas|female,小动物
 TEAMNAME_NOUN_DRUID8,Singers,,Cantantes,Chanteurs|male,Sänger,I Cantanti,Cantores|male,歌手
-TEAMNAME_NOUN_DRUID9,singular|Choir,,Coristas,Choristes|female,Chormitglieder,I Coristi,Coristas,singular|唱诗班
+TEAMNAME_NOUN_DRUID9,singular|Choir,,Coristas,Choristes|female,Chormitglieder,I Coristi,Coristas,唱诗班
 TEAMNAME_NOUN_DRUID10,Flower Children,,Pimpollos,Pacifistes|male,Blumenkinder,I Figli dei Fiori,Floristas,花童
 TEAMNAME_NOUN_DRUID11,Friends,,Amigos,Amis|male,Freunde,Gli Amici,Amigos|male,朋友
 TEAMNAME_NOUN_PSYCHIC0,Clairvoyants,,Clarividentes,Éclairés|male,Hellseher,I Chiaroveggenti,Clarividentes,千里眼
@@ -299,7 +299,7 @@ TEAMNAME_NOUN_BUTCHER4,Piglets,,Lechones,Cochons|male,Schweinchen,I Suini,Porqui
 TEAMNAME_NOUN_BUTCHER5,Butchers,,Carniceros,Bouchers|male,Metzger,I Macellai,Açougueiros|male,屠夫
 TEAMNAME_NOUN_BUTCHER6,Devils,,Demonios,Démons|male,Teufel,I Diavoli,Diabos|male,恶魔
 TEAMNAME_NOUN_BUTCHER7,Chop Tops,,Charcuteros,Côtelettes|female,Chop-Tops,I Decapitatori,Canibais,碎颅者
-TEAMNAME_NOUN_BUTCHER8,singular|Swarm,,Salchicheros,Puants|male,Insekten,Le Orde|female,Insetos|male,singular|虫群
+TEAMNAME_NOUN_BUTCHER8,singular|Swarm,,Salchicheros,Puants|male,Insekten,Le Orde|female,Insetos|male,虫群
 TEAMNAME_NOUN_BUTCHER9,Flys,,Matarifes,Mouches|female,Fliegen,Le Mosche|female,Moscas|female,苍蝇
 TEAMNAME_NOUN_BUTCHER10,Pukers,,Destripadores,Vomitos|male,Schwelger,I Vomitatori,Vomitadores|male,呕吐者
 TEAMNAME_NOUN_BUTCHER11,Bingers,,Zampones,Boulimique|male,Leckermäulchen,Gli Ingozzatori,Descontrolados|male,暴食狂
@@ -342,12 +342,12 @@ TEAMNAME_NOUN_JESTER9,Rainbows,,Arcoíris,Arcs-en-ciel|male,Regenbögen,Gli Arco
 TEAMNAME_NOUN_JESTER10,Balatros,,Augustos,Balatros|male,Balatros,I Ciarlatani,Bufões|male,巴拉特罗
 TEAMNAME_NOUN_JESTER11,Bozos,,Idiotas,Guignols|male,Dussel,I Pagliacci,Bozos|male,笨蛋
 TEAMNAME_NOUN_MISC0,Dudes,,Tipos,Types|male,Kerle,I Tipi,Caras,伙计
-TEAMNAME_NOUN_MISC1,singular|Team,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,Membros|male,singular|队伍
+TEAMNAME_NOUN_MISC1,singular|Team,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,Membros|male,队伍
 TEAMNAME_NOUN_MISC2,Cats,,Gatos,Chats|male,Katzen,I Gatti,Gatos|male,猫咪
-TEAMNAME_NOUN_MISC3,singular|Gang,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,Tratantes,singular|帮派
+TEAMNAME_NOUN_MISC3,singular|Gang,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,Tratantes,帮派
 TEAMNAME_NOUN_MISC4,Kittens,,Gatitos,Chatons|male,Kätzchen,I Gattini,Filhotes,小猫
 TEAMNAME_NOUN_MISC5,Pussies,,Mininos,Chattes|female,Muschis,Le Gattine|female,Gatinhos|male,猫猫
 TEAMNAME_NOUN_MISC6,Furballs,,Michinos,Boules de poils|female,Fellknäuel,I Pelosetti,Bolas de Pelo|male,毛球
 TEAMNAME_NOUN_MISC7,Fluffers,,Félidos,Poilus|male,Fluffis,I Morbidoni,Velas|female,绒毛怪
 TEAMNAME_NOUN_MISC8,Cat Callers,,Llamagatos,Coquettes|female,Schnatterer,I Fischiatori,Conquistadores|male,唤猫者
-TEAMNAME_NOUN_MISC9,Gatos,,Felinos,Gatos|male,Gatos,I Gatos,Felinos|male,Gatos
+TEAMNAME_NOUN_MISC9,Gatos,,Felinos,Gatos|male,Gatos,I Gatos,Felinos|male,猫咪

@@ -84,7 +84,7 @@ PASSIVE_MANGE_NAME,Mange,,Sarna,Gale,Räudig,Rogna,Sarna,疥癣
 PASSIVE_MANGE_DESC,Inflict Poison 1 on units that contact you.,,Inflige 1 de veneno a las unidades en contacto.,Inflige Poison&nbsp;+1&nbsp;aux unités qui vous touchent.,"Verursache Gift&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Veleno 1 alle unità che entrano in contatto con te.,Aplique veneno 1 em unidades que entrarem em contato com você.,"对接触你的单位造成 1 层中毒。"
 PASSIVE_MANGE2_DESC,"Inflict 1 Poison, Bleed, Bruise, Weakness, and Leech on units that contact you.",,"Inflige 1 de veneno, hemorragia, moratón, debilidad y sanguijuela a las unidades que contactan con ella.","Inflige Poison, Saignement, Contusion, Vulnérabilité, and Sangsue&nbsp;+1&nbsp;aux unités qui vous touchent.","Verursache 1&nbsp;Gift, Blutung, Beulen, Schwäche und Blutegel bei Einheiten, die dich berühren.","Infliggi 1 Veleno, Sanguinamento, Livido, Debolezza e Sanguisuga alle unità che entrano in contatto con te.","Aplique 1 de veneno, sangramento, contusão, fraqueza e sanguessuga em unidades que entrarem em contato com você.","对接触你的单位造成 1 层中毒、
 流血、淤伤、虚弱和水蛭。"
-PASSIVE_ETANK_NAME,E-Tank,,Tanque electrónico,Tank,E-Tank,Serbatoio Energetico,Tanque-E,E罐
+PASSIVE_ETANK_NAME,E-Tank,,Tanque electrónico,Tank,E-Tank,Serbatoio Energetico,Tanque-E,E 罐
 PASSIVE_ETANK_DESC,Start each battle with +20 unfilled max health.,,Empieza cada combate con +20 de máximo de salud sin rellenar.,Commence chaque combat avec +20&nbsp;PV max. vacants.,Beginne jeden Kampf mit +20 ungeheilten max. LP.,Inizi ogni battaglia con +20 salute massima non riempita.,Inicie cada batalha com +20 de saúde máxima não preenchida.,"每次战斗开始时获得 
 +20 未填充的最大生命值。"
 PASSIVE_ETANK2_DESC,Start each battle with +50 unfilled max health.,,Empieza cada combate con +50 de máximo de salud sin rellenar.,Commence chaque combat avec +50&nbsp;PV max. vacants.,Beginne jeden Kampf mit +50 ungeheilten max. LP.,Inizi ogni battaglia con +50 salute massima non riempita.,Inicie cada batalha com +50 de saúde máxima não preenchida.,"每次战斗开始时获得 
@@ -390,7 +390,7 @@ PASSIVE_MANIA2_DESC,25% chance to restore all your mana at the start of your tur
 PASSIVE_LUCKY_NAME,Lucky,,Fortuna,Chance,Glückskätzchen,Fortuna,Sorte,幸运
 PASSIVE_LUCKY_DESC,,,,,,,,
 PASSIVE_LUCKY2_DESC,,,,,,,,
-PASSIVE_180_NAME,180,,180,180°,180,180 gradi,180,180度
+PASSIVE_180_NAME,180,,180,180°,180,180 gradi,180,180 度
 PASSIVE_180_DESC,"When you use your basic attack, turn around and use it again.",,"Al usar el ataque básico, se gira y vuelve a usarlo.","Quand vous utilisez votre attaque de base, retournez-vous et utilisez-la à nouveau.",Drehe dich nach deinem Grundangriff um und verwende ihn erneut.,"Quando usi il tuo attacco base, ti giri e lo usi di nuovo.","Ao utilizar seu ataque básico, vire-se e o utilize novamente.","当使用基础攻击时，
 转身并再次使用该攻击。"
 PASSIVE_1802_DESC,"When you use your basic attack, turn around and use it again.
@@ -1625,10 +1625,10 @@ Você não pode sofrer ferimentos.","当你倒地时，
 你不会受到创伤。"
 PASSIVE_SERVUSMORTEM_NAME,Servus Mortem,,Servus mortem,Servus Mortem,Servus Mortem,Servus Mortem,Servus Mortem,死亡仆从
 PASSIVE_SERVUSMORTEM_DESC,Destroy a random non-boss enemy at the start of each battle.,,Destruye a un enemigo que no sea jefe al azar al inicio de cada combate.,Détruisez un ennemi (sauf les Boss) au début de chaque combat.,Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner.,Distruggi un nemico casuale che non sia un boss all'inizio di ogni battaglia.,Destrua um inimigo aleatório (exceto chefes) no início de cada batalha.,"每场战斗开始时
-消灭一个随机非Boss敌人。"
+消灭一个随机非 Boss 敌人。"
 PASSIVE_SERVUSMORTEM2_DESC,"Destroy a random enemy at the start of each battle. If this hits a boss, deal 50 damage instead.",,"Destruye a un enemigo al azar al inicio de cada combate. Si golpea a un jefe, le inflige 50 de daño en su lugar.","Détruisez un ennemi aléatoire au début de chaque combat. S'il s'agit d'un Boss, infligez 50&nbsp;points de dégâts à la place.","Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner. Wenn diese Fähigkeit einen Boss trifft, verursache stattdessen 50&nbsp;Schaden.","Distruggi un nemico casuale all'inizio di ogni battaglia. Se colpisci un boss, invece, infliggi 50 di danno.","Destrua um inimigo aleatório (exceto chefes) no início de cada batalha. Se esta habilidade golpear um chefe, cause 50 de dano.","每场战斗开始时
 消灭一个随机敌人。
-如果命中Boss，
+如果命中 Boss，
 改为造成 50 点伤害。"
 PASSIVE_OFFLOADPAIN_NAME,Offload Pain,,Descarga de dolor,Douleur partagée,Schaden weitergeben,Guarigione Dolorosa,Descarregamento de Dor,痛苦转移
 PASSIVE_OFFLOADPAIN_DESC,"When you heal, deal 1 damage to each enemy.",,"Cuando recupera salud, inflige 1 de daño a cada enemigo.","Quand vous vous soignez, infligez 1&nbsp;point de dégâts à chaque ennemi.","Verursache 1&nbsp;Schaden bei jedem Gegner, wenn du geheilt wirst.","Quando ti curi, infliggi 1 di danno a ciascun nemico.","Ao se curar, cause 1 de dano a cada inimigo.","当你进行治疗时，

@@ -987,7 +987,7 @@ ABILITY_CONVERT_NAME,Convert,,Conversión,Conversion,Konvertieren,Conversione,Co
 ABILITY_CONVERT_DESC,Inflict Charm 2 on an adjacent unit.,,Inflige 2 de embrujo a una unidad adyacente.,Inflige Envoûtement&nbsp;+2&nbsp;sur une unité adjacente.,Verursache Charme&nbsp;2 bei einer benachbarten Einheit.,Infliggi Fascino 2 a un'unità adiacente.,Aplique feitiço 2 em uma unidade adjacente.,"对一名相邻单位施加 2 层魅惑。"
 ABILITY_CONVERT2_DESC,Inflict Charm 2 on an adjacent unit. Non-boss enemies with less than 25% health join your party.,,Inflige 2 de embrujo a una unidad adyacente. Los enemigos que no sean jefes con menos del 25 % de salud se unen a tu grupo.,Inflige Envoûtement&nbsp;+2&nbsp;sur une unité adjacente. Les ennemis (hors Boss) qui ont moins de 25&nbsp;% de leurs PV max. rejoignent votre équipe.,Verursache Charme&nbsp;2 bei einer benachbarten Einheit. Reguläre Gegner mit weniger als 25&nbsp;% LP treten deiner Gruppe bei.,Infliggi Fascino 2 a un'unità adiacente. I nemici non boss con meno del 25% di salute si uniscono al tuo gruppo.,Aplique feitiço 2 em uma unidade adjacente. Inimigos que não sejam chefes com menos de 25% de saúde se juntam à sua equipe.,"对一名相邻单位施加 2 层魅惑。
 生命值低于 25% 的
-非Boss敌人将加入你的队伍。"
+非 Boss 敌人将加入你的队伍。"
 ABILITY_CLEANSE_NAME,Cleanse,,Purificación,Purification,Reinigen,Purificazione,Purificação,净化
 ABILITY_CLEANSE_DESC,Remove all debuffs from units in an area.,,Elimina todas las desventajas de las unidades en un área.,Retire tous les malus des unités dans une zone.,Entferne alle Schwächungen von Einheiten in einem bestimmten Bereich.,Rimuovi tutti i malus dalle unità in un'area.,Remova todos os enfraquecimentos de unidades em uma área.,"移除区域内单位的
 所有减益效果。"
@@ -1991,10 +1991,10 @@ Reinicie seu ataque básico.","直到回合结束，
 ABILITY_SUMMONAPPRENTICE_NAME,Summon Apprentice,,Invocación de aprendiz,Invocation de stagiaire,Lehrling beschwören,Evoca Apprendista,Invocar Aprendiz,召唤学徒
 ABILITY_SUMMONAPPRENTICE_DESC,Summon a half-sized copy of yourself with half your stats. It's AI-controlled and can't use spells.,,"Invoca una copia de sí misma de la mitad de su tamaño, con la mitad de sus atributos. Está controlada por IA y no puede usar hechizos.","Invoque une copie miniature de vous-même avec la moitié de vos stats. Contrôlée par l'IA, ne peut pas utiliser de sorts.",Beschwöre eine halb so große Kopie von dir selbst mit der Hälfte deiner Attribute. Die Kopie ist computergesteuert und kann keine Zauber wirken.,"Evochi una tua copia dimezzata, con metà delle tue statistiche. È controllata dall'IA e non può usare incantesimi.",Invoque uma cópia sua com a metade do tamanho e metade dos seus atributos. Ela é controlada pelo computador e não pode usar encantamentos.,"召唤一个拥有你一半属性
 的半身复制体。
-它由AI控制且无法使用法术。"
+它由 AI 控制且无法使用法术。"
 ABILITY_SUMMONAPPRENTICE2_DESC,Summon a half-sized copy of yourself with half your stats. It's AI-controlled and CAN use spells.,,"Invoca una copia de sí misma de la mitad de su tamaño, con la mitad de sus atributos. Está controlada por IA, pero sí puede usar hechizos.",Invoque une copie miniature de vous-même avec la moitié de vos stats. Contrôlée par l'IA et PEUT utiliser des sorts.,Beschwöre eine halb so große Kopie von dir selbst mit der Hälfte deiner Attribute. Die Kopie ist computergesteuert und KANN Zauber wirken.,"Evochi una tua copia dimezzata, con metà delle tue statistiche. È controllata dall'IA e PUÒ usare incantesimi.",Invoque uma cópia sua com a metade do tamanho e metade dos seus atributos. Ela é controlada pelo computador e pode usar encantamentos.,"召唤一个拥有你一半属性
 的半身复制体。
-它由AI控制且可以使用法术。"
+它由 AI 控制且可以使用法术。"
 //mage,,,,,,,,
 ABILITY_SURF_NAME,Surf,,Surf,Surf,Surfer,Onda,Surfe,冲浪
 ABILITY_SURF_DESC,A water spell that deals damage and knockback in a large area.,,Un hechizo de agua que inflige daño y retroceso en un área amplia.,Un sort aquatique qui inflige des dégâts et repousse les unités en large zone.,"Ein Wasserzauber, der Schaden und Rückstoß in einem großen Bereich verursacht.",Un incantesimo d'acqua che infligge danno e contraccolpo in un'ampia area.,Um encantamento de água que causa dano e empurra em uma grande área.,"造成伤害和大范围
@@ -3324,11 +3324,11 @@ ABILITY_SWALLOW_NAME,Swallow,,Trago,Avalement,Schlucken,Inghiottimento,Engolir,�
 ABILITY_SWALLOW_DESC,Eat a unit and take damage equal to that unit's remaining HP. You can't swallow bosses or large units.  ,,Se come a una unidad y sufre una cantidad de daño igual a los PS restantes de esa unidad. No puede comerse a jefes o a unidades grandes.  ,Vous mangez une unité et subissez des dégâts à hauteur de la quantité de PV qui restait à cette unité. Vous ne pouvez pas avaler les boss ou les grandes unités.,Friss eine Einheit und erleide Schaden in Höhe ihrer verbleibenden LP. Bosse oder große Einheiten können nicht verschluckt werden.  ,Mangi un'unità e subisci un danno pari ai suoi PS rimanenti. Non puoi ingoiare boss o unità di grandi dimensioni.,Coma uma unidade e sofra dano equivalente à saúde restante dessa unidade. Não é possível engolir chefes ou unidades grandes.,"吃掉一个单位，
 并承受等于该单位
 剩余生命值的伤害。
-你无法吞咽Boss或大型单位。"
+你无法吞咽 Boss 或大型单位。"
 ABILITY_SWALLOW2_DESC,Eat a unit within range 2 and take damage equal to half of that unit's remaining HP. You can't swallow bosses or large units.,,Se come a una unidad en un alcance de 2 casillas y sufre una cantidad de daño igual a la mitad de los PS restantes de esa unidad. No puede comerse a jefes o a unidades grandes.,Vous mangez une unité à 2&nbsp;cases ou moins et subissez des dégâts à hauteur de la moitié de la quantité de PV qui restait à cette unité. Vous ne pouvez pas avaler les boss ou les grandes unités.,Friss eine Einheit innerhalb von zwei Feldern und erleide Schaden in Höhe der Hälfte ihrer verbleibenden LP. Bosse oder große Einheiten können nicht verschluckt werden.,Mangi un'unità entro un raggio d'azione di 2 e subisci un danno pari alla metà dei suoi PS rimanenti. Non puoi ingoiare boss o unità di grandi dimensioni.,Coma uma unidade em alcance 2 e sofra dano equivalente à metade da saúde restante dessa unidade. Não é possível engolir chefes ou unidades grandes.,"吃掉射程 2 内的一个单位，
 并承受等于该单位
 剩余生命值一半的伤害。
-你无法吞咽Boss或大型单位。"
+你无法吞咽 Boss 或大型单位。"
 ABILITY_TRACK_NAME,Track,,Rastreo,Idéfix,Verfolgen,Traccia,Rastrear,追踪
 ABILITY_TRACK_DESC,Trample one tile toward the nearest food pickup.,,Pisotea 1 casilla hacia el recogible de comida más cercano.,Piétinement sur 1&nbsp;case vers la case de nourriture la plus proche.,Trampel ein Feld in die Richtung des nächsten Essensgegenstands.,Calpesti una casella verso il raccoglibile cibo più vicino.,Atropele por um espaço na direção do coletável de comida mais próximo.,向最近的食物掉落物践踏一格。
 ABILITY_TRACK2_DESC,Trample two tiles toward the nearest food pickup.,,Pisotea 2 casillas hacia el recogible de comida más cercano.,Piétinement sur 2&nbsp;cases vers la case de nourriture la plus proche.,Trampel zwei Felder in die Richtung des nächsten Essensgegenstands.,Calpesti due caselle verso il raccoglibile cibo più vicino.,Atropele por dois espaços na direção do coletável de comida mais próximo.,向最近的食物掉落物践踏两格。
@@ -3539,7 +3539,7 @@ ABILITY_SUPERNOVA_DESC,Deal damage to and inflict Blind on every unit within you
 ABILITY_SUPERNOVA2_DESC,"Deal damage to and inflict Blind on every unit within your line of sight, excluding your allies.",,"Inflige daño y ceguera a cada unidad en su campo visual, a excepción de los aliados.","Vous infligez des dégâts et Cécité à toutes les unités dans votre ligne de mire, sauf les unités alliées.","Verursache Schaden und Blindheit bei Einheiten in deiner Sichtlinie, außer deinen Verbündeten.","Infliggi danno e causi Accecamento a ogni unità nel tuo campo visivo, esclusi i tuoi alleati.","Cause dano e aplique cegueira em todas as unidades dentro do seu campo de visão, excluindo seus aliados.","对你视线内的每个单位
 造成伤害并施加致盲，
 不包括你的盟友。"
-ABILITY_ALTERDNA_NAME,Alter DNA,,Alteración de ADN,ADN altéré,DNA verändern,Alterazione del DNA,Alterar DNA,修改DNA
+ABILITY_ALTERDNA_NAME,Alter DNA,,Alteración de ADN,ADN altéré,DNA verändern,Alterazione del DNA,Alterar DNA,修改 DNA
 ABILITY_ALTERDNA_DESC,Spend all your mana. Give a unit within your line of sight a random stat up for every 3 mana spent (rounded up). Give enemies random stat downs instead.,,Gasta todo el maná. Otorga a una unidad en su campo visual un aumento de un atributo al azar por cada 3 de maná gastado (redondeado al alza). A los enemigos les reduce un atributo al azar.,Vous dépensez tout votre mana. Vous augmentez une stat au hasard d'une unité dans votre ligne de mire par tranche de 3&nbsp;mana dépensés (arrondi à l'unité supérieure). Diminue les stats au hasard des ennemis.,Gib all dein Mana aus. Verleihe einer Einheit in deiner Sichtlinie pro 3 ausgegebenes Mana (aufgerundet) einen Bonus auf ein zufälliges Attribut. Einheiten erleiden stattdessen Malusse.,"Spendi tutto il tuo mana. Fornisci a un'unità nel tuo campo visivo un aumento causale di una statistica per ogni 3 mana spesi (arrotondati per eccesso). Ai nemici, invece, infliggi una diminuzione casuale di una statistica.","Gaste toda a sua mana. Conceda a uma unidade dentro do seu campo de visão um atributo aleatório aumentado para cada 3 pontos de mana gastos (arredondados para cima). Para inimigos, aplique atributos aleatórios diminuídos.","消耗你所有的法力。
 每消耗 3 点法力（向上取整），
 赋予你视线内的一个单位
@@ -3647,7 +3647,7 @@ ABILITY_REALITYSCRAMBLE_DESC,Randomize the positions of all units. Enemies get C
 敌人会陷入混乱。"
 ABILITY_REALITYSCRAMBLE2_DESC,Randomize the positions of all units. Enemies get Confused. Non-boss enemies have a 10% chance to be erased from existence.,,Coloca al azar a todas las unidades. Los enemigos sufren confusión. Los enemigos que no sean jefes tienen un 10 % de probabilidad de ser eliminados.,Vous mélangez les positions de toutes les unités. Confusion pour les ennemis. 10&nbsp;% de chances que les ennemis (sauf boss) soient effacés de la carte.,Die Positionen aller Einheiten werden zufällig verändert. Gegner werden verwirrt. Die Existenz regulärer Gegner wird mit 10%iger Wahrscheinlichkeit ausgelöscht.,Rendi casuali le posizioni di tutte le unità. I ​​nemici subiscono Confusione. I nemici non boss hanno un 10% di probabilità di essere cancellati dall'esistenza.,Embaralhe as posições de todas as unidades. Inimigos ficam confusos. Inimigos que não sejam chefes possuem 10% de chance de serem apagados da existência.,"随机打乱所有单位的位置。
 敌人会陷入混乱。
-非Boss敌人有 10% 的几率
+非 Boss 敌人有 10% 的几率
 被直接抹除。"
 ABILITY_GLARE_NAME,Glare,,Resplandor,Regard noir,Silberblick,Sguardo Abbagliante,Brilho,瞪视
 ABILITY_GLARE_DESC,Inflict Madness on a unit in your line of sight.,,Inflige locura a una unidad en su campo visual.,Folie à une unité dans votre ligne de mire.,Verursache Wahnsinn bei einer Einheit in deiner Sichtlinie.,Infliggi Follia a un'unità nel tuo campo visivo.,Aplique insanidade em uma unidade dentro do seu campo de visão.,"对视线内的一名单位施加疯狂。"
@@ -3685,10 +3685,10 @@ ABILITY_MASSMANALEECH2_DESC,Inflict Mana Leech 2 and Weakness 2 on all units wit
 施加 2 层法力水蛭和 2 层虚弱。"
 ABILITY_BECOMEENTROPY_NAME,Become Entropy,,Conversión en entropía,Entropie en devenir,Entropischer Blick,Entropizzazione,Tornar-se Entropia,化身熵
 ABILITY_BECOMEENTROPY_DESC,"Vaporize everything on a tile within your line of sight. Against a boss, this deals damage and inflicts Stun instead.",,"Vaporiza todo lo que hay en una casilla en su campo visual. Contra un jefe, inflige daño y aturdimiento en su lugar.","Vous désintégrez tout ce qui se trouve sur une case dans votre ligne de mire. Contre un boss, vous lui infligez des dégâts et Étourdissement.",Lasse alles auf einem Feld in deiner Sichtlinie verdampfen. Bosse erleiden stattdessen Schaden und Betäubung.,"Vaporizzi tutto ciò che si trova su una casella all'interno del tuo campo visivo. Contro i boss, invece, infliggi danno e Stordimento.","Vaporize tudo que estiver em um espaço dentro do seu campo de visão. Contra chefes, isto causa dano e aplica atordoamento.","蒸发视线内某地块上的所有东西。
-对Boss使用时，
+对 Boss 使用时，
 改为造成伤害并施加晕眩。"
 ABILITY_BECOMEENTROPY2_DESC,"Vaporize everything on a tile within your line of sight. Against a boss, this deals massive damage and inflicts Stun instead.",,"Vaporiza todo lo que hay en una casilla en su campo visual. Contra un jefe, inflige muchísimo daño y aturdimiento en su lugar.","Vous désintégrez tout ce qui se trouve sur une case dans votre ligne de mire. Contre un boss, vous lui infligez de lourds dégâts et Étourdissement.",Lasse alles auf einem Feld in deiner Sichtlinie verdampfen. Bosse erleiden stattdessen großen Schaden und Betäubung.,"Vaporizzi tutto ciò che si trova su una casella all'interno del tuo campo visivo. Contro i boss, invece, infliggi un grosso danno e Stordimento.","Vaporize tudo que estiver em um espaço dentro do seu campo de visão. Contra chefes, isto causa dano alto e aplica atordoamento.","蒸发视线内某地块上的所有东西。
-对Boss使用时，
+对 Boss 使用时，
 改为造成巨额伤害并施加晕眩。"
 ABILITY_FASTFORWARD_NAME,Fast Forward,,Aceleración,Avance rapide,Vorspulen,Fast Forward,Avanço Rápido,快进
 ABILITY_FASTFORWARD_DESC,Every ally that hasn't taken their turn yet takes their turn right after yours. You go first next round.,,Cada aliado que aún no ha jugado su turno juega inmediatamente después de esta unidad. Esta juega primero en la siguiente ronda.,Toutes les unités alliées qui n'ont pas encore joué jouent leur tour juste après vous. Vous jouerez en premier lors de la prochaine manche.,"Jeder Verbündete, der seinen Zug noch nicht ausgeführt hat, ist direkt nach dir am Zug. In der nächsten Runde bist du zuerst am Zug.","Ogni alleato che non ha ancora effettuato il suo turno, lo effettua subito dopo il tuo. Sarai tu a iniziare il round successivo.",Qualquer aliado que ainda não tenha utilizado seu turno o utiliza logo após o seu. Você age primeiro na próxima rodada.,"所有尚未行动的盟友
@@ -4397,7 +4397,7 @@ ABILITY_DEMOLISH_DESC,"Turn a tile into a dirt tile, smashing any inanimate obje
 将任何无生命物体粉碎为岩石。"
 ABILITY_DEMOLISH2_DESC,"Turn 3 tiles into dirt tiles, smashing any inanimate objects into rocks.",,Convierte 3 casillas en casillas de tierra y aplasta cualquier objeto inanimado contra rocas.,"Vous transformez 3&nbsp;cases en case de terre, ce qui transforme les objets inanimés en pierres.",Verwandle 3&nbsp;Felder in ein Dreckfeld und zerschlage nicht lebendige Objekte auf ihnen zu Stein.,"Trasformi 3 caselle in caselle di terra, frantumando qualsiasi oggetto inanimato in rocce.","Transforme 3 espaços em espaços de terra, esmagando e transformando qualquer objeto inanimado em pedras.","将 3 个地块变为泥土地块，
 将任何无生命物体粉碎为岩石。"
-ABILITY_CATAPULT_NAME,Cat-A-Pult!,,Catapulta,Chat-à-pulte&nbsp;!,Katzapult!,Gattapulta!,Gatapulta!,猫体投射!
+ABILITY_CATAPULT_NAME,Cat-A-Pult!,,Catapulta,Chat-à-pulte&nbsp;!,Katzapult!,Gattapulta!,Gatapulta!,猫体投射！
 ABILITY_CATAPULT_DESC,"Get flung to a tile and deal damage to anything you land on.
 This doesn't use up your movement action.",,"Se catapulta a una casilla e inflige daño a cualquier cosa sobre la que aterriza.
 Esto no gasta la acción de movimiento.",Vous vous faites propulser sur une case et infligez des dégâts à ce qui s'y trouve. Ne consomme pas votre action de déplacement.,"Werde auf ein Feld geschleudert und verursache Schaden bei der Einheit, auf der du landest.
@@ -5103,7 +5103,7 @@ O custo de mana deste encantamento aumenta em 1 a cada vez em que ele é lançad
 每次施放此法术，
 其法力消耗增加 1 点。"
 ABILITY_PAWBREAKER_NAME,Paw Breaker,,Rompepatas,Briseur de patte,Pfotenbrecher,Spezzazampa,Quebra-Pata,碎掌击
-ABILITY_PAWBREAKER_DESC,A huge punch that breaks your paw... (You get -1 [img:str] permanently.),,Un gran puñetazo que le rompe la pata a esta unidad. (Obtiene -1 [img:str] para siempre).,Un énorme coup qui brise votre patte...([img:str]&nbsp;-1&nbsp;de façon permanente.),"Ein extrem starker Schlag, bei dem du dir deine Pfote brichst&nbsp;… (Du erleidest dauerhaft -1&nbsp;[img:str].)",Un pugno poderoso che ti rompe la zampa... (Subisci -1 alla [img:str] in modo permanente.),Um soco enorme que quebra sua pata... (Você obtém -1 de [img:str] permanentemente.),"一次可能会打断你爪子的重拳.
+ABILITY_PAWBREAKER_DESC,A huge punch that breaks your paw... (You get -1 [img:str] permanently.),,Un gran puñetazo que le rompe la pata a esta unidad. (Obtiene -1 [img:str] para siempre).,Un énorme coup qui brise votre patte...([img:str]&nbsp;-1&nbsp;de façon permanente.),"Ein extrem starker Schlag, bei dem du dir deine Pfote brichst&nbsp;… (Du erleidest dauerhaft -1&nbsp;[img:str].)",Un pugno poderoso che ti rompe la zampa... (Subisci -1 alla [img:str] in modo permanente.),Um soco enorme que quebra sua pata... (Você obtém -1 de [img:str] permanentemente.),"一次可能会打断你爪子的重拳。
 .. (你永久获得 -1 [img:str]。
 )"
 ABILITY_PAWBREAKER2_DESC,"A huge punch that inflicts Bruise and Stun, and breaks your paw... (You get -1 [img:str] permanently.)",,"Un gran puñetazo que inflige moratón y aturde. Además, le rompe la pata a esta unidad. (Obtiene -1 [img:str] para siempre).","Un énorme coup qui inflige Contusion et Étourdissement, et brise votre patte...([img:str]&nbsp;-1&nbsp;de façon permanente.)","Ein extrem starker Schlag, der Beulen und Betäubung verursacht und bei dem du dir deine Pfote brichst&nbsp;… (Du erleidest dauerhaft -1&nbsp;[img:str].)",Un pugno poderoso che infligge Livido e Stordimento e ti rompe la zampa... (Subisci -1 alla [img:str] in modo permanente.),Um soco enorme que aplica contusão e atordoamento e quebra sua pata... (Você obtém -1 de [img:str] permanentemente.),"一次施加淤伤和晕眩的重拳，
@@ -5435,8 +5435,8 @@ ABILITY_LOOTCORPSE_DESC,"Loot 1-3 coins from a body... and possibly something el
 [s:.7](Esto puede destruir el cadáver).[/s]",Vous récupérez entre 1&nbsp;et 3&nbsp;pièces sur un cadavre... ainsi qu'autre chose&nbsp;? [s:.7](Peut entraîner la destruction du cadavre.)[/s],"Plündere 1&nbsp;– 3 Münzen von einer Leiche&nbsp;… und vielleicht noch etwas?
 [s:.7](Zerstört manchmal die Leiche)[/s]","Raccogli 1-3 monete da un cadavere... e forse qualcos'altro?
 [s:.7](Potrebbe distruggere il cadavere)[/s]","Obtenha 1-3 moedas de um corpo... e quem sabe mais alguma coisa?
-[s:.7](Isto pode destruir o corpo.)[/s]","从尸体上搜刮 1-3 枚金币.
-.. 可能还有别的东西？
+[s:.7](Isto pode destruir o corpo.)[/s]","从尸体上搜刮 1-3 枚金币...
+可能还有别的东西？
 [s:.7](这可能会摧毁尸体)[/s]"
 ABILITY_LOOTCORPSE2_DESC,"Loot 1-3 coins from a body... and possibly something else?
 [s:.7](This might not destroy the body)[/s]
@@ -5448,8 +5448,8 @@ ABILITY_LOOTCORPSE2_DESC,"Loot 1-3 coins from a body... and possibly something e
 [s:.7](Potrebbe distruggere il cadavere)[/s]
 [s:.7](Le tue probabilità di trovare ""qualcos'altro"" aumentano significativamente.)[/s]","Obtenha 1-3 moedas de um corpo... e quem sabe mais alguma coisa?
 [s:.7](Isto pode não destruir o corpo.)[/s]
-[s:.7](Sua chance de encontrar ""mais alguma coisa"" aumenta significativamente.)[/s]","从尸体上搜刮 1-3 枚金币.
-.. 可能还有别的东西？
+[s:.7](Sua chance de encontrar ""mais alguma coisa"" aumenta significativamente.)[/s]","从尸体上搜刮 1-3 枚金币...
+可能还有别的东西？
 [s:.7](这可能不会摧毁尸体)[/s]
 [s:.7](你找到“别的东西”的
 几率显著增加。)[/s]"
@@ -5664,8 +5664,8 @@ ABILITY_TWINSHOT_NAME,Twin Shot,,Tiro doble,Double tir.,Zwillingsschuss,Doppio T
 ABILITY_TWINSHOT_DESC,Shoot twice.,,Dispara 2 veces.,Vous tirez 2&nbsp;fois.,Feuere zwei Schüsse.,Spari due volte.,Dispare duas vezes.,射击两次。
 ABILITY_TWINSHOT2_DESC,Shoot thrice.,,Dispara 3 veces.,Vous tirez 3&nbsp;fois.,Feuere drei Schüsse.,Spari tre volte.,Dispare três vezes.,射击三次。
 ABILITY_CROSSSHOT_NAME,Cross Shot,,Tiro cruzado,Tir croisé,Kreuzschuss,Tiro Incrociato,Tiro Cruzado,十字射击
-ABILITY_CROSSSHOT_DESC,Shoot four projectiles in an X shape.,,Dispara 4 proyectiles en forma de equis.,Vous tirez 4&nbsp;projectiles dans une zone en forme de X.,Feuere vier Geschosse in X-Form.,Spari quattro proiettili a forma di X.,Dispare quatro projéteis em uma forma de X.,呈X形发射四枚投射物。
-ABILITY_CROSSSHOT2_DESC,Shoot four penetrating projectiles in an X shape.,,Dispara 4 proyectiles perforantes en forma de equis.,Vous tirez 4&nbsp;projectiles pénétrants dans une zone en forme de X.,Feuere vier durchbohrende Geschosse in X-Form.,Spari quattro proiettili perforanti a forma di X.,Dispare quatro projéteis penetrantes em uma forma de X.,呈X形发射四枚穿透性投射物。
+ABILITY_CROSSSHOT_DESC,Shoot four projectiles in an X shape.,,Dispara 4 proyectiles en forma de equis.,Vous tirez 4&nbsp;projectiles dans une zone en forme de X.,Feuere vier Geschosse in X-Form.,Spari quattro proiettili a forma di X.,Dispare quatro projéteis em uma forma de X.,呈 X 形发射四枚投射物。
+ABILITY_CROSSSHOT2_DESC,Shoot four penetrating projectiles in an X shape.,,Dispara 4 proyectiles perforantes en forma de equis.,Vous tirez 4&nbsp;projectiles pénétrants dans une zone en forme de X.,Feuere vier durchbohrende Geschosse in X-Form.,Spari quattro proiettili perforanti a forma di X.,Dispare quatro projéteis penetrantes em uma forma de X.,呈 X 形发射四枚穿透性投射物。
 ABILITY_BAITTRAP_NAME,Bait Trap,,Trampa con cebo,Piège à appât,Köderfalle,Trappola con Esca,Armadilha de Isca,诱饵陷阱
 ABILITY_BAITTRAP_DESC,Set a bait trap that attracts enemies.,,Coloca una trampa con cebo que atrae a los enemigos.,Vous installez un piège à appât pour attirer les ennemis.,"Lege eine Köderfalle, die Gegner anlockt.",Posizioni una trappola con esca che attira i nemici.,Prepare uma armadilha de isca que atrai inimigos.,设置一个吸引敌人的诱饵陷阱。
 ABILITY_BAITTRAP2_DESC,Set a bait trap that attracts enemies and inflicts Poison and Slow when eaten.,,Coloca una trampa con cebo que atrae a los enemigos e inflige veneno y ralentización al comerse.,Vous installez un piège à appât pour attirer les ennemis qui leur inflige Poison et Lenteur s'ils le mangent.,"Lege eine Köderfalle, die Gegner anlockt und Gift und Verlangsamung verursacht, wenn jemand sie frisst.",Posizioni una trappola con esca che attira i nemici e infligge Veleno e Rallentamento quando viene mangiata.,Prepare uma armadilha de isca que atrai inimigos e aplica veneno e lentidão ao ser comida.,"设置一个吸引敌人的诱饵陷阱，
@@ -6066,57 +6066,57 @@ ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behi
 将其摔到你身后的地块上，
 造成 3 层淤伤和定身。"
 ABILITY_MOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_MOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 移动
+ABILITY_MOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,使{he}移动
 ABILITY_MOVE_DESC_M,,,,,,,,
 ABILITY_MOVE_DESC_F,,,,,,,,
 ABILITY_MOVE_DESC_N,,,,,,,,
 ABILITY_JUMP_NAME,Jump,,Salto,Saut,Sprung,Salto,Pulo,跳跃
-ABILITY_JUMP_DESC,{he} jump,,Salta.,{he} saute.,Da springt {he},Salta,{he} pula,{he} 跳
+ABILITY_JUMP_DESC,{he} jump,,Salta.,{he} saute.,Da springt {he},Salta,{he} pula,使{he}跳跃
 ABILITY_JUMP_DESC_M,,,,,,,,
 ABILITY_JUMP_DESC_F,,,,,,,,
 ABILITY_JUMP_DESC_N,,,,,,,,
 ABILITY_TELEPORT_NAME,Teleport,,Teletransporte,Téléportation,Teleport,Teletrasporto,Teletransporte,传送
-ABILITY_TELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he} 传送
+ABILITY_TELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,使{he}传送
 ABILITY_TELEPORT_DESC_M,,,,,,,,
 ABILITY_TELEPORT_DESC_F,,,,,,,,
 ABILITY_TELEPORT_DESC_N,,,,,,,,
 ABILITY_DIG_NAME,Dig,,Excavación,Fouilles,Graben,Scavo,Cavar,挖掘
-ABILITY_DIG_DESC,{he} dig,,Excava.,{he} creuse.,Da gräbt {he},Scava,{he} cava,{he} 挖
+ABILITY_DIG_DESC,{he} dig,,Excava.,{he} creuse.,Da gräbt {he},Scava,{he} cava,使{he}挖掘
 ABILITY_DIG_DESC_M,,,,,,,,
 ABILITY_DIG_DESC_F,,,,,,,,
 ABILITY_DIG_DESC_N,,,,,,,,
 ABILITY_SHADOWSTEP_NAME,Shadowstep,,Paso sombrío,Pas de l'ombre,Schattenschritt,Passo d'Ombra,Passo Sombrio,暗影步
-ABILITY_SHADOWSTEP_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he} 传送
+ABILITY_SHADOWSTEP_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,使{he}传送
 ABILITY_SHADOWSTEP_DESC_M,,,,,,,,
 ABILITY_SHADOWSTEP_DESC_F,,,,,,,,
 ABILITY_SHADOWSTEP_DESC_N,,,,,,,,
 ABILITY_SWAP_NAME,Swap,,Intercambio,Échange,Austausch,Scambio,Troca,交换
-ABILITY_SWAP_DESC,{he} swap,,Se intercambia.,{he} change deplace.,Was macht {he} da,Si scambia,{he} troca,{he} 交换
+ABILITY_SWAP_DESC,{he} swap,,Se intercambia.,{he} change deplace.,Was macht {he} da,Si scambia,{he} troca,使{he}交换
 ABILITY_SWAP_DESC_M,,,,,,,,
 ABILITY_SWAP_DESC_F,,,,,,,,
 ABILITY_SWAP_DESC_N,,,,,,,,
 ABILITY_SWIMMERMOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_SWIMMERMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 移动
+ABILITY_SWIMMERMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,使{he}移动
 ABILITY_SWIMMERMOVE_DESC_M,,,,,,,,
 ABILITY_SWIMMERMOVE_DESC_F,,,,,,,,
 ABILITY_SWIMMERMOVE_DESC_N,,,,,,,,
 ABILITY_TRAMPLEMOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_TRAMPLEMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 移动
+ABILITY_TRAMPLEMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,使{he}移动
 ABILITY_TRAMPLEMOVE_DESC_M,,,,,,,,
 ABILITY_TRAMPLEMOVE_DESC_F,,,,,,,,
 ABILITY_TRAMPLEMOVE_DESC_N,,,,,,,,
 ABILITY_MOVEONETILE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_MOVEONETILE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he}移动
+ABILITY_MOVEONETILE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,使{he}移动
 ABILITY_MOVEONETILE_DESC_M,,,,,,,,
 ABILITY_MOVEONETILE_DESC_F,,,,,,,,
 ABILITY_MOVEONETILE_DESC_N,,,,,,,,
 ABILITY_MAXTELEPORT_NAME,Teleport,,Teletransporte,Téléportation,Teleport,Teletrasporto,Teletransporte,传送
-ABILITY_MAXTELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he}传送
+ABILITY_MAXTELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,使{he}传送
 ABILITY_MAXTELEPORT_DESC_M,,,,,,,,
 ABILITY_MAXTELEPORT_DESC_F,,,,,,,,
 ABILITY_MAXTELEPORT_DESC_N,,,,,,,,
 ABILITY_FLOAT_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_FLOAT_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he}移动
+ABILITY_FLOAT_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,使{he}移动
 ABILITY_FLOAT_DESC_M,,,,,,,,
 ABILITY_FLOAT_DESC_F,,,,,,,,
 ABILITY_FLOAT_DESC_N,,,,,,,,

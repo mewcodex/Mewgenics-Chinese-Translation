@@ -11,8 +11,8 @@ CONTROL_BINDING_ANY,Any Button,,Cualquier botón,N'importe quelle touche,Beliebi
 CONTROL_BINDING_LEFTCLICK,Left Click,,Clic izquierdo,Clic gauche,Linksklick,Clic sinistro,Botão esquerdo do mouse,左键单击
 CONTROL_BINDING_RIGHTCLICK,Right Click,,Clic derecho,Clic droit,Rechtsklick,Clic destro,Botão direito do mouse,右键单击
 CONTROL_BINDING_MIDDLECLICK,Middle Click,,Clic central,Clic molette,Mittlere Maustaste,Clic centrale,Botão do meio do mouse,中键单击
-CONTROL_BINDING_MOUSE4,Mouse 4,,Ratón 4,Clic&nbsp;4,Maus 4,Mouse 4,Mouse 4,鼠标键4
-CONTROL_BINDING_MOUSE5,Mouse 5,,Ratón 5,Clic&nbsp;5,Maus 5,Mouse 5,Mouse 5,鼠标键5
+CONTROL_BINDING_MOUSE4,Mouse 4,,Ratón 4,Clic&nbsp;4,Maus 4,Mouse 4,Mouse 4,鼠标键 4
+CONTROL_BINDING_MOUSE5,Mouse 5,,Ratón 5,Clic&nbsp;5,Maus 5,Mouse 5,Mouse 5,鼠标键 5
 CONTROL_BINDING_MOUSEX,Mouse,,Ratón,Souris,Maus,Mouse,Mouse,鼠标
 CONTROL_BINDING_MOUSEY,Mouse,,Ratón,Souris,Maus,Mouse,Mouse,鼠标
 CONTROL_BINDING_MOUSEWHEELX,Mouse Wheel,,Rueda del ratón,Molette,Mausrad,Rotellina del mouse,Roda do mouse,鼠标滚轮
@@ -84,10 +84,10 @@ SETTINGS_COMBATSPEED_LABEL,Combat Speed,,Velocidad de combate,Vitesse de combat,
 SETTINGS_TOOLTIPSIZE_LABEL,Tooltip Size,,Tamaño de información,Taille des infobulles,Größe von Tooltipps,Dimensione suggerimenti,Tamanho das dicas,提示框大小
 SETTINGS_STATUSBARSIZE_LABEL,Status Bar Size,,Tamaño de barra de estado,Taille de la barre de statut,Größe der Statusleiste,Dimensione barra di stato,Tamanho da barra de estado,状态栏大小
 SETTINGS_SAVEFILEBACKUP_LABEL,Save File Backup Period,,Intervalo de guardado de archivos,Fréquence des sauvegardes auto.,Backupfrequenz von Speicherständen,Frequenza backup dei salvataggi,Frequência de backup de salvamentos,存档备份间隔
-SETTINGS_SAVEFILEBACKUP_OPT_15,15 min,,15 min,15&nbsp;min,15 Min.,15 min,15min,15分钟
-SETTINGS_SAVEFILEBACKUP_OPT_30,30 min,,30 min,30&nbsp;min,30 Min.,30 min,30min,30分钟
-SETTINGS_SAVEFILEBACKUP_OPT_60,1 hr,,1 h,1&nbsp;h,1 Std.,1 ora,1h,1小时
-SETTINGS_SAVEFILEBACKUP_OPT_120,2 hr,,2 h,2&nbsp;h,2 Std.,2 ore,2h,2小时
+SETTINGS_SAVEFILEBACKUP_OPT_15,15 min,,15 min,15&nbsp;min,15 Min.,15 min,15min,15 分钟
+SETTINGS_SAVEFILEBACKUP_OPT_30,30 min,,30 min,30&nbsp;min,30 Min.,30 min,30min,30 分钟
+SETTINGS_SAVEFILEBACKUP_OPT_60,1 hr,,1 h,1&nbsp;h,1 Std.,1 ora,1h,1 小时
+SETTINGS_SAVEFILEBACKUP_OPT_120,2 hr,,2 h,2&nbsp;h,2 Std.,2 ore,2h,2 小时
 SETTINGS_SAVEFILEBACKUP_OPT_0,Never,,Nunca,Jamais,Nie,Mai,Nunca,从不
 SETTINGS_VIDEO_HEADER,Video Settings,,Ajustes de vídeo,Réglages vidéo,Video,Impostazioni video,Vídeo,视频设置
 SETTINGS_FULLSCREEN_LABEL,Fullscreen,,Pantalla completa,Plein écran,Vollbild,Schermo intero,Tela cheia,全屏
@@ -154,7 +154,7 @@ MAIN_MENU_PLAY,Play,,Jugar,Jouer,Spielen,Gioca,Jogar,开始游戏
 MAIN_MENU_SETTINGS,Settings,,Ajustes,Réglages,Einstellungen,Impostazioni,Configurações,设置
 MAIN_MENU_QUIT,Quit,,Salir,Quitter,Beenden,Esci,Sair,退出
 MAIN_MENU_CREDITS,Credits,,Créditos,Générique,Mitarbeitende,Riconoscimenti,Créditos,制作人员
-MAIN_MENU_COMMUNITY_DISCORD,Community Discord,,Discord de la comunidad,Communauté Discord,Community Discord,Discord della community,Discord,社区Discord
+MAIN_MENU_COMMUNITY_DISCORD,Community Discord,,Discord de la comunidad,Communauté Discord,Community Discord,Discord della community,Discord,社区 Discord
 MAIN_MENU_MEOW,Meow,,Maullido,Miauler,Miau,Miao,Miau,喵
 MAIN_MENU_DELETEFILE,Terminate,,Borrar,Exterminer,Terminieren,Termina,Apagar,删除
 MAIN_MENU_DELETECONFIRMATION,"Are you sure you want to erase
@@ -214,7 +214,7 @@ ITEM_THEBLACKBOX_NAME,the box,,la caja,La boîte,die box,la scatola,a caixa,黑�
 ITEM_THEBLACKBOX_DESC,Use: Find and equip a random item into one of your empty item slots.,,Uso: Encuentra y equipa un objeto al azar en uno de los espacios de objeto vacíos.,Utilisation&nbsp;: trouvez et équipez un objet aléatoire dans l'un de vos emplacements d'objet vides.,Benutzen: Finde einen zufälligen Gegenstand und rüste ihn aus.,Uso: Trova ed equipaggia un oggetto casuale in uno dei tuoi slot oggetto vuoti.,Uso: encontre e equipe um item aleatório em de seus espaços vazios de itens.,"使用：寻找并装备一件随机物品
 到你的一个空物品槽中。"
 ,,,,,,,,
-ITEM_UNSTABLEDNA_NAME,Unstable DNA,,ADN inestable,ADN instable,Instabile DNA,DNA Instabile,DNA Instável,不稳定DNA
+ITEM_UNSTABLEDNA_NAME,Unstable DNA,,ADN inestable,ADN instable,Instabile DNA,DNA Instabile,DNA Instável,不稳定 DNA
 ITEM_UNSTABLEDNA_DESC,"Use: Gain 6 random stat ups and 3 random stat downs, then gain 3 Mutations at the end of combat.",,"Uso: Obtiene 6 aumentos de atributo al azar y 3 reducciones de atributo al azar. Luego, obtiene 3 mutaciones al final del combate.","Utilisation&nbsp;: vous obtenez 6&nbsp;hausses de stats aléatoires et 3&nbsp;baisses de stats aléatoires, puis 3&nbsp;mutations à la fin du combat.",Benutzen: Erhalte am Ende des Kampfes 6&nbsp;Boni und 3&nbsp;Malusse auf zufällige Attribute. Erhalte anschließend 3&nbsp;Mutationen.,"Uso: Ottieni 6 potenziamenti casuali alle statistiche e 3 riduzioni casuali alle statistiche, poi ottieni 3 Mutazioni alla fine del combattimento.","Uso: obtenha 6 atributos aleatórios aumentados e 3 atributos aleatórios diminuídos, e então obtenha 3 mutações no final do combate.","使用：获得 6 个随机属性提升
 和 3 个随机属性下降，
 然后在战斗结束时获得 3 个突变。"
@@ -264,8 +264,8 @@ NPCOFFICE_NAME_BUTCH,Butch's Hideout,,Guarida de Butch,Planque de Butch,Untersch
 NPCOFFICE_NAME_TINK,Tink's Trailer,,Caravana de Tink,Caravane de Tink,Tinks Wohnwagen,Roulotte di Tink,Trailer de Tink,廷克的拖车
 NPCOFFICE_NAME_FRANK,Frank's Sewer,,Alcantarilla de Frank,Égouts de Frank,Franks Kanalisation,Fogna di Frank,Esgoto de Frank,弗兰克的下水道
 NPCOFFICE_NAME_JACK,Jack's Shack,,Chabola de Jack,Taudis de Jack,Jacks Hütte,Baracca di Jack,Cabana de Jack,杰克的小屋
-NPCOFFICE_NAME_TRACY,P Mart,,MercaMascota,Patoune Market,P-Markt,P Mart,P Mart,P商城
-NPCOFFICE_NAME_ORGANGRINDER,{organname}'s Box,,Caja de {organname},Boîte ({organname}),Box von {organname},Scatola di {organname},Caixa de {organname},{organname}的盒子
+NPCOFFICE_NAME_TRACY,P Mart,,MercaMascota,Patoune Market,P-Markt,P Mart,P Mart,P 商城
+NPCOFFICE_NAME_ORGANGRINDER,{organname}'s Box,,Caja de {organname},Boîte ({organname}),Box von {organname},Scatola di {organname},Caixa de {organname},{organname} 的盒子
 NPCOFFICE_NAME_STEVEN,The Box,,La Caja,La Boîte,Die Box,La Scatola,A Caixa,盒子
 ,,,,,,,,
 NPCMAP_NAME_HOME,Home,,Casa,Maison,Haus,Casa,Casa,家
